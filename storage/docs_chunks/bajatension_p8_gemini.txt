@@ -1,0 +1,90 @@
+1
+Equipos de maniobra
+
+Para mayor información:
+https://w3.siemens.com/mcms/industrial-controls/en/
+controls/contactor/Pages/default.aspx
+
+Conversor de productos:
+https://mall.industry.siemens.com/spicecad/ut/main/
+
+1/3
+Contactores de fuerza tripolares para maniobra de motores
+
+1/3
+Datos generales
+1/8
+Contactores SIRIUS 3RT20, de 3 polos, 3... 18,5 kW
+1/12
+Contactores SIRIUS 3RT20, de 3 polos, 18,5... 37 kW
+1/15
+Contactores SIRIUS 3RT20, de 3 polos, 15... 250 kW
+1/16
+Contactores SIRIUS 3RT, de 3 polos... 250 kW
+1/17
+Contactores SIRIUS 3RT de 3 polos hasta 250 kW
+1/19
+Contactores de vacío 3TF6, de 3 polos, 335... 450 kW
+
+1/20
+Combinaciones de contactores
+1/20
+Combinación de contactores 3RA29 y 3RA19
+1/20
+Combinaciones para inversión SIRIUS 3RA23
+
+1/21
+Accesorios y piezas de repuesto
+1/21
+Para contactores 3RT y contactores auxiliares 3RH
+1/21
+Accesorios / Módulos de cableado
+
+1/21
+Módulos de función para montar en contactores SIRIUS 3RT2
+1/21
+Módulos de función SIRIUS para IO-Link y AS-Interface
+
+1/24
+Contactores auxiliares
+1/24
+Datos generales
+1/25
+Contactores auxiliares SIRIUS 3RH2, de 4 y 8 polos
+
+1/26
+Accesorios para contactores
+1/26
+Para contactores y contactores auxiliares 3RT2, 3RH2
+1/27
+Bloques de contactos auxiliares
+
+1/28
+Contactores auxiliares
+1/28
+Contactores auxiliares SIRIUS 3RH2, de 4 y 8 polos
+
+1/29
+Accesorios para contactores
+1/29
+Para contactores y contactores auxiliares 3RT2, 3RH2
+1/29
+Bloques de contactos auxiliares
+1/30
+Limitadores de sobretensión
+
+1/32
+Accesorios y piezas de repuesto
+1/32
+Para contactores SIRIUS 3RT y contactores auxiliares SIRIUS 3RH
+1/33
+Para contactores SIRIUS 3RT y contactores auxiliares 3RH2
+1/33
+Piezas de repuesto / Bobinas solenoides
+1/34
+Piezas de repuesto / Contactos y cámaras de arqueo
+
+1/35
+Relés de acoplamiento
+1/35
+Relés de acoplamiento con relés enchufables LZS/LZX

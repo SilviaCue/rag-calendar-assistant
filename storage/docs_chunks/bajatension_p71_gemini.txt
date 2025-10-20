@@ -1,0 +1,60 @@
+Interruptores automáticos
+Guardamotores SIRIUS 3RV2 hasta 80 A
+
+Datos generales
+
+Modo de protección "Seguridad elevada" EEx e según la directiva ATEX 94/9/CE
+
+Los interruptores automáticos 3RV20 son adecuados para la protección de motores por sobrecarga y cortocircuito.
+
+Los productos innovadores del portafolio SIRIUS de equipo de control industrial pueden ofrecer una contribución substancial a la eficiencia energética; véalo en www.siemens.com/sirius/energysaving.
+
+3
+
+Gama de aplicación
+
+Condiciones de montaje
+
+Los guardamotores 3RV2 son resistentes a los efectos del clima. Están destinados a ser empleados en recintos cerrados sin condiciones de funcionamiento difíciles (p. ej. polvo, vapores corrosivos, gases dañinos). Si se instalan en recintos con alto grado de polvo y húmedos, deberán protegerse con envolventes adecuadas.
+
+Los guardamotores 3RV2 se pueden alimentar por arriba o por abajo.
+
+Los valores como las temperaturas ambiente admisibles, el poder de corte máximo, las intensidades de disparo, así como las demás condiciones límite para la aplicación, los encontrará en los "datos técnicos" y en las características de disparo.
+
+Los guardamotores 3RV2 también son adecuados para el uso en sistemas IT (redes TI). Aquí deberán observarse las diferentes potencias de corte con cortocircuito del sistema IT.
+
+Dado que las intensidades de empleo, las intensidades de arranque y la rapidez de conexión pueden variar incluso en motores de la misma potencia —lo que se debe a la subida de la corriente al conectar—, las potencias de los motores indicadas en las tablas de selección no son más que valores aproximados.
+
+Para elegir la variante adecuada del interruptor automático deberán considerarse los datos de arranque y los datos asignados concretos del motor a proteger. Esto vale igualmente para los guardamotores y/o para la protección de transformadores.
+
+Normas
+
+IEC 60947-1: 2014-09,Edition 5.2 Annex N
+
+ANSI/UL 60947-1, "Low-Voltage Switchgear and Controlgear-Part 1: General Rules,"
+
+ANSI/UL 60947-4-1, "Low-Voltage Switchgear and Controlgear – Part 4-1:Contactors and MotorStarters-Electromechanical Contactors and Motor-Starters."
+
+CAN/CSA-C22.2 No. 60947-1-2013, "Low-Voltage Switchgear and Controlgear Part 1: General Rules,"
+
+CAN/CSA-C22.2 No. 60947-4-1-2014, "Low-Voltage Switchgear and Controlgear – Part 4-1: Contactors and Motor-Starters-Electromechanical Contactors and Motor-Starters."
+
+NMX-J-515-ANCE Equipos de control y distribución-requisitos generales de seguridad-Especificaciones y métodos de prueba
+
+NOM-003-SCFI Productos eléctricos-Especificaciones de seguridad
+
+Posibilidades de aplicación
+
+Los guardamotores 3RV2 pueden usarse:
+• Para la protección contra cortocircuitos.
+• Para la protección de motores (también con función de relé de sobrecarga).
+• Para la protección de distribuciones.
+• Para la protección contra cortocircuitos de combinaciones de arranque.
+• Para la protección de transformadores.
+• Para la función de interruptor principal y de parada de emergencia.
+• Para la aplicación en sistemas IT (redes TI).
+• Para la maniobra de corriente continua.
+• En áreas con peligro de explosión (ATEX).
+
+3/4
+Catálogo de baja tensión, control y distribución

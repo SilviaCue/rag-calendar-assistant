@@ -1,0 +1,66 @@
+SIRIUS ACT Botones pulsadores y lámparas indicadoras
+Botoneras
+Módulos para botoneras
+
+Datos para selección y pedidos
+
+Versión de contacto   Número de       Número de       SD      Terminal tornillo      Referencia
+                      contactos NA    contactos NC
+
+Bloque de contacto para montaje para base
+Aleación Plata
+                      1               0                       3SU1400-2AA10-1BA0
+IC01_00448
+.3 3-4 .4
+0 1 2 3 4
+mm
+2,5
+3SU1400-2AA10-1BA0
+
+                      0               1               ⊕       3SU1400-2AA10-1CA0
+IC01_00449
+.1 1-2 .2
+0 1 2 3 4
+mm
+1,2
+
+Aleación Oro
+NUEVO
+                      1               0                 5     3SU1400-2AA10-1LA0
+IC01_00448
+.3 3-4 .4
+0 1 2 3 4
+mm
+2,5
+3SU1400-2AA10-1LA0
+
+                      0               1               ⊕ 5     3SU1400-2AA10-1MA0
+IC01_00449
+.1 1-2 .2
+0 1 2 3 4
+mm
+1,2
+
+Bornes de resorte
+Aleación plata
+                      1               0                       3SU1400-2AA10-3BA0
+IC01_00448
+.3 3-4 .4
+0 1 2 3 4
+mm
+2,5
+3SU1400-2AA10-3BA0
+
+                      0               1               ⊕       3SU1400-2AA10-3CA0
+IC01_00449
+.1 1-2 .2
+0 1 2 3 4
+mm
+1,2
+
+⊕ Apertura positiva de acuerdo a IEC 60947-5-1, anexo K.
+Pueden ser usados con relés de seguridad 3SK11 o con el sistema modular Safety 3RK3.
+
+6
+
+Catálogo de baja tensión, control y distribución 6/55

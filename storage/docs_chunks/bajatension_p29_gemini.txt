@@ -1,0 +1,65 @@
+Módulos de función para montar en contactores SIRIUS 3RT2
+
+Módulos de función SIRIUS para IO-Link y AS-Interface
+
+Datos para selección y pedidos
+
+1
+Versión                                                               PE    Bornes de      Bornes de
+                                                                            tornillo       resorte
+                                                                            Referencia     Referencia
+
+Módulos de función para arranque directo
+Conexión IO-Link                                                            3RA2711-1AA00  3RA2711-2AA00
+Incluye un conector modular para la construcción de un
+grupo IO-Link
+
+3RA27 11-1AA00
+3RA27 11-2AA00
+
+Módulos de función para arranque inversor¹)
+Conexión IO-Link,                                                           3RA2711-1BA00  3RA2711-2BA00
+compuesta por un módulo básico y un módulo de
+acoplamiento, así como un conector modular adicional
+para construir un grupo IO-Link
+
+3RA27 11-1BA00
+Kits para montar combinaciones de
+contactores de 3 polos
+El kit incluye:
+módulo de enclavamiento mecánico, 2 clips de unión
+para 2 contactores, módulos de cableado arriba y abajo
+
+• Para el tamaño S00:                                                         3RA2913-2AA1   3RA2913-2AA2
+• Para el tamaño S2:
+  - Para corriente principal, auxiliar y de mando                           3RA2923-2AA1   —
+  - Solo para corriente principal                                             —              3RA2923-2AA2
+3RA29 23-2AA1
+
+Módulos de función para arranque estrella-delta²)
+Conexión IO-Link,                                                           3RA2711-1CA00  3RA2711-2CA00
+consistente en un módulo básico, dos módulos de
+acoplamiento y un conector modular adicional para el
+montaje de un grupo de IO-Link
+
+3RA27 11-1CA00
+Kits para montar combinaciones de
+contactores de 3 polos
+El kit incluye:
+módulo de enclavamiento mecánico, 4 clips de unión
+para 3 contactores, puente de neutro,
+módulos de cableado arriba y abajo
+
+• Para el tamaño S00:                                                         3RA2913-2BB1   3RA2913-2BB2
+• Para el tamaño S2:
+  - Para corriente principal, auxiliar y de mando                           3RA2923-2BB1   —
+  - Solo para corriente principal                                             —              3RA2923-2BB2
+3RA29 23-2BB1
+
+Requiere contactores adecuados con interfaz de comunicación                 1) Si se utilizan módulos de función para estrella-delta no se necesitarán los
+Nota:                                                                          módulos de cableado para los circuitos auxiliares.
+Utilizando los módulos de función no podrán montarse más bloques de         2) Versión en tamaño S0 con bornes de resorte:
+contactos auxiliares en los equipos básicos.                                   solo se incluyen los módulos de cableado para el circuito principal.
+                                                                               No se incluyen conectores para el circuito auxiliar y de mando.
+
+1/22       Catálogo de baja tensión, control y distribución

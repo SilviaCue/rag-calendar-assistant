@@ -1,0 +1,111 @@
+Botonería y Señalización
+NEMA Clase 52, Ø30.5 mm
+
+Dimensiones
+
+Botón pulsador momentáneo
+no iluminado rasante
+
+.94 [24]
+1.00 [25]
+1.74 [44]
+2.74 [69]
+1.06 [27]
+2.12 [54]
+
+Botón pulsador hongo momentáneo
+no iluminado plástico 1 3/4”
+
+1.75 [44]
+1.75 [44]
+1.00 [25]
+1.74 [44]
+2.74 [69]
+1.06 [27]
+2.12 [54]
+
+Botón pulsador hongo momentáneo
+no iluminado plástico 2 1/2”
+
+2.50 [64]
+1.75 [44]
+1.00 [25]
+1.74 [44]
+2.74 [69]
+1.06 [27]
+2.12 [54]
+
+Lámpara indicadora
+
+1.85 (47)
+1.00 (25)
+3.31
+(84)
+1.24
+(31)
+1.70 (43)
+
+Lámpara indicadora
+cubierta de plástico
+
+1.24 [31]
+2.25 [57]
+1.52 [38]
+1.09 [28]
+
+Botón pulsador momentáneo
+no iluminado saliente
+
+1.37 [35]
+1.00 [25]
+1.74 [44]
+2.74 [69]
+1.06 [27]
+2.12 [54]
+
+7
+
+Selector de llave
+
+1.56 [39]
+1.00 [25]
+1.38 [35]
+2.38 [60]
+1.06 [27]
+2.12 [54]
+
+Botón pulsador iluminado rasante
+Botón pulsador iluminado saliente
+Botón iluminado Push to Test
+
+1.50 [38]
+EXTENDED LENS &
+PUSH TO TEST
+.94 [24]
+FLUSH LENS
+2.25 [57]
+1.52 [38]
+1.00 [25]
+1.74 [44]
+2.74 [69]
+1.09 [28]
+1.06 [27]
+
+Botón iluminado
+
+1.70 (43)
+1.52
+(39)
+2.25
+(57)
+1.74
+(44)
+2.74
+(70)
+1.09
+(28)
+1.05
+(27)
+
+Catálogo de baja tensión, control y distribución
+7/43

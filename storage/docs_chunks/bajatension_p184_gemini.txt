@@ -1,0 +1,81 @@
+SIRIUS ACT Botones pulsadores y lámparas indicadoras
+Accesorios/Plaquitas
+
+Plaquitas
+
+Opciones
+Inscripciones personalizadas
+
+Las plaquitas se pueden inscribir con texto y símbolos
+Las inscripciones de texto se alinean al centro
+• Tamaño de la etiqueta 12.5 mm × 27 mm, máx. 3 líneas:
+altura de la fuente 4 mm (1-línea), 3.5 mm (2- línea) o 2.5
+mm (3- línea)
+• Tamaño de la etiqueta 17.5 mm × 27 mm, máx. 3 líneas:
+altura de la fuente 4 mm (1- a 2- líneas) o 3 mm (3-líneas)
+• Tamaño de la etiqueta 27 mm × 27 mm, máx. 5 líneas: altura
+de la fuente 4 mm (1- a 5- líneas)
+
+Hasta 11 caracteres por línea se pueden inscribir la tipografía es
+Arial. Otros tipos de alturas y tipografía es posible, pero deben
+de ser especificados al ordenar:
+
+Ejemplos para inscripciones personalizadas
+
+Lift
+Off
+
+Inscripción en dos líneas en mayúsculas y minúsculas (Q0Y)
+
+LIFT
+
+Inscripción una línea en mayúsculas (Q1Y)
+
+lift
+off
+lower
+
+Inscripción de tres líneas en minúsculas(Q2Y)
+
+Número de símbolo 5011 de acuerdo a IEC 6041 (Q3Y)
+
+Cualquier símbolo de acuerdo al diseño del cliente
+
+Notas de orden
+
+Agregue los siguientes códigos de orden al número de parte
+Q0Y: Líneas de texto en mayúsculas y minúsculas, todas las
+líneas comienzan con mayúsculas
+Q1Y: Línea(s) de texto en mayúsculas
+Q2Y: Línea(s) de texto en minúsculas
+Q5Y: Líneas de texto en mayúsculas y minúsculas, todas las
+líneas comienzan con mayúsculas
+Q3Y: Símbolo con número de acuerdo a ISO 7000o IEC 60417
+Q9Y: Inscripción a libre elección, texto o símbolo, solo puede
+utilizarse vía configurador de SIRIUS ACT con el número de
+identificación de configuración (CIN)
+
+Ejemplo de orden 1
+Plaquita con 2 líneas de texto si es requerido:
+3SU1900-0AC16-0AZ0
+Q1Y
+Z1 = ARRIBA
+Z2 = ABAJO
+
+Ejemplo de orden 2:
+Plaquita con inscripción de símbolo No. 5011 de acuerdo con
+IEC 60417 es necesario:
+3SU1900-0AC16-0AZ0
+Q3Y
+Z = 5011 IEC
+
+Ejemplo de orden 3
+Plaquita con inscripción de símbolo No. 1118 de acuerdo con
+ISO 7000 es necesario:
+3SU1900-0AC16-0AZ0
+Q3Y
+Z = 1118 ISO
+
+9
+
+Catálogo de baja tensión, control y distribución 6/61

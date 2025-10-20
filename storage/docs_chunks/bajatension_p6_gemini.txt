@@ -1,0 +1,28 @@
+Equipos eléctricos de control, distribución
+y de protección de baja tensión
+
+El presente catálogo
+constituye una
+herramienta de
+selección de equipos
+eléctricos de control,
+distribución y de
+protección de baja
+tensión.
+
+La estructura del mismo está acompañada de fotos de cada tipo de equipo el
+cual es una ayuda visual para el lector.
+
+Al comienzo de cada capítulo y dispositivo, se presentan las características eléc-
+tricas, indicando las normas con las cuales cumplen los equipos. En el caso de
+los equipos que llevan accesorios, se establece un dibujo en el que se muestran
+la distribución y lugar de montaje en el equipo central de dichos accesorios.
+
+También se dedica una sección con las características de los interruptores en va-
+cío y contactores de media tensión, así como del tablero “Simoprime” para alojar
+éstos equipos.
+
+Al final de este catálogo, se da un glosario en el cual se encuentran términos
+afines, criterios de selección, tablas técnicas tomadas de la NOM-001 2012, todo
+esto con el fin de que el lector tenga una ayuda complementaria para la selec-
+ción de los equipos Siemens.

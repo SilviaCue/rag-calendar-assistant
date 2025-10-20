@@ -1,0 +1,80 @@
+Relevadores de Sobrecarga Electrónicos NEMA ESP200
+
+Datos generales
+
+Datos para selección y pedidos
+
+Relevadores de sobrecarga ESP200®
+
+Rango de ajuste de corriente Fases Tamaño del marco MLFB
+0.25-1 1 A 3UB88134AB2
+0.75-3.4 1 A 3UB88134BB2
+3-12 1 A1 3UB88234CW2
+5.5-22 1 A1 3UB88234DW2
+10-40 1 B 3UB88234EW2
+25-100 1 B 3UB88234GW2
+0.25-1 3 A 3UB81134AB2
+0.75-3.4 3 A 3UB81134BB2
+3-12 3 A1 3UB81234CW2
+5.5-22 3 A1 3UB81234DW2
+10-40 3 A1 3UB81234EW2
+13-52 3 B 3UB81334FW2
+25-100 3 B 3UB81334GW2
+50-200 3 B 3UB81334HW2
+100-300 3 A1 3UB881234JW2
+133-400 3 A1 3UB81234KW2
+200-600 3 A1 3UB81234LW2
+250-750 3 A1 3UB881234MW2
+400-1220 3 A1 3UB81234NW2
+
+* Se requieren transformadores de corriente por fase a partir de 200 A.
+
+Trip time in seconds
+1000
+500
+100
+50
+10
+5
+1
+0.5
+
+CLASS 30 - cold start
+CLASS 20 - cold start
+CLASS 10 - cold start
+CLASS 5 - cold start
+CLASS 5 - warm start
+
+1 1.5 2 5 10
+multiple of full load amp (FLA)
+
+7
+
+Accesorios
+
+Descripción Número de catálogo
+ESP200® Cubierta anti suciedad y aceite 49ASTC1
+
+ESP200® Tamaño de marco Tamaño NEMA Número de catálogo
+Placa de montaje A o A1 00 - 1 ¾ US2:49ASMP1
+B 2 - 2 ½ US2:49ASMP2
+B 3 - 4 US2:49ASMP3
+
+Adaptador para placa de montaje y ensamble con contactor US2:49D70084
+Kit para montaje en contactor con tornillo US2:49ASMS1
+Vástago operador de reset, 8” para arrancador Clase 36, 37 y 87 US2:49MARB
+Botón de reset azul para arrancador Clase 14, 22 (solo botón) US2:49MBRS
+Botón de reset rojo para arrancador Clase 14, 22 (solo botón) US2:49MARSR
+Extensión para reset de ESP200® US2:49ASRE
+Capuchón anti suciedad y aceite para reset 49MARSR US2:52AABA
+Transformador de Corriente 300:5 para uso con 3UB81234JW2 US2:97CT005
+Transformador de Corriente 400:5 para uso con 3UB81234KW2 US2:97CT006
+Transformador de Corriente 600:5 para uso con 3UB81234LW2 US2:97CT008
+Transformador de Corriente 750:5 para uso con 3UB81234MW2 US2:97CT009
+Transformador de Corriente 1200:5 para uso con 3UB81234NW2 US2:97CT012
+
+3UB81*
+
+TC´s US2:97CT
+
+Catálogo de baja tensión, control y distribución 7/23

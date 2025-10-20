@@ -1,0 +1,195 @@
+Contactores de fuerza tripolares para maniobra de motores
+
+1
+Contactores SIRIUS 3RT20,
+de 3 polos, 3... 18,5 kW
+
+Datos para selección y pedidos
+Accionamiento CD · Sistema magnético CD
+
+SIEMENS
+3RT20 1..-1B..-0
+
+Datos asignados en la categoría de empleo
+AC-2 y AC-3, Tu: hasta 60 °C
+AC-1, Tu: 40 °C
+Contactos auxiliares
+Tensión asignada de mando Us
+PE
+Bornes de tornillo
+PE
+Bornes de resorte
+Intensidad de empleo Ie hasta 400 V
+Potencias de motores trifásicos a 50/60 Hz y 400 V
+Intensidad de empleo Ie hasta 690 V
+Nº caract. Versión
+Referencia
+Referencia
+A
+kW
+A
+NA NC
+V CD
+
+Para fijación por tornillos y por abroche en perfil TH 35
+Tamaño S00¹⁾
+
+7
+3
+18
+10
+1
+—
+24
+► 3RT2015-1BB41
+3RT2015-2BB41
+220
+► 3RT2015-1BM41
+3RT2015-2BM41
+1
+—
+1
+24
+► 3RT2015-1BB42
+3RT2015-2BB42
+220
+► 3RT2015-1BM42
+3RT2015-2BM42
+
+9
+4
+22
+10
+1
+—
+24
+► 3RT2016-1BB41
+3RT2016-2BB41
+220
+► 3RT2016-1BM41
+3RT2016-2BM41
+1
+—
+1
+24
+► 3RT2016-1BB42
+3RT2016-2BB42
+220
+► 3RT2016-1BM42
+3RT2016-2BM42
+
+12
+5,5
+22
+10
+1
+—
+24
+► 3RT2017-1BB41
+3RT2017-2BB41
+220
+► 3RT2017-1BM41
+3RT2017-2BM41
+1
+—
+1
+24
+► 3RT2017-1BB42
+3RT2017-2BB42
+220
+► 3RT2017-1BM42
+3RT2017-2BM42
+
+16
+7,5
+22
+10
+1
+—
+24
+► 3RT2018-1BB41
+3RT2018-2BB41
+220
+► 3RT2018-1BM41
+3RT2018-2BM41
+1
+—
+1
+24
+► 3RT2018-1BB42
+3RT2018-2BB42
+220
+► 3RT2018-1BM42
+3RT2018-2BM42
+
+Contactores con interfaz de comunicación "IO Link y AS-Interface"
+Denominaciones de las conexiones según EN 50012 o EN 50005
+
+7
+3
+18
+10
+1
+—
+24
+► 3RT20 15-1BB41-0CC0
+3RT20 15-2BB41-0CC0
+1
+—
+1
+24
+► 3RT20 15-1BB42-0CC0
+3RT20 15-2BB42-0CC0
+
+9
+4
+22
+10
+1
+—
+24
+► 3RT20 16-1BB41-0CC0
+3RT20 16-2BB41-0CC0
+1
+—
+1
+24
+► 3RT20 16-1BB42-0CC0
+3RT20 16-2BB42-0CC0
+
+12
+5,5
+22
+10
+1
+—
+24
+► 3RT20 17-1BB41-0CC0
+3RT20 17-2BB41-0CC0
+1
+—
+1
+24
+► 3RT20 17-1BB42-0CC0
+3RT20 17-2BB42-0CC0
+
+16
+7,5
+22
+10
+1
+—
+24
+► 3RT20 18-1BB41-0CC0
+3RT20 18-2BB41-0CC0
+1
+—
+1
+24
+► 3RT20 18-1BB42-0CC0
+3RT20 18-2BB42-0CC0
+
+1) Los contactores 3RT20 pueden suministrarse también con terminal de cable en anillo. Para consultar sobre estas versiones especiales, póngase en contacto con el distribuidor de Siemens para su zona.
+
+1/14
+Catálogo de baja tensión, control y distribución

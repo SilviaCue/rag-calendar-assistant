@@ -1,0 +1,240 @@
+Relés de sobrecarga
+Relés de sobre carga electrónico SIRIUS 3RB3
+Para aplicaciones estándar 3RB30, 3RB31
+
+Datos para selección y pedidos
+Relés de sobre carga electrónicos 3RB30, CLASE 10 E
+
+Características y especificaciones técnicas:
+• Métodos de conexión
+    – Tamaños S00y S0:
+       Circuito principal y de control: terminales tipo tornillo y resorte.
+    – Tamaños S2 y S3:
+       Circuito de fuerza: Ambas terminales tipo tornillo con terminal tipo caja o con transformador directo.
+       Circuito de control: Ambas terminales tipo tornillo y resorte.
+• Protección contra sobre carga, protección por falla de fase y protección por desbalanceo.
+• Alimentación interna.
+• Contactos auxiliares 1 NA + 1 NC.
+• RESET manual y automático.
+
+• Indicador de posición.
+• Función de prueba TEST y auto monitoreo.
+• Cubierta sellables (accesorios opcionales).
+Normas
+IEC 60947-4-1/4-2
+UL 60947-1 & CSA C22.2 NO.60947-1-13 LOW VOLTAGE SWITCHGEAR AND CONTROLGERA -PART 1: GENERAL RULES
+UL 60947-4-1 & CSA C22.2 NO.60947-4-1-14 LOW COLTAGE SWITCHGEAR AND CONTROLGEAR -PART 4-1: CONTACTORS AND MOTOR-STARTERS-ELECTROMECHANICAL CONTACTORS AND MOTORSTARTERS
+NMX-J-515-ANCE Equipos de control y distribución-requisitos generales de seguridad-Especificaciones y métodos de prueba.
+NOM-003-SCFI Productos eléctricos-Especificaciones de seguridad.
+
+3
+SIEMENS
+3RB3016-1.B0
+
+SIEMENS
+3RB3026-1.B0
+
+Tamaño
+contactor
+
+Potencia nominal para
+motores trifásicos,
+valor nominal¹)
+
+Valor de corriente ajustable con
+disparo retrasado de tiempo
+inverso
+
+Protección contra corto circuito
+con fusible, tipo de coordinación
+"2" clase de operación gG²)
+
+PE
+
+Bornes
+de tornillo
+
+Referencia
+
+PE
+
+Bornes
+de resorte
+
+Referencia
+
+kW
+
+A
+
+A
+
+Tamaño S00
+S00
+
+Equipos para montaje en contactor
+
+0.04 ... 0.09
+
+0.1 ... 0.4
+
+4
+
+►
+
+3RB3016-1RB0
+
+2
+
+3RB3016-1RE0
+
+0.12 ... 0.37
+
+0.32 ... 1.25
+
+6
+
+►
+
+3RB3016-1NB0
+
+2
+
+3RB3016-1NE0
+
+0.37 ... 1.5
+
+1 ... 4
+
+20
+
+►
+
+3RB3016-1PB0
+
+2
+
+3RB3016-1PE0
+
+1.5 ... 5.5
+
+3 ... 12
+
+25
+
+►
+
+3RB3016-1SB0
+
+2
+
+3RB3016-1SE0
+
+2.2 ... 7.5
+
+4 ... 16
+
+25
+
+►
+
+3RB3016-1TB0
+
+2
+
+3RB3016-1TE0
+
+Tamaño S0
+S0
+
+Equipos para montaje en contactor
+
+0.04 ... 0.09
+
+0.1 ... 0.4
+
+4
+
+►
+
+3RB3026-1RB0
+
+2
+
+3RB3026-1RE0
+
+0.12 ... 0.37
+
+0.32 ... 1.25
+
+6
+
+►
+
+3RB3026-1NB0
+
+2
+
+3RB3026-1NE0
+
+0.37 ... 1.5
+
+1 ... 4
+
+20
+
+►
+
+3RB3026-1PB0
+
+2
+
+3RB3026-1PE0
+
+1.5 ... 5.5
+
+3 ... 12
+
+25
+
+►
+
+3RB3026-1SB0
+
+2
+
+3RB3026-1SE0
+
+3 ... 11
+
+6 ... 25
+
+50
+
+►
+
+3RB3026-1QB0
+
+2
+
+3RB3026-1QE0
+
+5.5 ... 18.5
+
+10 ... 40
+
+50
+
+►
+
+3RB3026-1VB0
+
+2
+
+3RB3026-1VE0
+
+1) Protección máxima por fusible solo para relés de sobre carga, tipo de coordinación "2".
+2) Con los soportes de terminal apropiados éstos relevadores de sobre carga pueden instalarse de forma independiente.
+
+Catálogo de baja tensión, control y distribución
+3/23

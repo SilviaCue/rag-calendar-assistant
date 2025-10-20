@@ -1,0 +1,250 @@
+Arrancadores suaves 3RW
+Para aplicaciones estándar
+
+3RW40
+
+Datos para selección y pedidos
+
+3RW40 5.
+
+Temperatura ambiente 3RW 40 °C¹)
+Datos asignados de motores trifásicos
+Corriente de empleo Ie
+A
+Potencia a tensión de empleo Ue
+230 V
+kW
+400 V
+kW
+500 V
+kW
+
+3RW40 7.
+
+Temperatura ambiente 3RW 50 °C¹)
+Datos asignados de motores trifásicos
+Corriente de empleo Ie
+A
+Potencia a tensión de empleo Ue
+200 V
+hp
+230 V
+hp
+460 V
+hp
+575 V
+hp
+
+Tamaño
+
+PE
+
+Arranque normal (Clase 10)
+Referencia
+
+Tensión asignada de empleo Ue 200... 460 V²)
+• Con bornes de tornillo o de resorte
+134
+162
+
+37
+45
+
+75
+90
+
+—
+—
+
+117
+145
+
+30
+40
+
+40
+50
+
+75
+100
+
+—
+—
+
+S6
+
+▶ 3RW4055-□BB□4
+▶ 3RW4056-□BB□4
+
+• Con bornes de tornillo o de resorte
+230
+280
+356
+432
+
+75
+90
+110
+132
+
+132
+160
+200
+250
+
+—
+—
+—
+—
+
+205
+248
+315
+385
+
+60
+75
+100
+125
+
+75
+100
+125
+150
+
+150
+200
+250
+300
+
+—
+—
+—
+—
+
+S12
+
+▶ 3RW4073-□BB□4
+▶ 3RW4074-□BB□4
+▶ 3RW4075-□BB□4
+▶ 3RW4076-□BB□4
+
+Tensión asignada de empleo Ue 400... 600 V
+• Con bornes de tornillo o de resorte
+134
+162
+
+—
+—
+
+75
+90
+
+90
+110
+
+117
+145
+
+—
+—
+
+—
+—
+
+75
+100
+
+100
+150
+
+S6
+
+▶ 3RW4055-□BB□5
+▶ 3RW4056-□BB□5
+
+• Con bornes de tornillo o de resorte
+230
+280
+356
+432
+
+—
+—
+—
+—
+
+132
+160
+200
+250
+
+160
+200
+250
+315
+
+205
+248
+315
+385
+
+—
+—
+—
+—
+
+—
+—
+—
+—
+
+150
+200
+250
+300
+
+200
+250
+300
+400
+
+S12
+
+▶ 3RW4073-□BB□5
+▶ 3RW4074-□BB□5
+▶ 3RW4075-□BB□5
+▶ 3RW4076-□BB□5
+
+Complemento de la referencia para el tipo de conexión²)
+• Con bornes de resorte
+• Con bornes de tornillo
+
+6
+2
+
+Complemento de la referencia para la tensión asignada de mando Us⁴⁾
+• 115 V CA
+• 230 V CA
+
+3
+4
+
+1) Montaje individual sin ventilador adicional.
+2) Arrancadores suaves con bornes de tornillo:
+plazo de entrega ► (tipo preferente).
+3) Conexión principal: bornes de tornillo.
+4) Es posible tanto el mando por la alimentación interna de 24 V CD como el mando directo por PLC.
+
+Nota:
+Las potencias de motor indicadas son solo valores aproximados. El diseño del arrancador suave debería ser siempre superior a la corriente asignada de empleo necesaria del motor.
+Los arrancadores suaves electrónicos 3RW40 están diseñados para condiciones de arranque normales. Los datos técnicos para selección y pedidos se han determinado bajo las siguientes condiciones generales:
+• Tiempo de arranque máximo en s: 20
+• Corriente de arranque máxima en % de la corriente del motor Ie: 300
+
+En caso de requisitos mayores podrá ser conveniente elegir un aparato de mayores dimensiones. Sin embargo, las reservas de seguridad consideradas permitirán usar en ciertos casos los aparatos expuestos incluso en condiciones de aplicación más exigentes. Los datos técnicos detallados para un diseño que se ajuste a la medida a la aplicación correspondiente los encontrará en los manuales de los aparatos.
+Recomendamos trabajar con el programa de selección y simulación (Simulation Tool for Soft Starters).
+
+Catálogo de baja tensión, control y distribución
+
+2/7

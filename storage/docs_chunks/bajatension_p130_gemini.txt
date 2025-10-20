@@ -1,0 +1,80 @@
+SIRIUS ACT Botones pulsadores y lámparas indicadoras
+
+Datos Generales
+
+Beneficios
+Diseño
+
+Plastic
+black
+Ø 22 mm
+
+Plastic
+metal ring
+matte
+Ø 22 mm
+
+Metal
+shiny
+Ø 22 mm
+
+Metal matte
+flat
+Ø 30 mm
+
+Color selection
+
+IC01_00478
+
+SIRIUS ACT está disponible en cuatro materiales distintos
+
+Robustez
+
+• Grado de protección IP66, IP67, IP69 (IP69K).
+
+IP66
+6 = Protección contra ingreso de polvo 6 = Protección contra chorro de agua
+
+IP67
+6 = Protección contra ingreso de polvo 7 = Protección contra inmersión temporal
+
+IP69K
+6 = Protección contra ingreso de polvo 9/9K = Protección contra agua en
+procesos con limpieza con agua
+a presión (aprox 80 bar) y altas
+temperaturas del agua (aprox. 80 °C)
+
+• Tiempo de vida de 100 000 horas gracias al uso de LED's.
+• Resistencia media (químicos) gracias a acero inoxidable sólido
+y plásticos de alto grado.
+• Duración mecánica de 10 x 106 ciclos de maniobra.
+• Recomendado para uso en ambientes extremos.
+• Fijación confiable, con bloqueo de fricción con solo un tornillo.
+• Estabilidad en el diseño de acuerdo al uso.
+• Geometría simple para su montaje.
+
+Comunicación
+
+• Conexión directa de la botonera a los protocolos AS-Interface
+o IO-Link.
+• Conexión directa en el gabinete de control a PROFINET,
+IO-Link o AS-Interface.
+• Puede ser integrada fácilmente vía la plataforma TIA Portal.
+
+Fácil de manejar
+
+• Función de auto-sujeción del actuador cuando se monta.
+• Prevención de giro integrada al diseño patentado en el sujetador.
+• Bloques de contacto apilables.
+• Intuitivo y de montaje rápido usando una mano.
+• Los componentes pueden ser montados con el sujetador
+removido.
+• No se requieren herramientas especiales, desarmador simple
+tamaño 2 (de cruz DIN ISO 87671PZD1, cabeza-plana
+DIN ISO 2380-1 A/B 1 x 4.5) es suficiente.
+
+Catálogo de baja tensión, control y distribución
+
+6
+
+6/7

@@ -1,0 +1,80 @@
+Interruptores de límite 3SE5, 3SE2
+
+3SE5, cajas de plástico
+Ancho de caja 31 mm según EN 50047
+
+Versión¹⁾                                                   Diámetro    PE   Sistema modular    Referencia    TE*
+                                                              mm
+
+Accionamientos
+Vástago de rodillo                                   Vástagos de rodillo, forma C según EN 50047
+                                                     Rodillo de plástico                                ⊕    10                  3SE5000-0AD03    1 UD
+                                                     Rodillo de acero inoxidable                          ⊕    10                  3SE5000-0AD04    1 UD
+
+con fijación central                                 Vástagos de rodillo con fijación central
+                                                     Rodillo de plástico                                ⊕    10                  3SE5000-0AD10    1 UD
+                                                     Rodillo de acero inoxidable                          ⊕    10                  3SE5000-0AD11    1 UD
+
+Palanca sencilla                                     Palancas sencillas, forma E según EN 50047
+5                                                    Palanca metálica, rodillo de plástico                ⊕    13                  3SE5000-0AE10    1 UD
+                                                     Palanca metálica, rodillo de acero inoxidable        ⊕    13                  3SE5000-0AE11    1 UD
+                                                     Palanca de acero inoxidable, rodillo de plástico     ⊕    13                  3SE5000-0AE12    1 UD
+                                                     Palanca de acero inoxidable, rodillo de acero inoxidable ⊕    13                  3SE5000-0AE13    1 UD
+
+Palanca acodada                                      Palancas acodadas
+                                                     Palanca metálica, rodillo de plástico                ⊕    13                  3SE5000-0AF10    1 UD
+                                                     Palanca metálica, rodillo de acero inoxidable        ⊕    13                  3SE5000-0AF11    1 UD
+                                                     Palanca de acero inoxidable, rodillo de plástico     ⊕    13                  3SE5000-0AF12    1 UD
+                                                     Palanca de acero inoxidable, rodillo de acero inoxidable ⊕    13                  3SE5000-0AF13    1 UD
+
+                                                     Varillas flexibles
+                                                     (sólo para interruptores con contactos de acción brusca)
+                                                     Vástago de plástico:
+                                                     • Longitud 142,5 mm (resorte 50 mm, vástago 50 mm)          3SE5000-0AR01    1 UD
+                                                     • Longitud 76 mm (resorte 23,5 mm, vástago 10 mm)           3SE5000-0AR03    1 UD
+                                                     • Longitud 242,5 mm (resorte 150 mm, vástago 50 mm)          3SE5000-0AR04    1 UD
+Varilla flexible                                     Vástago de acero inoxidable:
+                                                     • Longitud 142,5 mm (resorte 50 mm, vástago 50 mm)          3SE5000-0AR02    1 UD
+
+Actuadores de giro
+                                                     Actuador de giro, plástico con palanca,
+Actuador de giro                                     Ataque variable a la derecha y/o a la izquierda    ⊕                               3SE5000-0AK00    1 UD
+
+                                                     Palancas para actuadores de giro
+                                                     Palancas de rodillo de 21 mm, recta, forma A según EN 50047
+                                                     Palanca metálica, rodillo de plástico                ⊕    19                  3SE5000-0AA21    1 UD
+                                                     Palanca metálica, rodillo de acero inoxidable        ⊕    19                  3SE5000-0AA22    1 UD
+                                                     Palanca metálica, rodillo con rodamiento             ⊕    19                  3SE5000-0AA23    1 UD
+                                                     Palanca metálica, rodillo de plástico                ⊕    30                  3SE5000-0AA25    1 UD
+                                                     Palanca de acero inoxidable, rodillo de plástico     ⊕    19                  3SE5000-0AA31    1 UD
+Palanca de rodillo                                   Palanca de acero inoxidable, rodillo de acero inoxidable ⊕    19                  3SE5000-0AA32    1 UD
+
+                                                     Palancas de rodillo de 30 mm, recta²⁾
+                                                     Palanca metálica, rodillo de plástico                ⊕    19                  3SE5000-0AA24    1 UD
+
+                                                     Palancas de rodillo, longitud regulable, con taladros
+                                                     Palanca metálica, rodillo de plástico                ⊕    19                  3SE5000-0AA60    1 UD
+                                                     Palanca metálica, rodillo de acero inoxidable        ⊕    19                  3SE5000-0AA61    1 UD
+                                                     Palanca metálica, rodillo de plástico                ⊕    50                  3SE5000-0AA67    1 UD
+                                                     Palanca metálica, rodillo de goma                    ⊕    50                  3SE5000-0AA68    1 UD
+Palanca de rodillo,                                  Palanca de acero inoxidable, rodillo de plástico     ⊕    19                  3SE5000-0AA62    1 UD
+longitud regulable                                   Palanca de acero inoxidable, rodillo de acero inoxidable ⊕    19                  3SE5000-0AA63    1 UD
+
+                                                     Palancas de rodillo, longitud regulable
+                                                     Palanca metálica, rodillo de plástico                     19                  3SE5000-0AA50    1 UD
+                                                     Palanca metálica, rodillo de acero inoxidable             19                  3SE5000-0AA51    1 UD
+                                                     Palanca metálica, rodillo de plástico                     30                  3SE5000-0AA55    1 UD
+                                                     Palanca metálica, rodillo de plástico                     50                  3SE5000-0AA57    1 UD
+                                                     Palanca metálica, rodillo de goma                         50                  3SE5000-0AA58    1 UD
+                                                     Palanca de acero inoxidable, rodillo de plástico          19                  3SE5000-0AA52    1 UD
+Palanca de varilla                                   Palanca de acero inoxidable, rodillo de acero inoxidable  19                  3SE5000-0AA53    1 UD
+
+                                                     Palancas de varilla
+                                                     Varilla de aluminio, longitud 200 mm                       6                  3SE5000-0AA80    1 UD
+                                                     Varilla flexible, longitud 200 mm                        6                  3SE5000-0AA81    1 UD
+                                                     Barra de plástico, longitud 200 mm                       6                  3SE5000-0AA82    1 UD
+
+1) Accionamiento con sistema de unión mecánica, necesario en circuitos de seguridad,     2) Montable en el reverso (girado por 180°, lado posterior
+   identificado por el símbolo ⊕                                                       de la palanca).
+
+5/8       Catálogo de baja tensión, control y distribución

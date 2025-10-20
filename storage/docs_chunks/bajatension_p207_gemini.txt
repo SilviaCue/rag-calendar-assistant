@@ -1,0 +1,182 @@
+Arrancador Directo Clase 14
+Con Relevador Bimetálico
+
+Dimensiones
+
+Figura 1
+Figura 2
+
+3 FASE
+FASE ÚNICA
+
+3 FASE
+FASE ÚNICA
+
+7
+
+Figura 3
+Figura 4
+
+Arrancador Tipo abierto Clase 14 con relevador de sobrecarga bimetálico
+
+Tamaño
+Figura
+Dimensiones exteriores
+Dimensiones de montaje
+Tornillería de montaje
+Dimensiones de reset
+
+A
+B
+B1
+C
+C1
+D
+D1
+D2
+E
+E1
+G
+J
+K
+L
+M
+M1
+
+00-1 3/4
+1
+7.45
+(189)
+3.50
+(89)
+5.75
+(146)
+3.89
+(99)
+3.50
+(89)
+6.50
+(165)
+—
+0.19
+(4.8)
+1.00
+(25)
+—
+#10
+5.39
+(137)
+—
+0.16
+(4)
+2.97
+(75)
+2.81
+(71)
+
+2-2 1/2
+2
+8.38
+(213)
+3.50
+(89)
+5.75
+(146)
+4.00
+(102)
+3.77
+(96)
+7.75
+(197)
+2.00
+(51)
+0.19
+(4.8)
+1.00
+(25)
+—
+#10
+6.28
+(160)
+0.36
+(9)
+0.16
+(4)
+3.22
+(82)
+3.06
+(78)
+
+3-3 1/2
+3
+10.66
+(271)
+4.50
+(114)
+6.75
+(171)
+5.06
+(129)
+4.66
+(118)
+9.25
+(235)
+1.44
+(37)
+0.28
+(7)
+0.72
+(18)
+—
+0.25
+(6)
+7.81
+(198)
+—
+0.12
+(3)
+3.39
+(86)
+3.27
+(83)
+
+4
+4
+12.02
+(305)
+4.50
+(114)
+6.75
+(171)
+5.75
+(146)
+4.66
+(118)
+10.34
+(263)
+1.44
+(37)
+0.44
+(11)
+0.72
+(18)
+0.72
+(18)
+0.25
+(6)
+8.78
+(223)
+—
+0.12
+(3)
+3.63
+(92)
+3.51
+(89)
+
+Nota:
+Dimensiones para referencia, no recomendadas para construcción. Contacte a su representante de ventas para referencia de las dimensiones no mostradas en este catálogo.
+Dimensiones en pulgadas (mm).
+
+7/16
+Catálogo de baja tensión, control y distribución

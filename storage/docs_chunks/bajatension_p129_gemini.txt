@@ -1,0 +1,44 @@
+SIRIUS ACT Botones pulsadores y lámparas indicadoras
+
+Datos generales
+
+Descripción
+
+6
+
+SIRIUS ACT botones pulsadores y lámparas indicadoras
+
+SIRIUS ACT es un sistema modular para montaje en la placa frontal del gabinete y módulos eléctricos para montaje en la parte trasera. Gracias a SIRIUS ACT con PROFINET los botones y lámparas pueden conectarse directamente al protocolo PROFINET a l controlador y a los equipos HMI - incluyendo funciones de safety.
+La ingeniería y puesta en marcha son simplificadas por la plataforma TIA Portal.
+
+Portafolio extensivo
+*   Variantes personalizadas, p. ej. arreglos especiales, etiquetado, botoneras equipadas.
+*   Comunicación-habilitada gracias a la interface directa a los protocolos AS Interface, IO-Link o PROFINET.
+
+Diversas aplicaciones posibles
+*   Certificados nacionales e internacionales
+*   Certificados comerciales
+
+Normas
+UL 60947-5-1 & CSA C22.2 No. 6094-5-14, Low-Voltage Switchgear and Controlgear-Part 5-1: Control Circuit Devices and Switching Elements- Electromechanical Control Circuit Devices
+UL 60947-1 & CSA C22.2 No 60947-1-13, Low-Voltage Switchgear and Controlgear – Part 1: General Rules.
+NMX-J-515-ANCE Equipos de control y distribución-requisitos generales de seguridad-Especificaciones y métodos de prueba
+NOM-003-SCFI Productos eléctricos-Especificaciones de seguridad
+
+Configurador
+*   Rápido y de selección simple gracias a su navegación intuitiva y menús claramente organizados usando drag & drop.
+*   Imagen previa de los componentes seleccionados.
+*   Inscripción de botones pulsadores y plaquitas usando la herramienta interactiva de inscripción.
+*   Una vez creado, una configuración puede ser ordenada tantas veces como sea requerida usando el número de artículo específico del cliente y el CIN (Configuration Identification Number).
+*   Todo en un vistazo: Fichas técnicas, certificados, dibujos dimensionales, herramienta de inscripción.
+
+Más información
+Página principal, www.siemens.com/sirius-act
+Industry Mall, www.siemens.com/product?3SU1
+Configurador, www.siemens.com/sirius-act/configurator
+Herramienta de conversión, www.siemens.com/sirius/conversion-tool
+Manual, https://support.industry.siemens.com/cs/ww/en/view/107542462
+TIA Portal, www.siemens.com/TIA
+
+6/6
+Catálogo de baja tensión, control y distribución

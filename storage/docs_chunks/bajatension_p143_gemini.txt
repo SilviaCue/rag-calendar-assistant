@@ -1,0 +1,185 @@
+SIRIUS ACT Botones pulsadores y lámparas indicadoras
+Actuadores e indicadores 22 mm, redondo, plástico negro
+
+Botones
+
+Datos para selección y pedidos
+
+Versión del elemento actuador
+Versión anillo frontal
+
+Principio de operación
+Método de desenganche
+
+Marca de color
+
+DT
+
+Referencia
+
+Botones
+
+3SU1000-0AB20-0AD0
+
+Botones con botón plano
+Estándar
+
+Contacto momentario
+
+Negro
+Negro, "O"
+Rojo
+Rojo, "O"
+Amarillo
+Verde
+Verde, "I"
+Azul
+Azul, "R"
+Blanco
+Blanco, "I"
+Claro
+Gris
+
+▶
+▶
+▶
+▶
+▶
+▶
+▶
+▶
+5
+▶
+▶
+▶
+▶
+
+3SU1000-0AB10-0AA0
+3SU1000-0AB10-0AD0
+3SU1000-0AB20-0AA0
+3SU1000-0AB20-0AD0
+3SU1000-0AB30-0AA0
+3SU1000-0AB40-0AA0
+3SU1000-0AB40-0AC0
+3SU1000-0AB50-0AA0
+3SU1000-0AB50-0AR0
+3SU1000-0AB60-0AA0
+3SU1000-0AB60-0AC0
+3SU1000-0AB70-0AA0
+3SU1000-0AB80-0AA0
+
+Enganchado
+Presionar para desenganchar
+
+Negro
+Rojo
+Amarillo
+Verde
+Azul
+Blanco
+
+▶
+▶
+3
+▶
+▶
+▶
+
+3SU1000-0AA10-0AA0
+3SU1000-0AA20-0AA0
+3SU1000-0AA30-0AA0
+3SU1000-0AA40-0AA0
+3SU1000-0AA50-0AA0
+3SU1000-0AA60-0AA0
+
+6
+
+3SU1000-0AA30-0AA0
+
+3SU1000-0BB30-0AA0
+
+Botones salientes
+Estándar
+
+Contacto momentáneo
+
+Negro
+Rojo
+Amarillo
+Verde
+Azul
+Blanco
+
+▶
+▶
+5
+▶
+▶
+▶
+
+3SU1000-0BB10-0AA0
+3SU1000-0BB20-0AA0
+3SU1000-0BB30-0AA0
+3SU1000-0BB40-0AA0
+3SU1000-0BB50-0AA0
+3SU1000-0BB60-0AA0
+
+3SU1000-0CB40-0AA0
+
+Botones razantes
+Salientes
+
+Contacto momentáneo
+
+Negro
+Rojo
+Amarillo
+Verde
+Azul
+Blanco
+
+3
+5
+5
+5
+5
+5
+
+3SU1000-0CB10-0AA0
+3SU1000-0CB20-0AA0
+3SU1000-0CB30-0AA0
+3SU1000-0CB40-0AA0
+3SU1000-0CB50-0AA0
+3SU1000-0CB60-0AA0
+
+3SU1000-0DB50-0AA0
+
+Botones razantes
+Saliente, almenado
+
+Contacto momentáneo
+
+Negro
+Rojo
+Amarillo
+Verde
+Azul
+Blanco
+
+3
+5
+5
+5
+5
+5
+
+3SU1000-0DB10-0AA0
+3SU1000-0DB20-0AA0
+3SU1000-0DB30-0AA0
+3SU1000-0DB40-0AA0
+3SU1000-0DB50-0AA0
+3SU1000-0DB60-0AA0
+
+6/20
+
+Catálogo de baja tensión, control y distribución

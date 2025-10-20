@@ -1,0 +1,112 @@
+Relés de vigilancia
+Relés de vigilancia SIRIUS 3RR2 para montar en contactores 3RT2
+
+Vigilancia de corriente
+
+Accesorios
+
+Uso Versión Tamaño PE Referencia TE*
+
+Conectores de relés para montaje individual1)
+
+Para 3RR2
+
+Para el montaje separado de los relés de sobrecarga o de vigilancia; fijación por tornillos y por abroche en perfil TH 35
+
+• Sistema de bornes de tornillo
+
+S00
+S0
+
+Bornes
+de tornillo
+
+3RU2916-3AA01
+3RU2926-3AA01
+
+1 UD
+1 UD
+
+3RU29 16-3AA01
+
+4
+
+• Sistema de bornes de resorte
+
+S00
+S0
+
+Bornes
+de resorte
+
+3RU2916-3AC01
+3RU2926-3AC01
+
+1 UD
+1 UD
+
+3RU29 26-3AC01
+
+Plaquitas sin inscripción
+
+Para 3RR2
+
+Plaquitas para la identificación de equipos2)
+Para equipos SIRIUS
+20 mm x 7 mm, turquesa pastel
+
+3RT1900-1SB20
+
+340 UDS
+
+3RT19 00-1SB20
+
+Tapas precintables
+
+Para 3RR2
+
+Tapa precintable
+Para proteger los ajustes contra manipulaciones
+involuntarias o sin autorización.
+
+3RR2940
+
+5 UDS
+
+Para 3RR21
+
+Lámina de precinto
+Para proteger los elementos de ajuste contra
+manipulaciones sin autorización.
+
+3TK2820-0AA00
+
+1 UD
+
+3RR29 40
+
+Herramientas para abrir los bornes de resorte
+
+Para conexiones
+de circuitos
+auxiliares
+
+Destornillador
+Para todos los equipos SIRIUS con bornes de resorte
+3,0 mm x 0,5 mm; longitud aprox. 200 mm; gris
+titanio/negro, con aislamiento parcial.
+
+Bornes de
+resorte
+
+3RA2908-1A
+
+1 UD
+
+3RA29 08-1A
+
+1) Los accesorios son los mismos que los del relés térmico de sobrecarga 3RU21 y del relés electrónico de sobrecarga 3RB3.
+
+4/20
+
+Catálogo de baja tensión, control y distribución

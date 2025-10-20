@@ -1,0 +1,32 @@
+Contactores de fuerza tripolares para maniobra de motores
+
+Datos generales
+1
+Contactores de fuerza y contactores de acoplamiento 3RT2
+Tamaño S3 con accesorios adosables
+
+IC01_0067a
+
+① Contactor tamaño S3
+② Bloque de contactos auxiliares 2-polos, montaje lateral
+③ Bloque de contactos auxiliares 1-polo, para montaje frontal, entrada de cable por arriba
+④ Bloque de contactos auxiliares 4-polos, para montaje frontal
+⑤ Bloque de contactos auxiliar 2-polos, para montaje frontal, entrada de cable por abajo
+⑥ Supresor de picos con/sin LED
+⑦ Módulo de función 3RA27 para arranque directo con protocolo AS-Interface
+⑧ Módulos de función 3RA28
+⑨ Módulo de función 3RA27 para arranque directo con protocolo I-O Link
+⑩ Conector para enlace en paralelo, 3-polos, con terminal de conexión
+⑪ Módulo terminal para bobina, superior e inferior
+⑫ Terminal de alimentación monofásica (3 unidades)
+⑬ Conector para conexión en paralelo (puente de estrella), 3-polos, sin terminal de conexión
+Kit de ensamble 3RA2933-2AA1 lo compone:
+⑭ Módulo de cableado superior e inferior para conexión del circuito principal incluye interlock (interlock por un contacto NC)1)
+⑮ Dos clips de conexión para dos contactores.
+Para ordenarse por separado
+⑯ Interlock mecánico
+
+1) 3RT201. Se requieren contactores con un contacto NC en la unidad base para interlock eléctrico. Se requiere un contacto NA para operación de contacto momentáneo.
+
+1/6
+Catálogo de baja tensión, control y distribución

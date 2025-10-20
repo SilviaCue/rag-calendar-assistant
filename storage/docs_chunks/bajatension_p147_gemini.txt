@@ -1,0 +1,76 @@
+SIRIUS ACT Botones pulsadores y lámparas indicadoras
+Actuadores e indicadores 22 mm, redondo, plástico negro
+
+Interruptor selector
+
+Versión de elemento actuador | Principio de operación | Color | SD | Referencia
+---|---|---|---|---
+| | | | d |
+
+Selectores
+
+Selectores 3 posiciones, iluminables
+Actuador selector maneta corta | Contacto momentáneo, 2x45°
+(10:30/12/1:30 en punto), reseteo
+desde la izquierda + derecha
+O
+|---|| | Negro | ► | 3SU1002-2BM10-0AA0
+| | Rojo | ► | 3SU1002-2BM20-0AA0
+| | Amarillo | ► | 3SU1002-2BM30-0AA0
+| | Verde | ► | 3SU1002-2BM40-0AA0
+| | Azul | ► | 3SU1002-2BM50-0AA0
+3SU1002-2BM20-0AA0 | | Blanco | ► | 3SU1002-2BM60-0AA0
+---|---|---|---|---
+| Enclavado, 2x45°
+(10:30/12/1:30 en punto)
+O
+|---|| | Negro | ► | 3SU1002-2BL10-0AA0
+| | Rojo | ► | 3SU1002-2BL20-0AA0
+| | Amarillo | ► | 3SU1002-2BL30-0AA0
+| | Verde | ► | 3SU1002-2BL40-0AA0
+| | Azul | ► | 3SU1002-2BL50-0AA0
+| | Blanco | ► | 3SU1002-2BL60-0AA0
+3SU1002-2BL60-0AA0 | | | |
+
+6
+
+Principio de operación | Tipo de cerradura | Posición de selección para remover la llave | Número de llaves | SD | Referencia
+---|---|---|---|---|---
+| | | | | d |
+
+Selector con llave
+
+3 Posiciones
+Contacto momentáneo, 2x45°
+(10:30/12/1:30 en punto),
+reset desde la izquierda +
+derecha
+O
+|---|| | RONIS, SB30 | O | 2 | ► | 3SU1000-4BM01-0AA
+| | O.M.R. 73037, rojo | O | 2 | 5 | 3SU1000-4FM01-0AA0
+| | O.M.R. 73034, negro | O | 2 | 5 | 3SU1000-4HM01-0AA0
+| | CES, SSG10 | O | 2 | ► | 3SU1000-5BM01-0AA0
+| | BKS, S1 | O | 2 | 3 | 3SU1000-5PM01-0AA0
+3SU1000-4BM01-0AA0 | | IKON, 360012K1 | O | 2 | 3 | 3SU1000-5XM01-0AA0
+---|---|---|---|---|---
+| Enclavado, 2x45°
+(10:30/12/1:30 en punto)
+O
+|---|| | RONIS, SB30 | O | 2 | 3 | 3SU1000-4BL01-0AA0
+| | | I+O+II | 2 | ► | 3SU1000-4BL11-0AA0
+| | | I | 2 | 5 | 3SU1000-4BL21-0AA0
+| | | II | 2 | 3 | 3SU1000-4BL31-0AA0
+---|---|---|---|---|---
+Ángulos de operación | Principio de operación | Posición de la perilla para remover la llave | Color | SD | Referencia
+---|---|---|---|---|---
+| | | | | d |
+
+Selector ID-key
+
+4 posiciones de maniobra
+45° | Enclavamiento | Posibilidad de remover la llave
+en las 4 posiciones | Negro | | 3SU1000-4WS10-0AA0
+3SU1000-4WS10-0AA0
+
+6/24
+Catálogo de baja tensión, control y distribución

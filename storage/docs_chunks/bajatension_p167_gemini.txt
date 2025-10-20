@@ -1,0 +1,57 @@
+SIRIUS ACT Botones pulsadores y lámparas indicadoras
+Actuadores e indicadores 22 mm, metal brillante
+
+Accionamiento y señalización de elementos
+
+Datos para selección y pedidos
+
+Versión de actuador     Principio de operación      Color   SD  Referencia
+
+Perillas selectoras
+
+3SU1052-2BC20-0AA0
+2 posiciones de maniobra, con posibilidad de iluminación
+Selector, actuador largo negro    Contacto momentáneo, 45°    Rojo        ►   3SU1052-2BC20-0AA0
+                                  (10:30 / 12 en punto), reset  Amarillo    5   3SU1052-2BC30-0AA0
+                                  del centro a la izquierda     Verde       ►   3SU1052-2BC40-0AA0
+                                                                Azul        ►   3SU1052-2BC50-0AA0
+                                                                Blanco      ►   3SU1052-2BC60-0AA0
+
+3SU1052-2BF40-0AA0
+                                  Enclave, 90°                Ámbar       5   3SU1052-2BF00-0AA0
+                                  (10:30 / 1:30 en punto)     Rojo        3   3SU1052-2BF20-0AA0
+6                                                               Verde       3   3SU1052-2BF40-0AA0
+                                                                Blanco      ►   3SU1052-2BF60-0AA0
+
+3SU1052-2CF60-0AA0
+Selector, actuador largo negro    Contacto momentáneo, 45°    Amarillo    5   3SU1052-2CC30-0AA0
+                                  (10:30 / 12 en punto), reset  Verde       5   3SU1052-2CC40-0AA0
+                                  desde el centro a la derecha  Azul        5   3SU1052-2CC50-0AA0
+                                                                Blanco      5   3SU1052-2CC60-0AA0
+
+                                  Enclave, 90°                Rojo        5   3SU1052-2CF20-0AA0
+                                  (10:30 / 1:30 en punto)     Amarillo    5   3SU1052-2CF30-0AA0
+                                                                Verde       5   3SU1052-2CF40-0AA0
+                                                                Azul        5   3SU1052-2CF50-0AA0
+                                                                Blanco      5   3SU1052-2CF60-0AA0
+
+3SU1052-2CL40-0AA0
+Selector, actuador largo negro    Enclave 2x45°               Rojo        5   3SU1052-2CL20-0AA0
+                                  (10:30 / 12 / 1:30 en punto)  Verde       5   3SU1052-2CL40-0AA0
+                                                                Blanco      5   3SU1052-2CL60-0AA0
+
+Selectores con llave
+
+3SU1050-5BF01-0AA0
+CES, SSG10                        O                           2       3   3SU1050-5BF01-0AA0
+                                  O+I                         2       3   3SU1050-5BF11-0AA0
+
+CES, LSG1                         O                           2       5   3SU1050-5HF01-0AA0
+                                  O+I                         2       5   3SU1050-5HF11-0AA0
+
+CES, VL5                          O                           2       5   3SU1050-5KF01-0AA0
+                                  O+I                         2       5   3SU1050-5KF11-0AA0
+
+CES, STGH10                       O+I                         2       5   3SU1050-5LF11-0AA0
+
+6/44      Catálogo de baja tensión, control y distribución

@@ -1,0 +1,38 @@
+Arrancadores NEMA Clase 15
+
+Datos generales
+
+Dimensiones
+
+Diámetros de los barrenos: 30 y 15 mm.
+Dos semi-troquelados en la parte superior.
+Dos semi-troquelados en la parte inferior.
+Todas las dimensiones se encuentran en mm.
+
+Gabinete Grande
+296
+
+Gabinete Pequeño
+241
+
+155.5
+120
+
+Figura 01
+Figura 02
+
+7
+
+Diagrama de conexión
+
+220 o 440V
+60 Hz
+
+15 AS Arrancador magnético a plena tensión tipo NEMA
+F1 Fusibles o interruptor termomagnético (adecuados a la potencia del motor) para protección contra cortocircuitos.
+C1 Contactor tripolar NEMA clase 40
+R1 Relevador de sobrecarga electrónico ESP200
+1-0 Botón doble 3SA8-100
+
+Catálogo de baja tensión, control y distribución
+7/19

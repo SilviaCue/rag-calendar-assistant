@@ -1,0 +1,79 @@
+Relés de sobrecarga
+Relés bimetálicos de sobrecarga SIRIUS 3RU2
+
+Accesorios
+
+Datos para selección y pedidos
+
+Versión
+Tamaño
+PE
+Referencia
+Mínimo
+de compra
+
+Módulos para el rearme remoto eléctrico
+
+3
+Rango de trabajo 0,85... 1,1 x Us, potencia absorbida
+80 VA CA, 70 W CD, ciclo de trabajo 0,2... 4 s,
+frecuencia de maniobra 60/h
+• 24... 30 V CA/CD
+S00... S3
+► 3RU1900-2AB71
+1 UD
+• 110... 127 V CA/CD
+S00... S3
+► 3RU1900-2AF71
+1 UD
+• 220... 250 V CA/CD
+S00... S3
+► 3RU1900-2AM71
+1 UD
+3RU19 00-2A.71
+
+Tapas precintables
+
+Para tapar el botón de ajuste.
+S00... S3
+► 3RV2908-0P
+10 UDS
+
+3RV29 08-0P
+
+Versión
+Tamaño
+Color
+Para relés de
+sobrecarga
+PE
+Bornes de
+resorte
+Mínimo
+de compra
+Referencia
+
+Herramientas para abrir los bornes de resorte
+
+Destornillador
+para todos los
+aparatos
+SIRIUS con
+bornes de
+resorte
+Longitud aprox.
+200 mm,
+3,0 mm x 0,5 mm
+gris titanio/
+negro, con
+aislamiento
+parcial
+Conexión principal
+y auxiliar:
+3RU2
+3RA2908-1A
+1 UD
+3RA29 08-1A
+
+3/22
+Catálogo de baja tensión, control y distribución

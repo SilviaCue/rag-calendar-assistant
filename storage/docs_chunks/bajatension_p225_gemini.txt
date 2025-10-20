@@ -1,0 +1,111 @@
+Relevadores de Acoplamiento e Interfaces
+
+3TX71 Relevadores Enchufables
+Dimensiones
+
+3TX7119 DPDT
+FLAG
+2.90 Max.
+(73.8)
+2.50
+(63.5)
+.250 (6.35)
+Q.C. Terminals
+.187 (4.74)
+Q.C./plug-in Terminals
+
+FLANGE
+STYLE
+PLUG-IN
+STYLE
+1.53 Max.
+(38.8)
+1.53 Max.
+(38.8)
+1.90 Max.
+(48.4)
+PUSH BUTTON
+1.90 Max.
+(48.4)
+1.40 Max.
+(35.7)
+
+3TX7119 (3PDT)
+1.90
+(48.4)
+2.90
+(73.8)
+2.50
+(63.5)
+
+0.187 Quick Connects
+1 2 3
+6 5 4
+7 8 9
+A B
+
+7
+1.40
+(35.5)
+1.53
+(38.8)
+0.156
+(3.9)
+
+3TX7120
+2.81 Max
+(71.4)
+2.25 Max.
+(57.2)
+1.37
+(34.79)
+1.37
+(34.79)
+3 4 5
+2 6
+1 7
+8
+1.37
+(34.79)
+1.37
+(34.79)
+4 5 6
+3 7
+2 8
+1 9
+11 10
+8 PIN OCTAL PLUG
+11 PIN PLUG
+
+3TX7121/3TX7122
+2.90 Max.
+(73.8)
+2.50
+(63.5)
+.187 (4.74)
+Q.C./plug-in Terminals
+
+3TX7123
+.187 (4.74)
+Q.C./plug-in Terminals
+
+FLANGE
+STYLE
+PLUG-IN
+STYLE
+1.53 Max.
+(38.8)
+1.53 Max.
+(38.8)
+3 6 8
+2 5
+1 4 7 A
+1.90 Max.
+(48.4)
+1.90 Max.
+(48.4)
+1.40 Max.
+(35.7)
+
+7/34
+Catálogo de baja tensión, control y distribución

@@ -1,0 +1,120 @@
+Relés de sobrecarga
+Relés bimetálicos de sobrecarga SIRIUS 3RU2
+Accesorios
+
+Datos para selección y pedidos
+
+Versión
+
+Tamaño
+
+PE
+
+Referencia
+
+Mínimo
+de compra
+
+Conectores de relés para montaje individual
+
+3RU29 16-3AA01
+
+3RU29 26-3AA01
+
+Conectores para relés de sobrecarga con bornes
+de tornillo
+Para el montaje separado de los relés de sobrecarga;
+fijación por tornillos y por abroche en perfil TH 35.
+
+S00
+S0
+S2
+S3
+
+Bornes de
+tornillo
+3RU2916-3AA01
+3RU2926-3AA01
+3RU2936-3AA01
+3RU2946-3AA01
+
+1 UD
+1 UD
+
+3
+
+3RU29 16-3AC01
+
+3RU29 26-3AC01
+
+Conectores para relés de sobrecarga con bornes
+de resorte
+Para el montaje separado de los relés de sobrecarga;
+fijación por tornillos y por abroche en perfil TH 35.
+
+S00
+
+S0
+
+Bornes de
+resorte
+3RU2916-3AC01
+3RU2926-3AC01
+
+1 UD
+
+1 UD
+
+RESET mecánico
+
+Corredera de desenclavamiento, soporte y embudo
+
+S00, S0
+
+3RU2900-1A
+
+1 UD
+
+Pulsador con carrera prolongada
+(12 mm), IP65, Ø 22 mm
+
+S00, S0
+
+3SU1200-0FB10-0AA0
+
+1 UD
+
+Eje de prolongación
+Para compensar la distancia entre el pulsador y la
+tecla de desenclavamiento del relé.
+
+S00, S0
+
+3SU1900-0KG10-0AA0
+
+1 UD
+
+3RU29 00-1A
+con pulsador y eje de prolongación
+
+Disparadores por cable con soporte para el rearme
+
+Para taladro Ø 6,5 mm en el panel;
+espesor máx. del panel 8 mm
+• Longitud 400 mm
+• Longitud 600 mm
+
+3RU29 00-1.
+
+S00...S3
+S00...S3
+
+3RU2900-1B
+3RU2900-1C
+
+1 UD
+1 UD
+
+Catálogo de baja tensión, control y distribución
+
+3/21

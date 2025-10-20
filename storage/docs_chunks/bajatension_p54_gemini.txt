@@ -1,0 +1,89 @@
+Arrancadores suaves 3RW
+3RW44 Para aplicaciones generales y estándar
+
+Accesorios
+
+Versión
+PE
+Referencia
+2
+
+Programa de comunicación para ordenador PC/PG SIRIUS Soft Starter ES V15
+
+SIRIUS Soft Starter ES V15 Basic
+Descarga gratuita a través de Siemens Industry Support Online de Software para puesta en
+marcha y configuración de arrancadores suaves¹)
+
+SIRIUS Soft Starter ES V15 Standard
+Licencia flotante para un usuario; E-SW, CD con software y documentación, en tres idiomas
+(alemán/inglés/francés), comunicación por la interfaz del sistema.
+▶ Clave de licencia en USB memory stick, clase A, con CD.
+3ZS1320-5CC11-0YA5
+
+SIRIUS Soft Starter ES V15 Premium
+Licencia flotante para un usuario; E-SW, CD con software y documentación, en tres idiomas
+(alemán/inglés/francés), comunicación por la interfaz del sistema o PROFIBUS.
+▶ Clave de licencia en USB memory stick, clase A, con CD.
+3ZS1320-6CC11-0YA5
+
+Librería de bloques de arrancadores suaves SIRIUS 3RW44 para SIMATIC PCS 7
+
+El suministro incluye:
+Bloques AS y faceplates para integrar SIRIUS 3RW44 en el sistema de control de procesos
+PCS 7, para la versión V 6.1/V 7.0 de PCS 7.
+
+Software de ingeniería
+▶ 3ZS1633-1XX02-0YA0
+Para una estación de ingeniería (licencia individual), incluyendo software runtime para la
+ejecución del bloque AS en un sistema de automatización (licencia individual), alemán/inglés,
+forma de suministro: en CD con documentación electrónica en alemán/inglés/portugués.
+
+3ZS1 633-1XX00-0YA0
+Software runtime
+▶ 3ZS1633-2XX02-0YB0
+Para la ejecución del bloque AS en un sistema de automatización (licencia individual), forma de
+suministro: licencia sin software ni documentación.
+
+Cables de PC
+
+Para comunicación de PC/PG con arrancadores suaves SIRIUS 3RW44
+▶ 3UF7941-0AA00-0
+A través de la interfaz del sistema, para conectar al puerto USB.
+
+Módulos de comunicaciones
+
+Módulo de comunicación PROFIBUS para arrancador suave 3RW44 con
+funcionalidad de esclavo DPV1.
+3RW4900-0KC00
+Módulo de comunicación PROFINET para arrancador suave 3RW44, a partir
+de la versión de firmware 12.
+3RW4900-0NC00
+
+Módulos externos de señalización y manejo
+
+Para visualizar y manejar las funciones facilitadas por el arrancador suave a través de un módulo
+de señalización y manejo montado externamente con grado de protección IP54
+(por ejemplo en la puerta del armario eléctrico).
+▶ 3RW4900-0AC00
+
+Cables de conexión
+Desde el puerto (serie) del aparato del arrancador suave 3RW44 hacia el módulo externo
+de señalización y manejo.
+3RW49 00-0AC00
+• Longitud 0,5 m, plano
+▶ 3UF7932-0AA00-0
+• Longitud 0,5 m, redondo
+▶ 3UF7932-0BA00-0
+• Longitud 1,0 m, redondo
+▶ 3UF7937-0BA00-0
+• Longitud 2,5 m, redondo
+▶ 3UF7933-0BA00-0
+
+1) Descarga Gratuita a través de Industry Support:
+https://support.industry.siemens.com/cs/document/109753470/soft-starter-es-v15-(tia-portal)?lc=en-ww
+
+* Se puede pedir esta cantidad o un múltiplo de la misma.
+Ilustraciones similares
+
+Catálogo de baja tensión, control y distribución
+2/9

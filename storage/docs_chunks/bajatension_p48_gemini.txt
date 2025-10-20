@@ -1,0 +1,86 @@
+Arrancadores suaves 3RW
+Arrancadores suaves e interruptores de estado sólido
+
+Datos generales
+
+Descripción
+
+2
+
+3RW55
+3RW44
+3RW52
+3RW40
+3RW30
+Página
+
+Arrancadores suaves 3RW
+Arrancadores suaves de alto rendimiento
+Arrancadores suaves 3RW55
+
+*   Integración Opcional TIA
+*   Módulos de comunicación enchufables para PROFINET, PROFIBUS y Modbus TCP/RTU
+*   Módulo HMI Desmontable con pantalla a color, interface local y espacio para una micro
+*   Funciones de protección extendidas
+*   Hasta 560 kW a 400 V (pueden ser usados en sistemas de suministros hasta 690 V)
+*   Parametrización automática para fácil funcionamiento y confiabilidad aún en
+    condiciones de carga cambiantes
+*   Interruptores híbridos y control de motor trifásico para pérdida mínima de energía y
+    control óptimo/simétrico de motor
+*   Paro de bomba para reducir esfuerzos mecánicos y para un control óptimo de paro de bomba
+
+2/13
+
+Arrancadores suaves 3RW44
+
+*   Integración Opcional TIA
+*   PROFIBUS y PROFINET
+*   Pantalla integrada
+*   Módulo opcional externo de pantalla/control
+*   Funciones de protección extendida
+*   Hasta 1200 kW a 400 V (pueden ser usados en sistemas de suministro hasta 690 V)
+
+2/7
+
+Arrancadores suaves de rendimiento general
+Arrancadores suaves 3RW52
+
+*   Integración Opcional TIA
+*   Módulos de comunicación enchufables para PROFINET, PROFIBUS y Modbus.
+*   Módulos opcionales HMI
+*   Arranque y paro suaves
+*   Limitación de corriente
+*   Protección de sobrecarga de motor
+*   Hasta 560 kW a 400 V (pueden ser usados en sistemas de suministro hasta 600 V)
+*   Interruptores híbridos y control de motor trifásico
+*   Torsión suave para carga mecánica reducida y control óptimo de paro de bomba
+*   Parametrización vía potenciómetros
+
+2/9
+
+Arrancadores suaves de rendimiento básico
+Arrancadores suaves 3RW40
+
+*   Arranque y paro suaves
+*   Limitación de corriente
+*   Protección de sobrecarga de motor
+*   Hasta 250 kW a 400 V (pueden ser usados en sistemas de suministro hasta 600 V)
+
+2/5
+
+Arrancadores suaves 3RW30
+
+*   Arranque suave con rampa de tensión
+*   Hasta 55 kW a 400 V (pueden ser usados en sistemas de suministro hasta 480 V)
+
+2/4
+
+Uso de Arrancadores suaves en combinación con motores IE3/IE4
+
+Nota:
+Para el uso de Arrancadores Suaves SIRIUS 3RW en combinación con motores IE3/IE4 de energía altamente eficiente, favor de
+ver la información de dimensionamiento y configuración, ver Manual de Aplicación.
+Para más información, ver página 1/7.
+
+Catálogo de baja tensión, control y distribución
+2/3

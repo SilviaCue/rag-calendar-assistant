@@ -1,0 +1,252 @@
+Interruptores automáticos
+Guardamotores SIRIUS 3RV2 hasta 40 A
+Para protección de motores
+
+Datos para selección y pedidos
+Clase 10, sin o con bloque transversal de contactos auxiliares (1 NA + 1 NC)¹)
+
+3RV20 11-0AA10
+3RV20 11-0EA20
+3RV20 21-4AA10
+3RV20 21-4AA20
+
+3
+
+Corriente asignada
+Adecuados para motores trifásicos²) con P
+Rango de regulación Disparadores térmicos de sobrecarga
+Disparadores por sobrecorriente sin retardo
+Potencia de corte con cortocircuito a 400 V CA
+PE Bornes de tornillo
+PE Bornes de resorte
+
+In
+I >
+Icu
+Referencia
+Referencia
+A
+kW
+A
+A
+kA
+
+Tamaño S00
+0,16
+0,04
+0,11 ... 0,16
+2,1
+100
+► 3RV2011-0AA1☐
+3RV2011-0AA2☐
+0,2
+0,06
+0,14 ... 0,2
+2,6
+100
+► 3RV2011-0BA1☐
+3RV2011-0BA2☐
+0,25
+0,06
+0,18 ... 0,25
+3,3
+100
+► 3RV2011-0CA1☐
+3RV2011-0CA2☐
+0,32
+0,09
+0,22 ... 0,32
+4,2
+100
+► 3RV2011-0DA1☐
+3RV2011-0DA2☐
+0,4
+0,09
+0,28 ... 0,4
+5,2
+100
+► 3RV2011-0EA1☐
+3RV2011-0EA2☐
+0,5
+0,12
+0,35 ... 0,5
+6,5
+100
+► 3RV2011-0FA1☐
+3RV2011-0FA2☐
+0,63
+0,18
+0,45 ... 0,63
+8,2
+100
+► 3RV2011-0GA1☐
+3RV2011-0GA2☐
+0,8
+0,18
+0,55 ... 0,8
+10
+100
+► 3RV2011-0HA1☐
+3RV2011-0HA2☐
+1
+0,25
+0,7 ... 1
+13
+100
+► 3RV2011-0JA1☐
+3RV2011-0JA2☐
+1,25
+0,37
+0,9 ... 1,25
+16
+100
+► 3RV2011-0KA1☐
+3RV2011-0KA2☐
+1,6
+0,55
+1,1 ... 1,6
+21
+100
+► 3RV2011-1AA1☐
+3RV2011-1AA2☐
+2
+0,75
+1,4 ... 2
+26
+100
+► 3RV2011-1BA1☐
+3RV2011-1BA2☐
+2,5
+0,75
+1,8 ... 2,5
+33
+100
+► 3RV2011-1CA1☐
+3RV2011-1CA2☐
+3,2
+1,1
+2,2 ... 3,2
+42
+100
+► 3RV2011-1DA1☐
+3RV2011-1DA2☐
+4
+1,5
+2,8 ... 4
+52
+100
+► 3RV2011-1EA1☐
+3RV2011-1EA2☐
+5
+1,5
+3,5 ... 5
+65
+100
+► 3RV2011-1FA1☐
+3RV2011-1FA2☐
+6,3
+2,2
+4,5 ... 6,3
+82
+100
+► 3RV2011-1GA1☐
+3RV2011-1GA2☐
+8
+3
+5,5 ... 8
+104
+100
+► 3RV2011-1HA1☐
+3RV2011-1HA2☐
+10
+4
+7 ... 10
+130
+100
+► 3RV2011-1JA1☐
+3RV2011-1JA2☐
+12,5
+5,5
+9 ... 12,5
+163
+100
+► 3RV2011-1KA1☐
+3RV2011-1KA2☐
+16
+7,5
+10 ... 16
+208
+55
+► 3RV2011-4AA1☐
+3RV2011-4AA2☐
+
+Tamaño S0
+16
+7,5
+10 ... 16
+208
+55
+► 3RV2021-4AA1☐
+3RV2021-4AA2☐
+20
+7,5
+13 ... 20
+260
+55
+► 3RV2021-4BA1☐
+3RV2021-4BA2☐
+22
+11
+16 ... 22
+286
+55
+► 3RV2021-4CA1☐
+3RV2021-4CA2☐
+25
+11
+18 ... 25
+325
+55
+► 3RV2021-4DA1☐
+3RV2021-4DA2☐
+28
+15
+23 ... 28
+364
+55
+► 3RV2021-4NA1☐
+3RV2021-4NA2☐
+32
+15
+27 ... 32
+400
+55
+► 3RV2021-4EA1☐
+3RV2021-4EA2☐
+36
+18,5
+30 ... 36
+432
+20
+► 3RV2021-4PA1☐
+---
+40
+18,5
+34 ... 40
+480
+20
+► 3RV2021-4FA1☐
+---
+
+Complemento de la referencia
+• Sin bloque transversal de contactos auxiliares
+0
+0
+• Con bloque transversal de contactos auxiliares (1 NA + 1 NC)
+5
+5
+
+1) Los guardamotores 3RV20 .1-..A.0 hasta 32 A pueden suministrarse también con terminal de cable en anillo. La 11ª posición de la referencia debe cambiarse a "4": p. ej. 3RV20 11-0AA40.
+
+Catálogo de baja tensión, control y distribución
+3/5

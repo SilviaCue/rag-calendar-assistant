@@ -1,0 +1,187 @@
+Relevadores de Acoplamiento e Interfaces
+
+3TX71 Relevadores Enchufables
+
+Dimensiones
+
+3TX7109 (SPDT) (clear cover)
+0.29
+(7.4)
+0.02
+(0.5)
+0.83
+(21)
+1.1
+(27.9)
+1.4
+(35.5)
+0.187
+(4.8)
+
+3TX7109 (SPDT) (full feature)
+0.27
+(7)
+0.29
+(7.4)
+0.02
+(0.5)
+0.83
+(21)
+1.1
+(27.9)
+1.54
+(39.1)
+0.187
+(4.8)
+
+3TX7110 SPDT
+.046 (1.17) Max
+.107 Max (2.72)
+.054
+(1.37)
+.120 Max
+(3.05)
+1.401 Max
+(35.59)
+CONTACT VIEWING WINDOW
+.100
+(2.54)
+RED PUSH
+BUTTON
+FLAG
+.100
+(2.54)
+PLASTIC
+WRITE ON
+I.D. TAG
+1.050
+(26.67)
+.019
+(0.48)
+L.E.D.
+LAMP
+1.620
+(41.15)
+1.850
+(46.99)
+.250
+(6.35)
+.187
+(4.75)
+.157
+(3.99)
+.250
+(6.35)
+.020 Typ
+(.51)
+1 4
+5 8
+Q.C./SOLDER/PLUG-IN
+TERMINALS
+.110
+(2.79)
+1.10 Max
+(27.9)
+.830
+(21.08)
+
+3TX7111 DPDT
+PUSH BUTTON
+-LOCK DOWN
+PUSH
+BUTTON
+FLAG
+1.07 Max
+(27.17)
+.820 Max
+(20.82)
+L.E.D.
+LAMP
+WHITE ON I.D. TAG
+.820 Max
+(20.82)
+1.620
+(41.15)
+1.850
+(46.99)
+.020 Typ
+(.51)
+1 4
+5 8
+9 12
+13 14
+1.10 Max
+(27.9)
+.830
+(21.08)
+Q.C./SOLDER/PLUG-IN
+TERMINALS
+
+7
+
+3TX7111 4PDT
+PUSH BUTTON
+-LOCK DOWN
+PUSH BUTTON
+FLAG
+1.07 Max
+(27.17)
+L.E.D.
+LAMP
+.820 Max
+(20.82)
+WRITE ON I.D. TAG
+.820 Max
+(20.82)
+.100
+(2.54)
+.250
+(6.35)
+1.42 Max
+(36.07)
+1.670
+(36.07)
+.250
+(6.35)
+.020 Typ
+(.51)
+1 2 3 4
+5 6 7 8
+9 10 11 12
+13 14
+1.10 Max
+(27.9)
+.830
+(21.08)
+Q.C./SOLDER/PLUG-IN
+TERMINALS
+
+3TX7112 DPDT
+Push button
+-lock down
+Push Button
+Flag
+1.350
+(34.29)
+Write on
+I.D. tag
+L.E.D.
+1.320
+(33.52)
+2.29
+(58.16)
+.450
+(11.43)
+8 PIN OCTAL PLUG
+4 5
+3 6
+2 7
+1 8
+1.390
+(35.30)
+1.380
+(35.05)
+11 PIN PLUG NOT SHOWN
+
+7/32
+Catálogo de baja tensión, control y distribución

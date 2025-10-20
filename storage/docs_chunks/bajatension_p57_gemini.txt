@@ -1,0 +1,109 @@
+Arrancadores suaves 3RW
+Arrancadores suaves de rendimiento general 3RW52
+
+Circuito delta interno
+
+Datos para selección y pedidos
+Para arranque normal (CLASE 10A)
+
+2
+
+3RW521.
+3RW522.
+3RW523.
+3RW524.
+Referencia
+
+A 40 °C
+Corriente de operación
+A
+Potencia de operación para motores trifásicos
+A 230 V
+kW
+A 400 V
+kW
+A 500 V
+kW
+A 50 °C
+Corriente de operación
+A
+Clasificación [hp] para motores trifásicos
+A 200/208 V
+hp
+A 220/230 V
+hp
+A 460/480 V
+hp
+A 575/600 V
+hp
+
+Voltaje operacional 200 ... 480 V
+22.5 5.5 11 — 19.9 5 5 10 — 3RW5213-□□C□4
+31.5 7.5 15 — 28 7.5 7.5 20 — 3RW5214-□□C□4
+43.3 11 18.5 — 39 10 10 25 — 3RW5215-□□C□4
+55.4 15 22 — 49 15 15 30 — 3RW5216-□□C□4
+65.8 18.5 30 — 58 15 20 40 — 3RW5217-□□C□4
+81.4 22 45 — 72 20 25 50 — 3RW5224-□□C□4
+109 30 55 — 96 30 30 75 — 3RW5225-□□C□4
+133 37 75 — 118 30 40 75 — 3RW5226-□□C□4
+161 45 90 — 143 40 50 100 — 3RW5227-□□C□4
+
+Tipo de conexión eléctrica para el circuito de control
+Terminales de tornillo 1
+Terminales tipo resorte 3
+Función del producto
+Salida análoga A
+Protección de motor de resistencia térmica T
+Voltaje de suministro del control
+24 V CA/CD 0
+110 ... 250 V CA 1
+
+A 40 °C
+Corriente de operación
+A
+Potencia de operación para motores trifásicos
+A 230 V
+kW
+A 400 V
+kW
+A 500 V
+kW
+A 50 °C
+Corriente de operación
+A
+Clasificación [hp] para motores trifásicos
+A 200/208 V
+hp
+A 220/230 V
+hp
+A 460/480 V
+hp
+A 575/600 V
+hp
+Referencia
+
+Voltaje operacional 200 ... 480 V
+196 55 110 — 175 50 60 125 — 3RW5234-□□C□4
+248 75 132 — 222 75 75 150 — 3RW5235-□□C□4
+296 90 160 — 265 75 100 200 — 3RW5236-□□C□4
+364 110 200 — 322 100 125 250 — 3RW5243-□□C□4
+433 132 250 — 381 125 150 300 — 3RW5244-□□C□4
+546 160 315 — 483 150 200 400 — 3RW5245-□□C□4
+641 200 355 — 568 200 200 450 — 3RW5246-□□C□4
+814 250 400 — 721 250 250 600 — 3RW5247-□□C□4
+987 315 550 — 873 300 350 750 — 3RW5248-□□C□4
+
+Tipo de conexión eléctrica para el circuito de control
+Terminales tipo resorte 2
+Terminales de tornillo 6
+Función del producto
+Salida análoga A
+Protección de motor de resistencia térmica T
+Voltaje de suministro del control
+24 V CA/CD 0
+110 ... 250 V CA 1
+
+Nota: En relación a las condiciones límite para las salidas de motor especificadas aquí, ver página 2/3.
+
+2/12
+Catálogo de baja tensión, control y distribución

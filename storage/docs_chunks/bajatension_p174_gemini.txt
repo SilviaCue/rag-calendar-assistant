@@ -1,0 +1,49 @@
+SIRIUS ACT Botones pulsadores y lámparas indicadoras
+Módulos para actuadores e indicadores
+Módulos electrónicos para IO-Link / terminales de soporte
+
+Datos para selección y pedidos
+
+Voltaje             Tipo de esclavo       Número de           Número de           SD      Terminal resorte
+operacional                               entradas digitales  salidas digitales           (de empuje)
+                                                                                  d       Referencia
+
+Módulos electrónicos para IO-Link, montaje en tablero
+24 V                Libremente programable  0 ... 8             0 ... 8           5       3SU1400-1HL10-6AA0
+                    (predeterminado 6 DI / 2 DQ)
+
+3SU1400-1HL10-6AA0
+
+Color                                       SD                Terminales
+                                                              tornillo
+                                            d                 Referencia
+Soporte de terminales
+Negro                                       3                 3SU1400-1DA10-1AA0
+Azul                                        5                 3SU1400-1DA50-1AA0
+Verde/Amarillo                              3                 3SU1400-1DA43-1AA0
+
+3SU1400-1DA10-1AA0
+
+                                                              Terminales
+                                                              de resorte
+Negro                                       5                 3SU1400-1DA10-3AA0
+Azul                                        5                 3SU1400-1DA50-3AA0
+Verde/Amarillo                              5                 3SU1400-1DA43-3AA0
+
+3SU1400-1DA50-3AA0
+
+6
+
+Datos para selección y pedidos
+
+Tipo de fuente vía    Protocolo soportado   Número de           Tasa de transferencia    SD     Terminal resorte
+maestro I-O Link      Protocolo IO-Link     contactos NA        IO-Link                  d      Referencia
+Módulos electrónicos para llave ID
+
+3SU1400-1GC10-1AA0
+—                     No                    5                   —                        ►      3SU1400-1GC10-1AA0
+
+3SU1400-1GD10-1AA0
+Sí                    Sí                    5                   COM2 (38,4 Kbaud)        ►      3SU1400-1GD10-1AA0
+
+Catálogo de baja tensión, control y distribución 6/51

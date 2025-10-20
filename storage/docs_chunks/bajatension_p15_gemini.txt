@@ -1,0 +1,101 @@
+Contactores de fuerza tripolares para maniobra de motores
+
+Contactores SIRIUS 3RT20,
+de 3 polos, 3... 18,5 kW
+
+1
+
+Descripción
+Tamaños S00 y S0, hasta 18,5 kW
+
+SIEMENS
+SIEMENS
+
+Contactor en tamaño S00 con bornes de resorte y en tamaño
+S0 con bornes de tornillo
+
+Normas
+IEC 60947-4-1/-4-2
+
+ANSI/UL 60947-1, "Low-Voltage Switchgear and Controlgear -
+Part 1: General Rules,"
+
+ANSI/UL 60947-4-1, "Low-Voltage Switchgear and Controlgear
+– Part 4-1:Contactors and MotorStarters – Electromechanical
+Contactors and Motor-Starters."
+
+CAN/CSA-C22.2 No. 60947-1 -2013," Low-Voltage Switchgear
+and Controlgear - Part 1: General Rules,"
+
+CAN/CSA-C22.2 No. 60947-4-1-2014," Low-Voltage Switchgear
+and Controlgear- Part 4-1: Contactors and Motor-Starters-
+Electromechanical Contactors and Motor-Starters."
+
+NMX-J-515-ANCE Equipos de control y distribución-requisitos
+generales de métodos de prueba
+
+NOM-003-SCFI Productos eléctricos-Especificaciones de seguridad
+
+Los contactores 3RT2 son resistentes a las condiciones climáticas, están probados y son idóneos para la aplicación en todo el mundo.
+
+Si en algún lugar de la instalación imperan condiciones ambientales diferentes a las condiciones industriales habituales
+(EN 60721-3-3 "Aplicación estacionaria con protección contra la intemperie"), entonces será necesario recopilar información sobre las limitaciones que puedan existir en cuanto a la fiabilidad y a la vida útil de los equipos o sobre las posibles medidas de protección. En este caso póngase en contacto con nuestra área o departamento de asistencia técnica.
+
+Los contactores 3RT2 están protegidos contra contactos
+directos según la norma EN 50274. Con la correspondiente
+tapa para bornes, los equipos con terminal de cable en anillo
+cumplen el grado de protección IP20.
+
+Dotados de contactos auxiliares
+Los contactores del tamaño S00 llevan un contacto auxiliar
+integrado en el aparato básico. Los equipos básicos del tamaño
+S0 contienen dos contactos auxiliares integrados (1 contacto
+NA + 1 contacto NC).
+
+Todos los equipos básicos (excepto contactores de acoplamiento) pueden ampliarse con bloques de contactos auxiliares. A
+partir del tamaño S0 se ofrecen equipos completos con
+1 NA + 1 NC (denominación de las conexiones según la norma
+EN 50012); el bloque de contactos auxiliares es desmontable.
+
+Se pueden montar bloques de contactos auxiliares adicionales
+con cuatro contactos auxiliares como máximo. No se admite la
+combinación de un bloque de contactos auxiliares de 2 polos
+montable frontalmente y uno montable lateralmente.
+
+De los contactos auxiliares posibles en el aparato (los integrados más los adosables) se permiten cuatro contactos NC como
+máximo.
+
+Además, los tamaños S00 y S0 se ofrecen con equipos completos con bloque de contactos auxiliares fijo (2 NA + 2 NC según
+EN 50012).
+
+ANEXO 1
+Los tamaños S00 y S0: disponibles en terminal tornillo o resorte, la terminal resorte tiene un diseño enchufable bastante
+sencillo para la rápida conexión entre equipos.
+
+Los tamaños S2 y S3: de tipo tornillo constan de terminales
+tipo caja; la conexión directa a barras es posible para cables
+con zapatas en el tamaño S3 cuando la terminal tipo caja es
+removida.
+
+Para los tamaños S6 a S12: con terminales tipo tornillo con
+conexión a barras pueden conectarse ya sea usando cable
+con zapatas o barra de bus flexible o rígida. Alternativamente
+la terminal tipo caja están disponibles para su venta como
+accesorios.
+
+Circuito de control auxiliar
+Disponible para los tamaños S00 al S12 con conexión tornillo
+y resorte.
+
+Compatibilidad electromagnética (EMC)
+Los contactores 3RT cumplen los requerimientos para ambientes categoría A
+
+Nota:
+Cuando los contactores son usados en ambientes con variadores de velocidad, deben de ser tomadas en cuenta las notas del
+Manual "SIRIUS 3RT del siguiente link
+
+Manual "SIRIUS – SIRIUS 3RT Contactors/Contactor Assemblies",
+https://support.industry.siemens.com/cs/WW/en/view/60306557
+
+1/8
+Catálogo de baja tensión, control y distribución

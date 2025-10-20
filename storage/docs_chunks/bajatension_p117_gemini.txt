@@ -1,0 +1,89 @@
+Interruptores de límite 3SE5, 3SE2
+
+Datos generales
+
+Descripción
+
+Los innovadores interruptores de límite de la serie 3SE5 de SIRIUS se caracterizan por su diseño moderno y por sus formas constructivas compactas, su construcción modular y la fácil conexión de los aparatos. Están diseñados para ahorrar tiempo y para aumentar la flexibilidad durante el montaje de diversas variantes de interruptores. En general, cada caja puede com-binarse con cualquier accionamiento, en su caso teniendo en cuenta las normas:
+
+UL 60947-1, Low-Voltage Switchgear and Controlgear – Part 1:
+General Rules
+UL 60947-5-1, Low-Voltage Switchgear and Controlgear –
+Part 5-1: Control Circuit Devices and Switching Elements –
+Electromechanical Control Circuit Devices
+CAN/CSA-C22.2 No 60947-1-13, Low-Voltage Switchgear and
+Control gear – Part 1: General rules
+CSA C22.2 No. 60947-5-1-14, Low-Voltage Switchgear and
+Controlgear – Part 5-1: Control Circuit Devices and Switching
+Elements – Electromechanical Control Circuit Devices
+NMX-J-515-ANCE Equipos de control y distribución-requisitos
+generales de seguridad-Especificaciones y métodos de prueba
+NOM-003-SCFI Productos eléctricos-Especificaciones de seguridad
+
+Aparatos completos
+
+Las variantes de los interruptores de límite en la caja estándar
+frecuentemente solicitadas se ofrecen como aparatos completos.
+
+Ejemplos de selección dentro del sistema modular.
+
+Diseño
+
+Todas las variantes de cajas vienen con una membrana de
+clorocaucho integrada (alta seguridad funcional en entornos
+fríos y corrosivos).
+
+Tamaños de las cajas
+
+Los interruptores 3SE5 están disponibles con cajas en cinco
+tamaños con dos o tres contactos, así como con caja XL:
+
+• Interruptores de límite IP20 o IP10 sin caja.
+• Caja de plástico según EN 50047, 31 mm de ancho, IP65,
+una entrada de cables.
+• Caja metálica según EN 50047, 31 mm de ancho, IP66/IP67,
+una entrada de cables.
+• Cajas de plástico y metálicas según EN 50041, 40 mm de
+ancho, IP66/IP67, una entrada de cables.
+• Caja de plástico, 50 mm de ancho, IP66/IP67, dos entradas
+de cables.
+• Caja metálica, 56 mm de ancho, IP66/IP67, tres entradas
+de cables.
+• Caja metálica XL con cuatro a seis contactos, 56 mm de an-
+cho, IP66/IP67, tres entradas de cables.
+
+Versiones de las cajas
+
+Dentro de la serie 3SE5 puede elegirse entre interruptores bási-
+cos distintos:
+
+• Con bloques de contactos con dos o tres contactos (bornes
+de tornillo), realizados como contactos de acción normal o de
+acción brusca, los contactos de acción normal también con
+solape.
+• Visualización de estado por LED, opcional.
+• Con conector de aparato M12, montado, de cuatro o cinco
+polos (disponible como accesorio para las cajas anchas para el
+montaje por el cliente).
+• Con conector de aparato de 6 polos + PE en las cajas metálicas.
+• Variantes con protección anticorrosión elevada (EKS).
+• Variantes para temperatura de servicio hasta –40 °C.
+• Versión AS-Interface con electrónica ASIsafe integrada para
+cajas de todas las formas.
+
+5
+
+Interruptores de límite 3SE5 con caja de plástico y metálica.
+
+Sistema modular
+
+Lo nuevo de la serie 3SE5 es el sistema modular que consiste
+en el interruptor básico en diversos tamaños y un accionamien-
+to que debe pedirse por separado. Gracias al diseño modular
+del interruptor, el usuario tiene la posibilidad de seleccionar de
+toda la serie de variantes la solución adecuada y de montarla él
+mismo en un tiempo mínimo.
+El montaje por enchufe resulta sencillo y permite cambiar rápi-
+damente las cabezas de accionamiento.
+
+5/4 Catálogo de baja tensión, control y distribución

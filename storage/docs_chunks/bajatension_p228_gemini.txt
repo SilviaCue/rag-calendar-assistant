@@ -1,0 +1,133 @@
+Botonería y Señalización
+NEMA Clase 52, Ø30.5 mm
+
+Datos para selección y pedidos
+Datos generales
+Especificaciones técnicas
+Certificaciones
+UL # E22655
+CSA # LR6535
+Empleo
+Categoría NEMA
+A600/P600
+Grado de protección
+52B, 52P-,52S-, 52M-
+NEMA: 1, 3, 3R, 4, 4X, 12 y 13
+IEC 529: IP10, IP11, IP14, IP52, IP54 e IP56
+
+Corriente Nominal de Operación
+NEMA A600-10 Amperes continuos
+NEMA P600 - Códigos de clasificación para aplicaciones de control en CD
+Voltaje en CA
+Nominal
+Ruptura
+120
+6
+60
+Corriente Máxima
+240
+3
+30
+125 V
+1.1
+480
+1.5
+15
+250 V
+0.55
+600
+1.2
+12
+301-600 V
+0.2
+Total VA
+720
+7200
+Relación Volt - Amper Máxima
+300 V o menos
+138
+
+Bloque de contactos
+52BAK, -BAJ, - BAH, - BAU, - BJK
+600 VCA máximo, uso rudo
+52BAR
+200 VCA a 0.25 amp, máximo 10 W
+Los 52BAR son Clase 1, División 2.
+200 VCD a 0.50 amp, máximo 10 W
+Los bloques de contactos son recomendables para aplicaciónes de baja tensión como p. ej. PLC´s
+
+Lámpara Indicadora
+Voltaje pleno
+52PL4
+-B (6-8V), -C (12V), - D (24V), E (120V)
+120 V CA/CD máx
+Modulo LED
+52PL5
+-L (24V), -M (120V), N (240)
+240 V CA máx
+Con transformador
+52BL452BL5
+-G (120V), -H (240V), -J (480V), K (600V)
+600 V CA máx
+
+Botón Pulsador
+Voltaje pleno
+52PT6
+-B (6-8V), -C (12V), - D (24V), E (120V)
+120 V CA/CD máx
+Modulo LED
+52BP6
+-L (24V), -M (120V), N (240)
+240 V CA máx
+Con transformador
+-G (120V), -H (240V), -J (480V), K (600V)
+600 V CA máx
+
+Botón Iluminado
+Voltaje pleno o LED
+52PP2(3,7)
+-B (6-8V), -C (12V), - D (24V), E (120V)
+120 V CA/CD máx
+-L (24V), -M (120V), N (240)
+240 V CA máx
+Con transformador
+52BP2(3,7)
+-G (120V), -H (240V), -J (480V), K (600V)
+600 V CA máx
+
+Selector
+Voltaje pleno
+52SA7
+-AD, -BD, -CD
+24 V CA/CD máx
+Con transformador
+52SA7
+-AG (120V), -BG (120V), -CG (120V),
+240 V CA máx
+-BH (240V), -CH (240V)
+
+Fuerza dieléctrica
+2200 V por un minuto
+
+Ciclo de vida mecánico
+Vibración
+De 5 a 60 Hz, 0.30 pulg. Desde 5 minutos hasta 30 minutos en cada eje.
+Botón Pulsador
+Momentáneo, no iluminado
+5,000,000 de operaciones
+Momentáneo, iluminado
+300,000 operaciones
+Selector
+No iluminado
+2,000,000 de operaciones
+
+Calibre de cable
+# 18 - 12 AWG
+Par de Ajuste del Tornillo
+2 - 10 lb-pulg máx; 8 lb-pulg recomendado
+Rango de Temperatura
+Operación
+- 35 °C a +70 °C
+
+Catálogo de baja tensión, control y distribución
+7/37

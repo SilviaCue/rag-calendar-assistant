@@ -1,0 +1,60 @@
+Equipos de gestión y mando de motores SIMOCODE 3UF
+SIMOCODE pro 3UF7
+
+Datos generales
+
+Beneficios
+
+Protocolos de comunicación
+
+SIMOCODE pro tiene interface integrada PROFIBUS DP o MODBUS RTU (SUB-D o conexión terminal) o interface PROFINET (2x RJ45).
+
+Desconexión Fail-safe a través de PROFIBUS o PROFINET con el perfil PROFIsafe es también posible usarlo a la par con un controlador fail-safe (F-CPU)y el módulo digital DM-F PROFIsafe.
+
+SIMOCODE pro para PROFIBUS
+Simocode pro para PROFIBUS soporta por ejemplo:
+• Información cíclica (DPV0) e información acíclica (DPV1)
+• Diagnóstico extensivo e interrupción de hardware
+• Estampado de tiempo con alta precisión de tiempo (SIMATIC S7) para SIMOCODE pro V.
+• Comunicación DPV1 después del Y-Link.
+
+SIMOCODE pro para PROFINET
+SIMOCODE pro para PROFINET soporta por ejemplo:
+• Topología línea y bus anillo gracias al switch integrado
+• Redundancia de medios vía protocolo MRP
+• Servicio operativo y diagnóstico de datos vía servidor web
+• Servidor OPC UA para comunicación con visualización y sistema de control
+• Sincronización de tiempo-NTP
+• Función de intervalos y valores medidos para la gestión de la energía vía PROFIenergy
+• Módulos intercambiables sin necesidad de PC a través del módulo de memoria
+• Diagnóstico extensivo y alarmas de mantenimiento
+
+Redundancia del sistema con SIMOCODE pro para PROFINET
+Los equipos soportan el mecanismo de redundancia de sistema de PROFINET IO y por lo tanto puede ser operado directamente sobre sistemas tolerantes a fallas tales como SIMATIC S7-400 H.SIMOCODE pro puede proveer valor agregado decisivo también a nivel de campo en las plantas industriales en las cuales la disponibilidad y la redundancia en el sistema de control son la prioridad.
+
+SIMOCODE pro para MODBUS RTU
+SIMOCODE pro para MODBUS RTU soporta por ejemplo:
+• Comunicación con velocidades en baudios
+• 1200/2400/4800/9600/19200/57600
+• Acceso a imagen de proceso de libre parametrización vía Modbus RTU
+• Acceso a todos los diagnósticos de servicio y operación vía Modbus RTU.
+
+Para conexión de un sistema interno a uno externo, las mediciones de protección disponibles deben ser tomadas para asegurar la operación segura de la planta (incluyendo seguridad IT, por ejem. segmentación de redes).
+
+Para mayor información ver, www.siemens.com/industrialsecurity.
+
+Operación autónoma
+
+Una característica esencial de SIMOCODE pro es que todas las funciones de protección y de mando pueden ejecutarse de forma autónoma si se corta la comunicación con el sistema de control. Es decir, que la derivación a motor sigue plenamente operativa si falla el sistema de bus o el de automatización, pudiéndose parametrizar también un comportamiento definido, por ejemplo, desconexión de la derivación o ejecución de determinados mecanismos de mando parametrizados (como la inversión del sentido de giro).
+
+Tecnología de seguridad para SIMOCODE pro
+
+La desconexión segura de motores, en particular de motores en la industria de procesos, va ganando más y más importancia debido a las normas y prescripciones nuevas, las cuales han sido revisadas en el área de la tecnología de seguridad.
+
+Los módulos de ampliación de seguridad DM-F Local y DM-F PROFIsafe permiten integrar confortablemente las funciones para la desconexión segura en el sistema de gestión de motores SIMOCODE pro V, conservando a la vez los conceptos acreditados. Una gran ventaja a la hora de la planificación, configuración y construcción es la estricta separación entre la función de seguridad y la función operativa. Además aumenta la transparencia gracias a la perfecta integración en el sistema de gestión de motores durante diagnósticos y durante el funcionamiento de la instalación.
+
+Con los módulos de ampliación de seguridad DM-F Local y DM-F PROFIsafe se ofrecen los componentes adecuados en función de los requisitos de que se trate:
+• El módulo digital de seguridad DM-F Local, cuando se requiera una coordinación directa entre la señal de desconexión de hardware de seguridad y la derivación de motor o:
+• El módulo digital de seguridad DM-F PROFIsafe, cuando un autómata de seguridad (F-CPU) genere la señal de desconexión y la transmita de forma segura vía PROFIBUS/PROFINET/PROFIsafe al sistema de gestión de motores.
+
+Catálogo de baja tensión, control y distribución 4/5

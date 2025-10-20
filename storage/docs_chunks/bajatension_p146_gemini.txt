@@ -1,0 +1,96 @@
+SIRIUS ACT Botones pulsadores y lámparas indicadoras
+Actuadores e indicadores 22 mm, redondo, plástico negro
+
+Interruptor selector
+Datos para selección y pedidos
+
+Versión del elemento actuador
+Operación principal
+Color
+DT
+Referencia
+
+Selectores
+
+2 posiciones de los interruptores, pueden ser iluminados
+Selector, actuador corto negro
+Contacto momentáneo, 45° (10:30/12 en punto), reiniciar desde el centro a la izquierda
+Rojo
+3SU1002-2BC20-0AA0
+Amarillo
+3SU1002-2BC30-0AA0
+Verde
+3SU1002-2BC40-0AA0
+Azul
+3SU1002-2BC50-0AA0
+O I
+Blanco
+3SU1002-2BC60-0AA0
+3SU1002-2BC40-0AA0
+
+Enclave, 90° (10:30/1:30 en punto)
+Rojo
+3SU1002-2BF20-0AA0
+Amarillo
+3SU1002-2BF30-0AA0
+Verde
+3SU1002-2BF40-0AA0
+Azul
+3SU1002-2BF50-0AA0
+Blanco
+3SU1002-2BF60-0AA0
+3SU1002-2BF30-0AA0
+O I
+
+6
+
+Selector, actuador largo negro
+Enclave, 90° (10:30/1:30 en punto)
+Rojo
+3
+3SU1002-2CF20-0AA0
+Blanco
+3
+3SU1002-2CF60-0AA0
+O I
+3SU1002-2CF20-0AA0
+
+Botón giratorio
+Enclave, 90° (10:30/1:30 en punto)
+Rojo
+3
+3SU1002-2AF20-0AA0
+Blanco
+3SU1002-2AF60-0AA0
+O I
+3SU1002-2AF20-0AA0
+
+Hacer de bloqueo
+Posición del interruptor para retirar la llave
+Número de llaves
+DT
+Referencia
+
+Perilla selectora con llave
+
+CES, SSG10
+O
+2
+3SU1000-5BF01-0AA0
+O+I
+2
+3SU1000-5BF11-0AA0
+I
+2
+3SU1000-5BF21-0AA0
+CES, LSG1
+O
+2
+3SU1000-5HF01-0AA0
+O+I
+2
+3SU1000-5HF11-0AA0
+3SU1000-5BF11-0AA0
+
+Catálogo de baja tensión, control y distribución
+6/23

@@ -1,0 +1,112 @@
+Botonería y Señalización
+NEMA Clase 52, Ø30.5 mm
+
+Dimensiones
+
+Botón selector no iluminado
+1.28 [32]
+1.00 [25]
+1.38 [35]
+2.38 [60]
+1.06 [27]
+2.12 [54]
+
+Botón selector iluminado
+1.70 [43]
+1.38 [35]
+2.38 [60]
+2.34 [60]
+1.97 [50]
+1.06 [27]
+1.06 [27]
+
+Lámpara indicadora cubierta de vidrio
+1.43 [36]
+2.25 [57]
+1.52 [39]
+1.09 [28]
+
+Botón pulsador hongo momentáneo iluminado metal
+Ø1.75 [44]
+1.75 [44]
+2.25 [57]
+1.74 [44]
+1.00 [25]
+2.74 [69]
+1.52 [38]
+1.09 [28]
+1.06 [27]
+
+Botón pulsador hongo momentáneo iluminado plástico 1 3/4"
+Ø1.75 [44]
+1.75 [44]
+2.25 [57]
+1.74 [44]
+1.00 [25]
+2.74 [69]
+1.52 [38]
+1.09 [28]
+1.06 [27]
+
+Botón pulsador hongo momentáneo iluminado plástico 2 1/2"
+Ø2.50 [64]
+1.75 [44]
+2.25 [57]
+1.74 [44]
+1.00 [25]
+2.74 [69]
+1.52 [38]
+1.09 [28]
+1.06 [27]
+
+7
+
+Momentary Pushbutton Guard
+Illuminated Push to Test Guard
+Ø1.49 [38]
+1.38 [35]
+
+Mushroom Head Guard
+1.97 [50]
+1.82 [46]
+.25 [6]
+Ø1.78 [45]
+
+Bloques de contacto
+.39 [10]
+.39 [10]
+.39 [10]
+1.64 [42]
+1.06 [27]
+.03 [1]
+1.00 [25]
+
+Plaquita de identificación de metal
+2.00 [51]
+.06 [2]
+1.00 [25]
+1.25 [32]
+2.05 [52]
+1.29 [33]
+Ø1.22 [31]
+
+Plaquita de identificación uso automotriz
+2.44 [62]
+.06 [2]
+1.22 [31]
+1.59 [40]
+2.41 [61]
+1.29 [33]
+Ø1.22 [31]
+
+Plaquita de identificación grande
+2.00 [51]
+.06 [2]
+1.00 [25]
+1.18 [30]
+2.00 [51]
+1.29 [33]
+Ø1.22 [31]
+
+7/44
+Catálogo de baja tensión, control y distribución

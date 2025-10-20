@@ -1,0 +1,83 @@
+SIRIUS ACT Botones pulsadores y lámparas indicadoras
+Actuadores e indicadores 22 mm, metal brillante
+
+Unidades completas
+Botones
+
+Datos para selección y pedidos
+
+Voltaje de alimentación para fuente luminosa       Color       Número de                                          SD      Terminal tornillo ⊕
+                                                   Bloque de contactos   Contactos NA   Contactos NC
+En CA       En CD
+V           V                                                                                                    Referencia
+
+Botones
+
+Botones razantes, contacto momentáneo
+—           —                Negro                1                   1              0              ►       3SU1150-0AB10-1BA0
+                                                                      0              1              3       3SU1150-0AB10-1CA0
+                                                                      1              1              ►       3SU1150-0AB10-1FA0
+                           Rojo                 1                   1              0              5       3SU1150-0AB20-1BA0
+                                                                      0              1              5       3SU1150-0AB20-1CA0
+3SU1150-0AB30-1BA0                                                    1              1              ►       3SU1150-0AB20-1FA0
+                           Amarillo             1                   1              0              3       3SU1150-0AB30-1BA0
+                                                                      1              1              5       3SU1150-0AB30-1FA0
+                           Verde                1                   1              0              ►       3SU1150-0AB40-1BA0
+                                                                      1              1              ►       3SU1150-0AB40-1FA0
+                           Azul                 1                   1              0              3       3SU1150-0AB50-1BA0
+                                                                      1              1              5       3SU1150-0AB50-1FA0
+                           Blanco               1                   1              0              3       3SU1150-0AB60-1BA0
+                                                                      1              1              3       3SU1150-0AB60-1FA0
+                           Transparente         1                   1              0              5       3SU1150-0AB70-1BA0
+                                                                      1              1              5       3SU1150-0AB70-1FA0
+
+6                          Botones con salientes, contacto momentáneo
+—           —                Negro                1                   1              0              5       3SU1150-0BB10-1BA0
+                                                                      0              1              5       3SU1150-0BB10-1CA0
+                                                                      1              1              5       3SU1150-0BB10-1FA0
+                           Rojo                 1                   0              1              3       3SU1150-0BB20-1CA0
+3SU1150-0BB20-1CA0                                                    1              1              5       3SU1150-0BB20-1FA0
+                           Verde                1                   1              1              5       3SU1150-0BB40-1FA0
+                           Azul                 1                   1              0              5       3SU1150-0BB50-1BA0
+                                                                      1              1              5       3SU1150-0BB50-1FA0
+
+Botones iluminados con botón rasante, contacto momentáneo con LED integrado
+24          24               Ámbar                1                   1              0              5       3SU1152-0AB00-1BA0
+                                                                      1              1              5       3SU1152-0AB00-1FA0
+                           Rojo                 1                   0              1              ►       3SU1152-0AB20-1CA0
+                                                                      1              1              ►       3SU1152-0AB20-1FA0
+                           Amarillo             1                   1              0              ►       3SU1152-0AB30-1BA0
+                                                                      1              1              3       3SU1152-0AB30-1FA0
+3SU1152-0AB50-1CA0         Verde                1                   1              0              ►       3SU1152-0AB40-1BA0
+                                                                      1              1              ►       3SU1153-0AB40-1FA0
+                           Azul                 1                   1              0              5       3SU1152-0AB50-1BA0
+                                                                      1              1              5       3SU1152-0AB50-1FA0
+                           Blanco               1                   1              0              ►       3SU1152-0AB60-1BA0
+                                                                      1              1              ►       3SU1152-0AB60-1FA0
+                           Transparente         1                   1              0              ►       3SU1152-0AB70-1BA0
+                                                                      1              1              ►       3SU1152-0AB70-1FA0
+110         —                Ámbar                1                   1              0              5       3SU1153-0AB00-1BA0
+                                                                      1              1              5       3SU1153-0AB00-1FA0
+                           Rojo                 1                   0              1              5       3SU1153-0AB20-1CA0
+                                                                      1              1              5       3SU1153-0AB20-1FA0
+                           Amarillo             1                   1              0              5       3SU1153-0AB30-1BA0
+                                                                      1              1              5       3SU1153-0AB30-1FA0
+3SU1153-0AB60-1CA0         Verde                1                   1              0              3       3SU1153-0AB40-1BA0
+                                                                      1              1              5       3SU1153-0AB40-1FA0
+                           Azul                 1                   1              0              5       3SU1153-0AB50-1BA0
+                                                                      1              1              5       3SU1153-0AB50-1FA0
+                           Blanco               1                   1              0              5       3SU1153-0AB60-1BA0
+                                                                      1              1              5       3SU1153-0AB60-1FA0
+                           Transparente         1                   1              0              5       3SU1153-0AB70-1BA0
+                                                                      1              1              5       3SU1153-0AB70-1FA0
+
+230         —                Ámbar                1                   1              0              5       3SU1156-0AB00-1BA0
+                                                                      1              1              5       3SU1156-0AB00-1FA0
+                           Rojo                 1                   0              1              5       3SU1156-0AB20-1CA0
+                                                                      1              1              5       3SU1156-0AB20-1FA0
+                           Amarillo             1                   1              0              5       3SU1156-0AB30-1BA0
+                                                                      1              1              5       3SU1156-0AB30-1FA0
+                           Verde                1                   1              0              3       3SU1156-0AB40-1BA0
+                                                                      1              1              5       3SU1156-0AB40-1FA0
+
+6/38        Catálogo de baja tensión, control y distribución

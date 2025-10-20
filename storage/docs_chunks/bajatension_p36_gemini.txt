@@ -1,0 +1,93 @@
+Accesorios para contactores
+Para contactores y contactores auxiliares 3RT2, 3RH2
+
+Bloques de contactos auxiliares
+
+1
+
+3RH29 11-1DA..
+
+3RH29 11-2DA..
+
+3RH29 21-1DA..
+
+3RH29 21-2DA..
+
+Para contactores /
+contactores auxiliares
+
+Contactor con bloque de
+contactos auxiliares
+
+Contactos auxiliares
+
+PE Bornes de
+tornillo
+
+PE Bornes de
+resorte
+
+Nº caract.
+
+Versión
+
+Referencia
+
+Referencia
+
+NA NC
+
+Tipo
+Bloques de contactos auxiliares adosables lateralmente
+según EN 50012 • Montaje a la derecha
+
+Tamaño S00¹⁾²⁾
+3RT20 1.
+Número característico 10
+
+12
+
+—
+
+2
+
+—
+
+izda.
+
+dcha.
+21 31
+22 32
+
+3RH2911-1DA02
+
+3RH2911-2DA02
+
+21
+
+1
+
+1
+
+—
+
+21 33
+22 34
+
+3RH2911-1DA11
+
+3RH2911-2DA11
+
+1) El tamaño S00 permite únicamente el montaje según EN 50012 en equipos
+básicos sin contacto NC integrado.
+
+2) También es posible el número característico 41, 32 y 23 según EN 50012.
+Obsérvense los esquemas de conexiones que correspondan al montaje
+a la izquierda de 3RH29 11-1DA..
+
+3) En caso de 3RT23 2., 3RT25. 2. solo es posible el montaje
+a la derecha.
+
+Catálogo de baja tensión, control y distribución
+
+1/29

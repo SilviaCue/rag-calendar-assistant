@@ -1,0 +1,182 @@
+Arrancadores suaves 3RW
+Para aplicaciones básicas
+3RW30
+
+Datos para selección y pedidos
+
+2
+
+3RW30 1.
+3RW30 2.
+3RW30 3.
+3RW30 4.
+
+Temperatura ambiente 3RW 40 °C¹⁾
+Datos asignados de motores trifásicos
+Corriente
+Potencia a
+de empleo Ie
+tensión de empleo Ue
+230 V
+400 V
+A
+kW
+kW
+Temperatura ambiente 3RW 50 °C¹⁾
+Datos asignados de motores trifásicos
+Corriente
+Potencia a
+de empleo Ie
+tensión de empleo Ue
+200 V
+230 V
+460 V
+A
+hp
+hp
+hp
+Tamaño
+PE
+Arranque normal
+(Clase 10)
+Referencia
+Tensión asignada de empleo Ue 200... 480 V²⁾
+• Con bornes de tornillo o de resorte
+3,6
+0,75
+1,5
+3
+0,5
+0,5
+1,5
+S00
+► 3RW3013-□BB□4
+6,5
+1,5
+3
+4,8
+1
+1
+3
+S00
+► 3RW3014-□BB□4
+9
+2,2
+4
+7,8
+2
+2
+5
+S00
+► 3RW3016-□BB□4
+12,5
+3
+5,5
+11
+3
+3
+7,5
+S00
+► 3RW3017-□BB□4
+17,6
+4
+7,5
+17
+3
+3
+10
+S00
+► 3RW3018-□BB□4
+• Con bornes de tornillo o de resorte
+25
+5,5
+11
+23
+5
+5
+15
+S0
+► 3RW3026-□BB□4
+32
+7,5
+15
+29
+7,5
+7,5
+20
+S0
+► 3RW3027-□BB□4
+38
+11
+18,5
+34
+10
+10
+25
+S0
+► 3RW3028-□BB□4
+• Con bornes de tornillo o de resorte
+45
+11
+22
+42
+10
+15
+30
+S2
+► 3RW3036-□BB□4
+63
+18,5
+30
+58
+15
+20
+40
+S2
+► 3RW3037-□BB□4
+72
+22
+37
+62
+20
+20
+40
+S2
+► 3RW3038-□BB□4
+• Con bornes de tornillo o de resorte
+80
+22
+45
+73
+20
+25
+50
+S3
+► 3RW3046-□BB□4
+106
+30
+55
+98
+30
+30
+75
+S3
+► 3RW3047-□BB□4
+Complemento de la referencia para el tipo de conexión
+• Con bornes de tornillo
+1
+• Con bornes de resorte³⁾
+2
+Complemento de la referencia para tensión asignada de mando Us
+• 24 V CA/CD
+0
+• 110 ... 230 V CA/CD
+1
+
+Nota:
+Las potencias de motor indicadas son solo valores aproximados. El diseño del arrancador suave debería ser siempre superior a la corriente asignada de empleo necesaria del motor.
+Los arrancadores suaves electrónicos SIRIUS 3RW30 están diseñados para arranques normales. Los datos para selección y pedidos se han determinado bajo las siguientes condiciones generales:
+• Tiempo de arranque máximo en s: 20
+
+Catálogo de baja tensión, control y distribución
+2/5

@@ -1,0 +1,165 @@
+Relevadores de Acoplamiento e Interfaces
+
+3TX71 Relevadores Enchufables
+
+Dimensiones
+
+3TX7114 DPDT
+PUSH BUTTON
+LOCK DOWN
+PUSH
+BUTTON
+FLAG
+1.07 Max
+(27.17)
+.820 Max
+(20.82)
+WRITE ON ID TAG
+.820 Max
+(20.82)
+L.E.D.
+LAMP
+1.67 Max
+(42.41)
+2.21 Max
+(56.13)
+.187 Typ
+(4.75)
+.020 Typ
+(.51)
+1 2
+3 4
+5 6
+1.10
+(27.9)
+.830
+(21.08)
+Q.C./SOLDER/PLUG-IN
+TERMINALS
+1.42 Max
+(36.07)
+1.620
+(36.07)
+.291
+(7.39)
+
+3TX7115 (DPDT) (full feature)
+0.2
+(6.1)
+2.1
+(53.1)
+1.37
+(34.9)
+1.4
+(35.4)
+
+3TX7115 (DPDT) (clear cover)
+1.97
+(50)
+1.37
+(34.9)
+1.4
+(35.4)
+
+3TX7115 3PDT
+Push button
+-lock down
+Push Button
+Flag
+1.350
+(34.29)
+Write on
+I.D. tag
+L.E.D
+1.320
+(33.52)
+2.218 Max
+(56.33)
+2.23 Max
+(56.7)
+.28typ
+(7.11)
+.187 Typ
+(4.749)
+.020 Typ
+(.508)
+1.406
+(35.71)
+1.320
+(33.52)
+1 2 3
+4 5 6
+7 8 9
+A B
+1.320
+(33.52)
+1.406
+(35.71)
+
+3TX7116 3PDT
+Orange Flag
+Indicator
+Push Button &
+Lock-Down Door
+Standard
+Cover
+Plastic
+I.D. Tag/Write Label
+Green L.E.D
+Status Lamp
+1.54 MAX.
+(39.11)
+Clear
+Window
+1.065 MAX
+(27.05)
+Frosted Panels
+1.080
+(27.43)
+0.187
+(4.74)
+QUICK CONNECT
+SOLDER/PLUG-IN
+TERMINALS
+1.215
+(30.86)
+1 2 3
+5 6
+9 10 12
+13 14
+
+3TX7117 4PDT
+Orange Flag
+Indicator
+Push Button &
+Lock Down Door
+Standard
+Cover
+Plastic
+I.D. Tag / Write Label
+Green L.E.D
+Status Lamp
+1.54 MAX
+(39.11)
+Clear
+Window
+1.065 MAX
+(27.05)
+Frosted Panels
+1.080
+(27.43)
+0.187
+(4.74)
+QUICK CONNECT
+SOLDER/PLUG-IN
+TERMINALS
+1.595
+(40.51)
+1 2 3 4
+9 10 11 12
+13 14
+
+7
+
+Catálogo de baja tensión, control y distribución
+7/33

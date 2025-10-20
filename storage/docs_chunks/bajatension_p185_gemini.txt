@@ -1,0 +1,85 @@
+Columnas de señalización SIRIUS 8WD4
+
+Datos generales
+
+Descripción
+Por su diseño modular, las columnas de señalización 8WD4 permiten un arreglo flexible y múltiples usos.
+
+6
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+
+NSC0_00726b
+
+① Elemento acústico 8WD42 .0-0FA
+② Elemento luminoso 8WD42
+③ Elemento adaptador AS-Interface 8WD42 28-0BB
+④ Elemento de conexión 8WD42 28-0AA
+⑤ Escuadra para fijación mural 8WD42 08-0CD
+⑥ Adaptador para fijación por taladro 8WD42 08-0EH
+⑦ Pata para montaje en suelo 8WD42 08-0DE
+⑧ Tubo 8WD42 08-0EF/8WD43 08-0E.
+⑨ Pata para montaje en tubo 8WD43 08-0DB
+⑩ Pata para montaje en tubo (> 400 mm) 8WD43 08-0DC
+⑪ Pata articulada para montaje en tubo 8WD44 08-0DF
+⑫ Caja de conexión 8WD43 08-0DD
+⑬ Caja de conexión (fijación magnética) 8WD43 08-0DE
+⑭ Escuadra para fijación en ángulo 8WD44 08-0CC
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+8
+15
+
+NSC0_00727b
+
+① Elemento acústico 8WD44
+② Elemento luminoso 8WD44
+③ Elemento adaptador AS-Interface 8WD44 28-0BD/8WD44 28-0BE
+④ Elemento de conexión para fijación en ángulo, zócalo y montaje en suelo 8WD44 08-0AB/8WD44 08-0AE
+⑤ Elemento de conexión para montaje en tubo 8WD44 08-0AA/8WD44 08-0AD
+⑥ Escuadra para fijación mural 8WD43 08-0CA
+⑦ Escuadra para fijación mural (2 lados) 8WD43 08-0CB
+⑧ Caja de conexión 8WD43 08-0DD
+⑨ Escuadra para fijación en zócalo 8WD44 08-0CD
+⑩ Tubo 8WD42 08-0EF/8WD43 08-0E.
+⑪ Pata con tubo 8WD43 08-0DA
+⑫ Pata para montaje en tubo 8WD43 08-0DB
+⑬ Pata para montaje en tubo (> 400 mm) 8WD43 08-0DC
+⑭ Pata articulada para montaje en tubo 8WD44 08-0DF
+⑮ Caja de conexión (fijación magnética) 8WD43 08-0DE
+⑯ Escuadra para fijación en ángulo 8WD44 08-0CC
+
+Columna de señalización 8WD42 (anchura 50 mm) con un máximo de cuatro elementos.
+
+Columna de señalización 8WD44 (anchura 70 mm) con un máximo de cinco elementos.
+
+6/62
+Catálogo de baja tensión, control y distribución

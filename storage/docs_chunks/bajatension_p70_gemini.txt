@@ -1,0 +1,47 @@
+Interruptores automáticos
+Guardamotores SIRIUS 3RV2 hasta 80 A
+Datos generales
+
+Descripción
+La siguiente ilustración muestra nuestros guardamotores 3RV2 con los accesorios adosables para los tamaños S00, S0, S2 y S3.
+
+Accesorios montables
+① Bloque auxiliar transversal
+② Bloque auxiliar lateral con 2 contactos
+③ Bloque auxiliar lateral con 4 contactos
+④ Disparador por picos de voltaje (no puede ser usado con guardamotores 3RV21)
+⑤ Disparador de bajo voltaje sin / con contactos principales (no pueden ser usados con guardamotores 3RV21)
+⑥ Interruptor de señalización (no puede ser usados con interruptores 3RV27 y 3RV28)
+⑦ Módulo de aislamiento (no puede ser usado con interruptores 3RV2, 4, 3RV27 y 3RV28)
+⑧ Bloque terminal tipo E o protector de fase
+
+3
+
+IC01_00633
+
+Accesorios montables para guardamotores SIRIUS 3RV2
+
+Diseño
+Los guardamotores 3RV2 se pueden suministrar en varios tamaños:
+• Tamaño S00 – 45 mm de ancho, corriente asignada máx. 16 A, con 400 V CA adecuados para motores trifásicos hasta 7,5 kW
+• Tamaño S0 – 45 mm de ancho, corriente asignada máx. 40 A, con 400 V CA adecuados para motores trifásicos hasta 18,5 kW
+• Tamaño S2 – 55 mm de ancho, corriente asignada máx. 80 A, en 400 CA adecuados para motores de hasta 37 kW.
+
+Tamaños S2 y S3 de los guardamotores 3RV1 hasta 100 A.
+Tamaño S3 – 70 mm de ancho, corriente asignada máx. 100 A. En 400 V CA adecuados para motores de tres fases hasta 55 kW
+
+Bornes de tornillo
+
+Bornes de resorte
+
+Terminal de cable en anillo
+
+Estas conexiones están marcadas en las tablas correspondientes mediante los símbolos representados sobre trasfondo naranja.
+
+Guardamotores con bornes de resorte, tamaño S0 (fig. izquierda)
+y guardamotores con bornes de tornillo, tamaño S00 (fig. derecha)
+
+Los nuevos guardamotores 3RV2 son guardamotores compactos con limitación de corriente, optimizados específicamente para las derivaciones a motor. Los interruptores se utilizan para conectar y proteger motores trifásicos de hasta 55 kW con 400 V CA o bien para otros consumidores que tengan intensidades asignadas hasta 100 A.
+
+Catálogo de baja tensión, control y distribución
+3/3

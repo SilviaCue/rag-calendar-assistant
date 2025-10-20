@@ -1,0 +1,33 @@
+SIRIUS ACT Botones pulsadores y lámparas indicadoras
+Actuadores e indicadores 22 mm, metal brillante
+
+Accionamiento y señalización de elementos
+Datos para selección y pedidos
+
+Versión del elemento actuador | Principio de operación | Color | Símbolo marcado | SD | Referencia
+---|---|---|---|---|---
+| | | | d |
+Botón doble tipo domino
+3SU1051-3BB61-0AA0 | Botón doble tipo dominó
+plano, saliente iluminado | Contacto momentáneo | Verde/Rojo | — | 3 | 3SU1051-3BB42-0AA0
+| | | "I"/"O" | ► 3 | 3SU1051-3BB42-0AK0
+| | Blanco/Negro | — | 3 | 3SU1051-3BB61-0AA0
+| | | "I"/"O" | 5 | 3SU1051-3BB61-0AK0
+
+Versión del elemento actuador | Diametro externo del hongo | Tipo de cerradura | Color | SD | Número de artículo
+---|---|---|---|---|---
+| | | | d |
+Botones tipo hongo PARO DE EMERGENCIA, de acuerdo con ISO 13850 e IEC 60947-5-5
+Con mecanismo jalar para desenclavar
+3SU1050-1HA20-0AA0 | A prueba de manipulación
+2 posiciones | 40 | — | Rojo | ► | 3SU1050-1HA20-0AA0
+Con desenclavamiento por llave
+3SU1050-1HF20-0AA0 | A prueba de manipulación
+2 posiciones | 40 | RONIS SB30 | Rojo | 3 | 3SU1050-1HF20-0AA0
+| | | RONIS 455 | | 5 | 3SU1050-1HG20-0AA0
+| | | RONIS 421 | | 5 | 3SU1050-1HH20-0AA0
+
+6
+
+Catálogo de baja tensión, control y distribución
+6/43

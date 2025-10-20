@@ -1,0 +1,69 @@
+Interruptores automáticos
+Guardamotores SIRIUS 3RV2 hasta 40 A
+Accesorios
+
+Accesorios para barras colectoras
+
+Separación Número de guardamotores conectables Corriente Para PE Referencia
+asignada
+Sin accesorios Con bloque de Con
+laterales contactos disparador In a 690 V interruptores
+auxiliares lateral auxiliar automáticos
+
+mm A Tamaño
+
+Barras colectoras trifásicas¹⁾²⁾
+Para alimentar varios guardamotores montados en serie con bornes de tornillo
+en perfiles, aislados, protegidos contra contactos directos
+3RV19 15-1AB 45 2 — — 63 S00, S0¹⁾ ▶ 3RV1915-1AB
+3 — — S00, S0¹⁾ ▶ 3RV1915-1BB
+4 — — S00, S0¹⁾ ▶ 3RV1915-1CB
+5 — — S00, S0¹⁾ ▶ 3RV1915-1DB
+
+3RV19 15-1BB 55 — 2 — 63 S00, S0¹⁾ ▶ 3RV1915-2AB
+— 3 — S00, S0¹⁾ ▶ 3RV1915-2BB
+— 4 — S00, S0¹⁾ ▶ 3RV1915-2CB
+— 5 — S00, S0¹⁾ ▶ 3RV1915-2DB
+
+3RV19 15-1CB 63 — — 2 63 S00, S0¹⁾ ▶ 3RV1915-3AB
+— — 4 S00, S0¹⁾ ▶ 3RV1915-3CB
+
+75 — 2 2 108 S2 ▶ 3RV1935-3A
+— 3 3 108 S2 ▶ 3RV1935-3B
+— 4 4 108 S2 ▶ 3RV1935-3C
+
+1) No compatible con guardamotores 3RV21 para protección de motores 3) Autorizado para guardamotores con In ≤ 32 A.
+con función de relés de sobrecarga y guardamotores 3RV27 y 3RV28 4) Para guardamotores 3RV2 con 1NA + 1NC, 2NA y 2NC montados a la
+según: UL 489/CSA C22.2 No.5-02. izquierda (9 mm de ancho).
+2) Para guardamotores 3RV2 sin accesorios montados a los lados.
+
+Sección del conductor Par Para PE Referencia TE*
+de apriete interruptores
+Unifilar o Flexible con Cables AWG, automáticos
+multifilar puntera unifilares o multifilares
+mm² mm² AWG Nm Tamaño
+
+Bornes de alimentación trifásicos
+Conexión por arriba
+2,5 ... 16 2,5 ... 16 10 ... 4 3 ... 4 S00, S0 ▶ 3RV2925-5AB 1 UD
+Conexión por abajo
+Estas terminales son conectadas en lugar de un interruptor; téngase en cuenta el espacio necesario.
+3RV29 25-5AB 2,5 ... 16 2,5 ... 16 10 ... 4 Entrada: 4, S00, S0 ▶ 3RV2915-5B 1 UD
+salida: 2 ... 2,5
+
+Bornes de alimentación trifásica para configurar "Arrancadores tipo E"
+Conexión por arriba
+2,5 ... 16 2,5 ... 16 10 ... 4 3 ... 4 S00, S0 3RV2925-5EB 1 UD
+S2 3RV2935-5E
+3RV29 25-5EB
+
+Versión Para interruptores PE Referencia TE*
+automáticos
+Tamaño
+
+Tapas para peines de conexión
+Protección contra contactos directos para los puntos sin ocupar S00, S0 ▶ 3RV1915-6AB 10 UDS
+S2 ▶ 3RV1935-6A 5 UDS
+3RV19 15-6AB
+
+Catálogo de baja tensión, control y distribución 3/9

@@ -1,0 +1,43 @@
+Arrancador compacto 3RM1
+Derivaciones a motor y arrancadores de motor para uso en tablero
+
+Tablas de selección
+Datos para selección y pedidos
+
+Designación de producto DT Modelo PU (UNIT, SET, M) Mínimo de compra Grupo de precios
+
+Sistema de alimentación trifásico para 3RM1 conexión por tornillo
+Terminales trifásicas para alimentación A 3RM1920-1AA 1 1 unit 41D
+3RM1920-1AA
+
+Bus trifásico
+• Para 2 arrancadores A 3RM1910-1AA 1 1 unit 41D
+3RM1910-1AA
+
+• Para 3 motores A 3RM1910-1BA 1 1 unit 41D
+3RM1910-1BA
+
+• Para 5 motores A 3RM1910-1DA 1 1 unit 41D
+3RM1910-1DA
+
+Cubierta o tapón
+Para los 3 conectores del bus trifásico A 3RM1910-6AA 1 10 unit 41D
+3RM1910-6AA
+
+Conectores
+Conector tipo 2
+Para arrancador 3RM1 con voltaje de control de 24 VCD, 22.5 mm A 3ZY1212-2EA00 1 1 unit 41L
+3ZY1212-2EA00
+
+Conector para cadena
+Para arrancadores 3RM1 con voltaje de control 24 VCD, 22.5 mm A 3ZY1212-2AB00 1 1 unit 41L
+3ZY1212-2AB00
+
+Conector tipo 2 con terminación de conexión A 3ZY1212-2FA00 1 1 unit 41L
+Para arrancador 3RM1 con voltaje de control 24 VCD, 22.5 mm
+3ZY1212-2FA00
+
+2
+
+Catálogo de baja tensión, control y distribución
+2/21

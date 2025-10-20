@@ -1,0 +1,62 @@
+Arrancadores NEMA Clase 15
+
+Datos generales
+
+Descripción
+
+Bobinas moldeadas
+Las bobinas magnéticas están cuidadosamente construidas y selladas con resina. El encapsulado ayuda a sellar la humedad, ayuda a transferir el calor y resistir las tensiones eléctricas, térmicas y mecánicas.
+
+Bobina de doble voltaje/frecuencia
+Los arrancadores Clase 15 se fabrican con bobinas de doble voltaje y doble frecuencia. Están diseñados para 50 o 60 Hertz.
+
+Contactor de carcasa moldeada
+Los materiales térmicos son resistentes al arco y al impacto severo de las tensiones y al calor.
+
+Accesorios para modificaciones en campo
+Todos los arrancadores pueden ser modificados en el campo con una variedad completa de accesorios. Estos incluyen botoneras, selector de contactos, lámparas indicadoras, contactos eléctricos auxiliares y supresor de sobrecorriente.
+
+45 Grados, acción de cuña
+La acción de cuña de los contactos a 45 grados disminuye el arrastre y provee disminución rápida del arco. El resultado da autolimpieza y la disminución del rebote de los contactos plateados de óxido de cadmio.
+
+Contactos auxiliares
+Se fabrican contactos auxiliares de montaje de frente y de costado. Se pueden montar hasta cuatro en los tamaños de 0 a 1 y tres en los tamaños de 2 a 6.
+
+Normas
+NMX-J-290-ANCE PRODUCTOS ELECTRICOS-ARRANCADORES MANUALES MAGNETICOS Y CONTACTORES-ESPECIFICACIONES Y METODOS DE PRUEBA.
+
+NMX-J-515-ANCE Equipos de control y distribución-requisitos generales de seguridad-Especificaciones y métodos de prueba
+
+NOM-003-SCFI Productos eléctricos-Especificaciones de seguridad
+
+Arrancadores Nema Clase 15
+Los arrancadores Clase 15, de fabricación nacional, combinan la robustez de los contactores NEMA con un relevador de sobrecarga de estado sólido que proporciona protección de falla de fase, desequilibrio y falla a tierra. Ofrece al usuario una mayor protección al motor y una vida útil más amplia en aplicaciones de trabajo pesado.
+• Servicio pesado.
+• Diseño industrial resistente.
+• Voltaje dual, bobinas de doble frecuencia.
+• Característica de prueba de sobrecarga.
+• Interconexiones auxiliares frontales removibles.
+• Bobina de acceso fácil.
+• Amplio rango de accesorios.
+• Amplio rango de disparo de sobrecarga.
+• Clase de disparo seleccionable 5, 10, 20 o 30
+• Protección de falla de fase.
+• Protección de desbalance.
+• Disparo por fallo de tierra, seleccionable.
+• Reset Manual / Automático
+• Fácil de seleccionar y utilizar mediante un Dip Switch
+• Autoalimentación, sin necesidad de fuente de alimentación externa.
+
+Aplicación
+Los arrancadores magnéticos industriales NEMA son ideales para aplicaciones exigentes que requieren fiabilidad y durabilidad como en máquinas de herramientas, equipos de aire acondicionado, compresores, entre otros más equipos industriales y de producción.
+
+Datos para selección y pedidos
+
+Tamaño 220 V 440 V Relevador de estado sólido rango [A] Tensión nominal de bobina a 60 Hz MLFB
+NEMA 1 1.5 HP 2 HP 3 - 9 A 110V - 220V AC 15ASD32BC
+3 HP 5 HP 5.5 - 18 A 110V - 220V AC 15ASE32BC
+7.5 HP 10 HP 13 - 27 A 110V - 220V AC 15ASF32BC
+NEMA 2 10 HP 25 HP 25 - 45 A 110V - 220V AC 15ASJ32BC
+20 HP 30 HP 25 - 60 A 110V - 220V AC 15ASK32BC
+
+7/18 Catálogo de baja tensión, control y distribución

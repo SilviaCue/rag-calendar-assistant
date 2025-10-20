@@ -1,0 +1,66 @@
+Arrancadores Clase 14
+Con Relevador de Sobrecarga Bimetálico
+
+Selección
+Datos para selección y pedidos
+
+Siemens combina en los arrancadores Clase 14 la durabilidad
+y robustez de los contactores NEMA Clase 40 con la eficacia
+probada de los relevadores térmicos Clase 48 y su amplia
+variedad de elementos térmicos que ofrecen protección contra
+rotor bloqueado y sobrecarga (hasta curvas de disparo clase
+20 o clase 10 como opción) además de memoria térmica ante
+cambios de temperatura ambiente para garantizar al usuario
+mayor protección a su motor y extendiendo su vida útil en
+aplicaciones de servicio pesado o de uso rudo.
+
+Arrancadores a Tensión Plena Clase 14 con Relevador de Sobrecarga Bimetálico, 3 Fases, 3 Polos
+
+Tamaño NEMA | Voltaje de Servicio del Motor | Potencia máxima [Hp] | Voltaje de Bobina | Rango de ajuste de corriente [A] | Tipo Abierto | En Gabinete NEMA 1 | En Gabinete NEMA 4 / 4X Acero Inoxidable W para Acero Inoxidable 304 X por W para Acero Inoxidable 316 | En Gabinete NEMA 4 / 4X Fibra de Vidrio | En Gabinete NEMA 7 & 9 NEMA 3 & 4 | En Gabinete NEMA 12 NEMA 3 / 3R
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+00 | 230 | 1 1/2 | 110 - 240 V CA | 9 | US2:14BP32AA81 | US2:14BP32BA81 | Use el tamaño 0 | Use el tamaño 0 | Use el tamaño 0 | Use el tamaño 0
+ | 460 | 2 | 220 - 480 V CA | | US2:14BP32AC81 | US2:14BP32BC81 | Use el tamaño 0 | Use el tamaño 0 | Use el tamaño 0 | Use el tamaño 0
+0 | 230 | 3 | 110 - 240 V CA | 18 | US2:14CP32AA81 | US2:14CP32BA81 | US2:14CP32WA81 | US2:14CP32FA81 | US2:14CP32HA81 | US2:14CP320A81
+ | 460 | 5 | 220 - 480 V CA | | US2:14CP32AC81 | US2:14CP32BC81 | US2:14CP32WC81 | US2:14CP32FC81 | US2:14CP32HC81 | US2:14CP320C81
+1 | 230 | 7 1/2 | 110 - 240 V CA | 27 | US2:14DP32AA81 | US2:14DP32BA81 | US2:14DP32WA81 | US2:14DP32FA81 | US2:14DP32HA81 | US2:14DP320A81
+ | 460 | 10 | 220 - 480 V CA | | US2:14DP32AC81 | US2:14DP32BC81 | US2:14DP32WC81 | US2:14DP32FC81 | US2:14DP32HC81 | US2:14DP320C81
+1 3/4 | 230 | 10 | 110 - 240 V CA | 40 | US2:14EP32AA81 | US2:14EP32BA81 | US2:14EP32WA81 | US2:14EP32FA81 | US2:14EP32HA81 | US2:14EP320A81
+ | 460 | 15 | 220 - 480 V CA | | US2:14EP32AC81 | US2:14EP32BC81 | US2:14EP32WC81 | US2:14EP32FC81 | US2:14EP32HC81 | US2:14EP320C81
+2 | 230 | 15 | 110 - 240 V CA | 45 | US2:14FP32AA81 | US2:14FP32BA81 | US2:14FP32WA81 | US2:14FP32FA81 | US2:14FP32HA81 | US2:14FP320A81
+ | 460 | 25 | 220 - 480 V CA | | US2:14FP32AC81 | US2:14FP32BC81 | US2:14FP32WC81 | US2:14FP32FC81 | US2:14FP32HC81 | US2:14FP320C81
+2 1/2 | 230 | 20 | 110 - 240 V CA | 60 | US2:14GP32AA81 | US2:14GP32BA81 | US2:14GP32WA81 | US2:14GP32FA81 | US2:14GP32HA81 | US2:14GP320A81
+ | 460 | 30 | 220 - 480 V CA | | US2:14GP32AC81 | US2:14GP32BC81 | US2:14GP32WC81 | US2:14GP32FC81 | US2:14GP32HC81 | US2:14GP320C81
+3 | 230 | 30 | 110 - 240 V CA | 90 | US2:14HP32AA81 | US2:14HP32BA81 | US2:14HP32WA81 | US2:14HP32FA81 | US2:14HP32HA81 | US2:14HP320A81
+ | 460 | 50 | 220 - 480 V CA | | US2:14HP32AC81 | US2:14HP32BC81 | US2:14HP32WC81 | US2:14HP32FC81 | US2:14HP32HC81 | US2:14HP320C81
+3 1/2 | 230 | 40 | 110 - 240 V CA | 115 | US2:14IP32AA81 | US2:14IP32BA81 | US2:14IP32WA81 | US2:14IP32FA81 | US2:14IP32HA81 | US2:14IP320A81
+ | 460 | 75 | 220 - 480 V CA | | US2:14IP32AC81 | US2:14IP32BC81 | US2:14IP32WC81 | US2:14IP32FC81 | US2:14IP32HC81 | US2:14IP320C81
+4 | 230 | 50 | 110 - 240 V CA | 135 | US2:14JG32AA81 | US2:14JG32BA81 | US2:14JG32WA81 | US2:14JG32FA81 | US2:14JG32HA81 | US2:14JG320A81
+ | 460 | 100 | 220 - 480 V CA | | US2:14JG32AC81 | US2:14JG32BC81 | US2:14JG32WC81 | US2:14JG32FC81 | US2:14JG32HC81 | US2:14JG320C81
+
+*** Para otros voltajes de control por favor consulte la tabla "Tensiones de bobina"
+Accesorios y partes de repuesto en página 7/20.
+Elementos Térmicos clase 20 página 7/26
+
+7
+
+Tensiones de las bobinas para arrancadores NEMA
+Tensiones de las bobinas (Cambiar 12ª letra por la correspondiente)
+Tensión (60 Hz) Letra
+24 J
+24 (DC) S
+120 F
+125 (DC) V
+110-120 / 220-240 A
+200-208 D
+220-240 G
+240-277 L
+220-240 / 440-480 C
+440-480 H
+575-600 E
+
+Nota:
+Bobina S 24 V DC No disponible para
+contactores / arrancadores tamaño 4.
+
+7/14
+Catálogo de baja tensión, control y distribución

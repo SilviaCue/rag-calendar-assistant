@@ -1,0 +1,42 @@
+SIRIUS ACT Botones pulsadores y lámparas indicadoras
+Accesorios/Plaquitas
+
+Porta Plaquitas
+
+Datos para selección y pedidos
+
+Forma del porta plaquita     Color del porta plaquita     Método de sujeción de la plaquita     Tamaño de la plaquita     SD     Referencia
+                                                                                                    Altura     Ancho
+                                                                                                    mm         mm    d
+
+Porta plaquita
+
+3SU1900-0AG10-0AA0
+     Con fondo redondeado     Negro     Auto adhesivo     12.5     27     ►          3SU1900-0AG10-0AA0
+                                                          17.5     27     ►          3SU1900-0AH10-0AA0
+                                                          27       27     ►          3SU1900-0AJ10-0AA0
+                                        A presión         12.5     27     ►          3SU1900-0AR10-0AA0
+                                                          17.5     27     ►          3SU1900-0AS10-0AA0
+                                                          27       27     ►          3SU1900-0AT10-0AA0
+
+3SU1900-0AN10-0AA0
+     Con fondo cuadrado       Negro     Auto adhesivo     12.5     27          1     3SU1900-0AN10-0AA0
+                                                          17.5     27     ►          3SU1900-0AP10-0AA0
+                                                          27       27          5     3SU1900-0AQ10-0AA0
+
+Porta plaquita para joysticks
+
+3SU1900-0AL10-0AA0
+     Con fondo cuadrado       Negro     Auto adhesivo     27       27     ►          3SU1900-0AL10-0AA0
+
+3SU1900-0AM10-0AA0
+     Cross                    Negro     Auto adhesivo     27       27     ►          3SU1900-0AM10-0AA0
+
+Porta plaquita para pulsadores
+
+3SU1900-0AK10-0AA0
+     Rectangular              Negro     Auto adhesivo     12.5     27     ►          3SU1900-0AK10-0AA0
+
+6
+
+Catálogo de baja tensión, control y distribución     6/59

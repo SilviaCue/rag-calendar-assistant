@@ -1,0 +1,44 @@
+SIEMENS
+Ingenio para la vida
+
+L1 L2 L3
+SIEMENS Cat. No. 14DU†32A* Series A
+Volts 3 Ph Max HP Max Amps 27
+200/230 VAC 7 1/2 HP 600 VAC
+460/575 VAC 10 HP NEMA/EEMAC Size 1
+Contact Kit 75CF14
+Use Cu 60/75°C Wire
+Torque Power Screws to 30 lbs-in Furnas Control
+SE&A Inc Alpharetta, GA U.S.A.
+T1 T2 T3
+
+L1 L2 L3
+SIEMENS Cat. No. 14HU132A* Furnas Control
+Volts 3 Ph Max HP Max Amps 90 Torque Power
+200 VAC 25 HP 600 VAC Screws To
+230 VAC 30 HP NEMA/EEMAC Size 3 100 lbs-in
+460/575 VAC 50 HP Contact Kit 75HF14 Use Cu 75°C Wire
+SE&A Inc. Alpharetta, GA U.S.A.
+T1 T2 T3
+
+L1 L2 L3
+SIEMENS Cat. No. 14CU†32A* Series A
+Volts 3 Ph Max HP Max Amps 18
+200/230 VAC 3 HP 600 VAC
+460/575 VAC 5 HP NEMA/EEMAC Size 0
+Contact Kit 75CF14
+Use Cu 60/75°C Wire
+Torque Power Screws to 30 lbs-in Furnas Control
+SE&A Inc. Alpharetta, GA U.S.A.
+T1 T2 T3
+
+Resistencia, durabilidad y
+diseño que dan confianza
+
+Siemens ofrece innovación y tecnología en su amplia gama de
+control y protección NEMA para motores eléctricos en baja tensión.
+La robustez de nuestros componentes son ideales para aplicaciones
+de servicio pesado para industrias como: Minería, Cemento, Vidrio,
+Papel, Petroquímica, Química, Farmacéutica, Automotriz, etc.
+
+www.usa.siemens.com/NEMA-Controls

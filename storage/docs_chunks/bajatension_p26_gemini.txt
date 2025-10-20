@@ -1,0 +1,89 @@
+Contactores de fuerza tripolares para maniobra de motores
+
+Contactores de vacío 3TF6,
+de 3 polos, 335... 450 kW
+
+1
+
+Datos para selección y pedidos
+Conductor principal: conexiones para barra
+Conductores auxiliares y de mando: bornes de tornillo
+Accionamiento AC: accionamiento electromagnético con mando electrónico con elevada compatibilidad electromagnética (CEM)1) y protección contra sobretensiones de la bobina (varistor)
+Circuito económico CD: con contactor inversor 3TC44 para resistencia serie
+
+3TF68, 3TF69
+
+Datos asignados
+AC-2 y AC-3, (hasta 55 °C)
+Intensidad de Fuerza de motores trifásicos     AC-1            Contactos     Tensión asignada    PE  Bornes
+empleo Ie       a 60 Hz y                       Intensidad de   auxiliares    de mando Us                 de tornillo
+hasta 690 V                                     empleo Ie       Versión
+                                                (a 40 °C)                                           Referencia
+                230 V  400 V  500 V  690 V  1000 V                                   NA    NC      V
+A               kW     kW     kW     kW     kW     A
+
+Accionamiento convencional
+630             200    335    434    600    —      700             4     4     110...132 CA, 50/60 Hz               3TF6844-0CF7
+630             200    335    434    600    600    700             4     4     200...240 CA, 50/60 Hz               3TF6844-0CM7
+                                                                        110...132 CA, 50/60 Hz               3TF6844-8CF7
+                                                                        200...240 CA, 50/60 Hz               3TF6844-8CM7
+820             260    450    600    800    —      910             4     4     110...132 CA, 50/60 Hz               3TF6944-0CF7
+820             260    450    600    800    800    910             4     4     200...240 CA, 50/60 Hz               3TF6944-0CM7
+
+Accionamiento CD • Circuito económico DC2)
+630             200    335    434    600    —      700             3     3     24 CD                               3TF6833-1DB4
+                                   600    700             3     3     24 CD                               3TF6833-8DB4
+820             260    450    600    800    —      910             3     3     24 CD                               3TF6933-1DB4
+                                   800    910             3     3     24 CD                               3TF6933-8DB4
+
+Accionamiento CA 50/60 Hz con circuito económico DC2)3) • para excitación CA con grandes interferencias
+630             200    335    434    600    —      700             3     3     110...120 CA, 50/60 Hz               3TF6833-1QG7
+                                                                        220...240 CA, 50/60 Hz               3TF6833-1QL7
+                                                                        380...420 CA, 50/60 Hz               3TF6833-1QV7
+                                   600    700             3     3     220...240 CA, 50/60 Hz               3TF6833-8QL7
+820             260    450    600    800    —      910             3     3     110...120 CA, 50/60 Hz               3TF6933-1QG7
+                                                                        220...240 CA, 50/60 Hz               3TF6933-1QL7
+                                                                        380...420 CA, 50/60 Hz               3TF6933-1QV7
+                                   800    910             3     3     110...120 CA, 50/60 Hz               3TF6933-8QG7
+                                                                        220...240 CA, 50/60 Hz               3TF6933-8QL7
+
+1) Compatibilidad electromagnética (CEM):
+   ver nota de datos técnicos.
+   Los contactores de vacío 3TF68/69 se entregan con limitación de
+   sobretensiones integrada en los circuitos principales. Esta protección
+   no es necesaria para el funcionamiento en circuitos que tengan, por
+   ejemplo, actuadores de corriente continua, convertidores de frecuencia,
+   accionamientos con velocidad variable, etc.
+   El circuito puede deteriorarse por las puntas de tensión y los armónicos
+   que se generan, provocando cortocircuitos de fase. Por eso, los contactores
+   también se ofrecen sin limitación de sobretensiones, sin sobreprecio. En tal
+   caso deberá añadir la extensión "-Z" y la clave "A02" a la referencia.
+2) En estas versiones se utiliza un sistema magnético con circuito económico
+   CD. El varistor puede reequiparse. El contactor inversor 3TC44 17-4A ..
+   con cable de conexión preconectorizado (aprox. 1 m) viene incluido en el
+   alcance del suministro del contactor de vacío.
+3) Con esta versión se utiliza un sistema magnético con circuito económico CD
+   con rectificación.
+
+Tensiones asignadas de mando
+(modificación de las posiciones 10ª y 11ª de la referencia)
+
+Tensión asignada                     Tipo de
+de mando Us                          contactor 3TF6 . 44 - . C..,
+                                             3TF6 . 44 - . D..
+
+Accionamiento CA, 50/60 Hz
+110... 132 V CA                      F7
+200... 240 V CA                      M7
+230... 277 V CA                      P7
+380... 460 V CA                      Q7
+500... 600 V CA                      S7
+
+Accionamiento CD • Circuito económico CD
+24 V CD                              B4
+110 V CD                             F4
+125 V CD                             G4
+220 V CD                             M4
+230 V CD                             P4
+
+Catálogo de baja tensión, control y distribución 1/19

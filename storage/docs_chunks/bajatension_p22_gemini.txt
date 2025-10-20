@@ -1,0 +1,268 @@
+Contactores de fuerza tripolares para maniobra de motores
+Contactores SIRIUS 3RT20,
+de 3 polos, 15... 250 kW
+1
+
+Datos para selección y pedidos
+Accionamiento CD · Sistema magnético CD
+
+3RT20 2.-1B.40
+3RT20 2.-2B.40
+3RT20 2.-1B.44
+3RT20 2.-2B.44
+
+Datos asignados en la categoría de empleo
+AC-2 y AC-3, T u: hasta 60 °C
+AC-1, T u: 40 °C
+Intensidad de
+Potencias de motores
+Intensidad de
+empleo I e hasta
+trifásicos a 50/60 Hz
+empleo I e hasta
+400 V
+y 400 V
+690 V
+Contactos auxiliares
+N° caract.
+Versión
+Tensión asignada
+de mando U s
+PE Bornes de
+tornillo
+Referencia
+Bornes
+de resorte
+Referencia
+A
+kW
+A
+NA
+NC
+V CD
+Para fijación por tornillos y por abroche en perfil TH 35
+Tamaño S0 ¹)
+9
+4
+40
+11
+1
+1
+24
+► 3RT2023-1BB40
+3RT2023-2BB40
+12
+5,5
+40
+11
+1
+1
+24
+► 3RT2024-1BB40
+3RT2024-2BB40
+220
+► 3RT2024-1BM40
+3RT2024-2BM40
+17
+7,5
+40
+11
+1
+1
+24
+► 3RT2025-1BB40
+3RT2025-2BB40
+220
+► 3RT2025-1BM40
+3RT2025-2BM40
+25
+11
+40
+11
+1
+1
+24
+► 3RT2026-1BB40
+3RT2026-2BB40
+220
+► 3RT2026-1BM40
+3RT2026-2BM40
+32
+15
+50
+11
+1
+1
+24
+► 3RT2027-1BB40
+3RT2027-2BB40
+220
+► 3RT2027-1BM40
+3RT2027-2BM40
+38
+18,5
+50
+11
+1
+1
+24
+► 3RT2028-1BB40
+3RT2028-2BB40
+220
+► 3RT2028-1BM40
+3RT2028-2BM40
+Tamaño S2
+40
+18,5
+60
+11
+1
+1
+20 ... 33 CA/CD
+3RT2035-1NB30
+3RT2035-3NB30
+50
+22
+70
+11
+1
+1
+20 ... 33 CA/CD
+3RT2036-1NB30
+3RT2036-3NB30
+65
+30
+80
+11
+1
+1
+20 ... 33 CA/CD
+3RT2037-1NB30
+3RT2037-3NB30
+70
+37
+90
+11
+1
+1
+20 ... 33 CA/CD
+3RT2038-1NB30
+3RT2038-3NB30
+Con bloque de contactos auxiliares montado (desmontable) ²)
+Denominaciones de las conexiones según EN 50012
+9
+4
+40
+22
+2
+2
+24
+► 3RT2023-1BB44
+3RT2023-2BB44
+12
+5,5
+40
+22
+2
+2
+24
+► 3RT2024-1BB44
+3RT2024-2BB44
+17
+7,5
+40
+22
+2
+2
+24
+► 3RT2025-1BB44
+3RT2025-2BB44
+25
+11
+40
+22
+2
+2
+24
+► 3RT2026-1BB44
+3RT2026-2BB44
+32
+15
+50
+22
+2
+2
+24
+► 3RT2027-1BB44
+3RT2027-2BB44
+38
+18,5
+50
+22
+2
+2
+24
+► 3RT2028-1BB44
+3RT2028-2BB44
+Contactores con interfaz de comunicación "IO Link y AS-Interface"
+Denominaciones de las conexiones según EN 50012 o EN 50005
+9
+4
+40
+22
+1
+1
+24
+► 3RT2023-1BB40-0CC0
+3RT2023-2BB40-0CC0
+12
+5,5
+40
+22
+1
+1
+24
+► 3RT2024-1BB40-0CC0
+3RT2024-2BB40-0CC0
+17
+7,5
+40
+22
+1
+1
+24
+► 3RT2025-1BB40-0CC0
+3RT2025-2BB40-0CC0
+25
+11
+40
+22
+1
+1
+24
+► 3RT2026-1BB40-0CC0
+3RT2026-2BB40-0CC0
+32
+15
+50
+22
+1
+1
+24
+► 3RT2027-1BB40-0CC0
+3RT2027-2BB40-0CC0
+38
+18,5
+50
+22
+1
+1
+24
+► 3RT2028-1BB40-0CC0
+3RT2028-2BB40-0CC0
+1) Los contactores 3RT20 pueden suministrarse también con terminal de cable en anillo. Para consultar sobre estas versiones
+especiales, póngase en contacto con el distribuidor de Siemens para su zona.
+2) Referencia para el bloque de contactos auxiliares (desmontable): 3RH29 11- .HA11
+
+Catálogo de baja tensión, control y distribución
+1/15

@@ -1,0 +1,44 @@
+Guardamotores / Interruptores
+Guardamotores SIRIUS 3RV2
+Sistema de alimentación por barras 3RV29
+
+Datos para selección y pedidos
+Tipo    Versión    SD d    Referencia
+
+Bloques terminales
+Bloque de terminales
+Para integración de componentes de 1, 2 y 3 fases    Embalaje individual    2    3RV2917-5D
+3RV2917-5D
+
+Riel de montaje estándar, ancho 45 mm
+Riel de montaje estándar TH 35
+De acuerdo a IEC 60715, ancho 45 mm
+Para montaje en barras de bus trifásicas    Embalaje individual    2    3RV1917-7B
+3RV1917-7B
+
+Enchufe de expansión extra ancho
+Enchufe de expansión extra ancho
+como accesorio    Embalaje individual    2    3RV2917-5E
+3RV2917-5E
+
+Enchufe de expansión
+Enchufe de expansión¹)
+Como pieza de cambio    Embalaje individual    2    3RV2917-5BA00
+3RV2917-5BA00
+
+Tapa final
+Tapa final²)
+Como pieza de cambio    Embalaje multi unidad    2    3RV2917-6A
+3RV2917-6A
+
+Bloque de terminales para alimentación de equipos
+Bloque de terminales para alimentación
+de equipos    Embalaje individual    2    3RV2917-5FA00
+3RV2917-5FA00
+
+1) El enchufe de expansión está incluido en el alcance del suministro del 3RV2917-4 para el sistema de expansión trifásica.
+2) La tapa final está incluida en el alcance del suministro del sistema de alimentación trifásica 3RV2917-1.
+
+Catálogo de baja tensión, control y distribución
+3/15
+3

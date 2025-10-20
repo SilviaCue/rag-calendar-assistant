@@ -1,0 +1,132 @@
+SIRIUS ACT Botones pulsadores y lámparas indicadoras
+Actuadores e indicadores 22 mm, redondo, plástico negro
+
+Unidades completas
+Botones tipo hongo/ PARO DE EMERGENCIA
+
+Método de
+desenclavamiento
+
+Número de
+Módulos de contacto
+
+Contactos NA
+
+Contactos NC
+
+SD
+
+Terminales
+tornillo
+Referencia
+
+Botones tipo hongo
+
+Con hongo rojo, 40 mm de diámetro, enclavamiento
+Jalar para desenclavar
+1
+0
+1
+1
+1
+3
+3SU1100-1BA20-1CA0
+3SU1100-1BA20-1FA0
+
+3SU1100-1BA20-3CA0
+
+6
+
+Método de
+desenclavamiento
+
+Número de
+Módulos
+de contacto
+
+Contactos
+NA
+
+Contactos
+NC
+
+Marca
+
+SD
+
+Terminales
+tornillo
+Referencia
+
+Botones PARO DE EMERGENCIA a prueba de manipulaciones, de acuerdo a ISO 13850 e IEC 60947-5-5
+
+Con botón rojo, 40 mm de diámetro, con enclave positivo
+Jalar para desenclavar
+1
+0
+1
+NOT-HALT
+5
+3SU1100-1HA20-1CH0
+1
+1
+EMERGENCY STOP
+5
+3SU1100-1HA20-1FG0
+1
+1
+NOT-HALT
+5
+3SU1100-1HA20-1FH0
+
+NOT-HALT
+3SU1100-1HA20-1CH0
+
+Rotar para desenclavar
+1
+0
+1
+NONE
+5
+3SU1100-1HB20-1CF0
+0
+1
+EMERGENCY STOP
+5
+3SU1100-1HB20-1CG0
+0
+1
+NOT-HALT
+▶
+3SU1100-1HB20-1CH0
+0
+2
+EMERGENCY STOP
+5
+3SU1100-1HB20-1PG0
+0
+1
+ARRET D'URGENCE
+5
+3SU1100-1HB20-1CJ0
+1
+1
+EMERGENCY STOP
+5
+3SU1100-1HB20-1FG0
+1
+1
+NOT-HALT
+▶
+3SU1100-1HB20-1FH0
+1
+1
+ARRET D'URGENCE
+5
+3SU1100-1HB20-1FJ0
+
+NOT-HALT
+3SU1100-1HB20-1CH0
+
+6/14
+Catálogo de baja tensión, control y distribución

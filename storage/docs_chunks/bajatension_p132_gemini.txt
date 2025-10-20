@@ -1,0 +1,67 @@
+SIRIUS ACT Botones pulsadores y lámparas indicadoras
+
+Datos generales
+
+SIRIUS ACT con PROFINET
+
+SIRIUS ACT con PROFINET conecta botones pulsadores y lám-
+paras indicadoras directamente vía PROFINET al controlador y
+equipos HMI - incluyendo las funciones con safety.
+
+Con esta solución diseñada para el panel de control, de hasta 21
+equipos SIRIUS ACT conectadas al controlador vía PROFINET. Es
+posible la integración de un botón hongo PARO DE EMERGEN-
+CIA (SIL 3, PLe) posible con PROFIsafe.
+
+Dispositivos que no son SIRIUS ACT, p. ej., interruptores de posi-
+ción, pueden adicionalmente conectarse vía interface abierta
+digital/analógica (DI,DQ, AI).
+
+El sistema está enteramente integrado a TIA Portal y no requie-
+ren un direccionamiento posterior a parte de la dirección IP para
+PROFINET.
+
+Instalación rápida y sencilla con cables planos sin herramientas
+especiales ahorran significativamente el gasto en el cableado.
+
+6
+
+Módulos de interface/ Módulo de interface fail-safe
+
+Módulo de interface para PROFINET, 24 V CD
+1...20 se pueden conectar módulos terminales
+
+3SU1400-1L☐10-☐AA1
+
+Módulos terminales
+
+Módulos terminales con 2 contactos
+Módulos terminales con 2 contactos y LED's integrado
+Módulos terminales con LED integrado
+
+3SU1401-1MA☐0-1☐A1
+3SU1401-1MC☐0-1☐A1
+3SU1401-1ME☐0-1☐A1
+
+Accesorios
+
+Módulo de memoria
+Para hacer respaldo de la parametrización completa del sistema de
+seguridad 3SK2 sin una PC/PG a través de la interface del sistema.
+
+3RK3931-0AA00
+
+Módulos LED para montaje en circuitos-impresos
+
+3SU1401-3BA☐0-5AA0
+
+Cable plano
+7 hilos, largo 10 m
+7 hilos, largo 5 m
+
+3SU1900-0KQ80-0AA0
+3SU1900-0KP80-0AA0
+
+Catálogo de baja tensión, control y distribución
+
+6/9

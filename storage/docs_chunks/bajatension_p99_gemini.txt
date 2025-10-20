@@ -1,0 +1,91 @@
+4
+
+Equipos de gestión y mando de motores SIMOCODE 3UF
+SIMOCODE pro 3UF7
+
+Tablas de selección
+
+Datos para selección y pedidos
+
+Versión Corriente de ajuste Anchura PE Bornes de tornillo TE*
+A mm Referencia
+
+SIMOCODE pro
+
+Módulos de registro de corriente
+• Transformador pasante
+0,3... 3 45 ▶ 3UF7100-1AA00-0 1 UD
+2,4... 25 45 ▶ 3UF7101-1AA00-0 1 UD
+10... 100 55 ▶ 3UF7102-1AA00-0 1 UD
+20... 200 120 ▶ 3UF7103-1BA00-0 1 UD
+• Conexión para barra
+20... 200 120 ▶ 3UF7103-1AA00-0 1 UD
+63... 630 145 ▶ 3UF7104-1BA00-0 1 UD
+
+3UF7100-1AA00-0
+
+2a generación módulos de voltaje/corriente para SIMOCODE pro V¹)
+Medición de voltaje hasta 690 V.
+Exactitud mejorada en valores medidos, tales como potencia, factor de potencia y
+monitoreo de frecuencia
+• Transformador directo
+0,3... 3 45 ▶ ▶ 3UF7110-1AA01-0 1 UD
+2,4... 25 45 ▶ ▶ 3UF7111-1AA01-0 1 UD
+10... 115 55 ▶ ▶ 3UF7112-1AA01-0 1 UD
+20... 200 120 ▶ ▶ 3UF7113-1BA01-0 1 UD
+• Conexión de bus
+20... 200 120 ▶ ▶ 3UF7113-1AA01-0 1 UD
+63... 630 145 ▶ ▶ 3UF7114-1BA01-0 1 UD
+
+3UF7110-1AA01-0
+
+3UF7113-1AA01-0
+
+Nota:
+Los módulos de medición de corriente / tensión de 2ª generación requieren
+Unidades base SIMOCODE pro V PROFIBUS a partir de la versión del producto
+E15 (versión Z), SIMOCODE pro V PROFINET a partir del producto versión E10, SIMOCODE Modbus
+RTU a partir de la versión del producto E03 (Versión Z) o SIMOCODE pro V Ethernet / IP.
+
+Módulo de mando
+Montaje en la puerta del armario eléctrico o en la placa frontal, se enchufa en el aparato básico, 10
+LEDs para visualización de estado y teclas configurables por el usuario para el mando del motor.
+• Gris titanio
+▶ 3UF7200-1AA01-0 1 UD
+
+3UF7200-1AA00-0
+
+• Gris claro
+▶ 3UF7200-1AA00-0 1 UD
+
+3UF7200-1AA00-0
+
+Panel de operador con pantalla para SIMOCODE pro V
+Instalación en puerta de gabinete de control o panel frontal, para conexión en unidad básica
+2 y unidad básica 3 / 7 LEDs para indicación de estatus y botones de usuario asignables
+para controlar el motor, pantalla multiidioma, p. ejem. para indicar valores de mediciones,
+información de estatus y mensajes de falla.
+• Gris titanio
+▶ 3UF7210-1AA01-0 1 UD
+
+3UF7210-1.A01-0
+
+• Gris claro
+▶ 3UF7210-1AA00-0 1 UD
+
+3UF7210-1.A00-0
+
+1) El software SIMOCODE ES (TIA Portal) V15 es necesario para parametrización.
+2) Para el uso de módulos de medición de corriente / tensión de 2ª generación,
+SIMOCODE pro V Modbus RTU con versión de producto E03 (V 2.0) debe ser
+ordenado. Esta versión no tiene certificación marina ni aprobación CCC, y se puede
+pedir sin cargo adicional. El número de artículo debe ser complementado por "-Z" y
+el código de pedido "B01", p.ej. 3UF7012-1AB00-0 -Z B01.
+
+Nota:
+Unidad base SIMOCODE pro V también disponible en una
+versión más robusta a través de la línea SIPLUS extremo sobre
+solicitud.
+
+4/8
+Catálogo de baja tensión, control y distribución

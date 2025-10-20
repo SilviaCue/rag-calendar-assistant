@@ -1,0 +1,53 @@
+Accesorios y partes de repuestos
+
+Contactores Clase 40 y 43
+Arrancadores Clase 14, 22 y 15
+
+Datos para selección y pedidos
+
+Bobinas de corriente alterna
+
+Tamaño NEMA	Tensión Nominal	Modelo
+00 - 2 1/2	24 V CA	US2:75D73070J
+	110 - 220 V CA	US2:75D73070A
+	240 - 480 V CA	US2:75D73070C
+3 3 1/2	24 V CA	US2:75D73251J
+	110 - 220 V CA	US2:75D73251A
+	240 - 480 V CA	US2:75D73251C
+4	24 V CA	US2:75D70131J
+	110 - 220 V CA	US2:75D70131A
+	240 - 480 V CA	US2:75D70131C
+5	23-26 V AC	US2:3RT1965-5AB31
+	110-127 V AC	US2:3RT1965-5AF31
+	220-240 V AC	US2:3RT1965-5AP31
+	440-480 V AC	US2:3RT1965-5AR3
+6	23-26 V AC	US2:3RT1965-5AB31
+	110-127 V AC	US2:3RT1965-5AF31
+	220-240 V AC	US2:3RT1965-5AP31
+	440-480 V AC	US2:3RT1965-5AR31
+7	100-250 V AC	US2:75ZAF75070
+	150-500 V AC	US2:75ZAF75071
+8	100-250 V AC	US2:75ZAF165070
+
+Accesorios y kits de control
+
+Tamaño NEMA	Descripción	Grado de protección NEMA y Gabinete NEMA	Modelo
+00 - 1 3/4	Protector de Acrílico Frontal para Contactor Clase 40	—	US2:49PSC1
+	Protector de Acrílico Frontal para Arrancador Clase 14	—	US2:49PSS1
+00-4	Botón de Arranque y Paro para Arrancador Clase 14	NEMA1	US2:49SBPB5
+	Botón de Arranque y Paro para Arrancador Clase 22	NEMA1	US2:49SASB2
+	Lámparas Indicadoras 240 VCA ATP Clase 14 y 22	NEMA1	US2:49SBLBG
+	Lámparas Indicadoras 480 VCA ATP Clase 14 y 22	NEMA1	US2:49SBLBH
+5-8	Botón de Arranque y Paro para Arrancador Clase 14	NEMA1	US2:49SAP05
+	Botón de Arranque y Paro para Arrancador Clase 22	NEMA1	US2:49SAP02
+00-8	Botón de Arranque y Paro para Arrancador Clase 14	NEMA 12, 4 / 4X	US2:49SAP05
+	Botón de Arranque y Paro para Arrancador Clase 22	NEMA 12, 4 / 4X	US2:49SAP02
+	Lámpara Indicadora Roja 240 VCA ATP Clase 14 y 22	NEMA 12, 4 / 4X	US2:49SPLOBRG
+0-8	Lámpara Indicadora Verde 240 VCA ATP Clase 14 y 22	NEMA 12, 4 / 4X	US2:49SPLOAGG
+	Lámpara Roja Indicadora 480 VCA ATP Clase 14 y 22	NEMA 12, 4 / 4X	US2:49SPLOBRH
+	Lámpara Verde Indicadora 480 VCA ATP Clase 14 y 22	NEMA 12, 4 / 4X	US2:49SPLOAGH
+
+7
+
+Catálogo de baja tensión, control y distribución
+7/21

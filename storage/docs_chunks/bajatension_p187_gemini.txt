@@ -1,0 +1,207 @@
+Columnas de señalización SIRIUS 8WD4
+
+Columnas señalización 8WD42 con diámetro 50 mm
+Columnas señalización 8WD44 con diámetro 70 mm
+
+Descripción
+
+Características torretas 8WD
+● Grado de protección IP54 e IP65
+● Diseño con iluminación mejorada
+● Conexión rápida y flexible
+● En el elemento de conexión pueden montarse
+hasta cinco elementos
+
+Normas
+UL 508 Industrial Control Equipment
+CSA 22.2 No. 14-05, Industrial Control Equipment
+NMX-J-515-ANCE Equipos de control y distribución-requisitos
+generales de seguridad-Especificaciones y métodos de prueba
+NOM-003-SCFI Productos eléctricos-Especificaciones de seguridad
+
+Datos para selección y pedidos
+
+Versión
+Tensión asignada V
+Color
+PE
+Diámetro 50 mm
+Referencia
+TE*
+PE
+Diámetro 70 mm
+Referencia
+TE*
+
+Elementos acústicos¹)
+
+Elementos zumbadores
+8WD42: 80 dB; 8WD44: 85 dB
+sonido pulsante o continuo, ajustable
+por puente de alambre
+24 CA/CD
+115 CA
+230 CA
+Negro
+8WD4220-0FA
+8WD4240-0FA
+8WD4250-0FA
+1 UD
+1 UD
+1 UD
+8WD4420-0FA
+8WD4440-0FA
+8WD4450-0FA
+1 UD
+1 UD
+1 UD
+
+Elementos de sirena, 100 dB,
+con varios sonidos, 8 sonidos y
+volumen ajustables
+24 CA/CD
+Negro
+—
+8WD4420-0EA2
+1 UD
+
+Elemento de sirena, 108 dB, IP40
+115 VCA
+230 CA
+Negro
+—
+—
+8WD4440-0EA2
+8WD4450-0EA2
+1 UD
+1 UD
+
+6
+
+Elementos luminosos para lámpara incandescente/LED, zócalo BA 15d²)
+
+Elementos de luz permanente
+12 ... 230 CA/CD
+Rojo
+Verde
+Amarillo
+Transparente
+Azul
+8WD4200-1AB
+8WD4200-1AC
+8WD4200-1AD
+8WD4200-1AE
+8WD4200-1AF
+1 UD
+1 UD
+1 UD
+1 UD
+1 UD
+8WD44 00-1AB
+8WD44 00-1AC
+8WD44 00-1AD
+8WD44 00-1AE
+8WD44 00-1AF
+1 UD
+1 UD
+1 UD
+1 UD
+1 UD
+
+Elementos luminosos con LED incorporado
+
+Elementos de luz permanente
+24 CA/CD
+Rojo
+Verde
+Amarillo
+Transparente
+Azul
+8WD4220-5AB
+8WD4220-5AC
+8WD4220-5AD
+8WD4220-5AE
+8WD4220-5AF
+1 UD
+1 UD
+1 UD
+1 UD
+1 UD
+8WD4420-5AB
+8WD4420-5AC
+8WD4420-5AD
+8WD4420-5AE
+8WD4420-5AF
+1 UD
+1 UD
+1 UD
+1 UD
+1 UD
+
+115 VCA
+Rojo
+Verde
+Amarillo
+Transparente
+Azul
+8WD4240-5BB
+8WD4240-5BC
+8WD4240-5BD
+8WD4240-5BE
+8WD4240-5BF
+8WD4440-5AB
+8WD4440-5AC
+8WD4440-5AD
+8WD4440-5AE
+8WD4440-5AF
+
+Elementos de luz intermitente
+24 CA/CD
+Rojo
+Verde
+Amarillo
+Transparente
+Azul
+8WD4220-5BB
+8WD4220-5BC
+8WD4220-5BD
+8WD4220-5BE
+8WD4220-5BF
+1 UD
+1 UD
+1 UD
+1 UD
+1 UD
+8WD4420-5BB
+8WD4420-5BC
+8WD4420-5BD
+—
+—
+1 UD
+1 UD
+1 UD
+
+Elementos de luz omnidireccional
+24 CA/CD
+Rojo
+Verde
+Amarillo
+—
+—
+—
+8WD44 20-5DB
+8WD44 20-5DC
+8WD44 20-5DD
+1 UD
+1 UD
+1 UD
+
+1) La tapa de cierre está incluida en el alcance del suministro de los elementos
+acústicos y viene montada de modo fijo.
+2) La lámpara no está incluida en el alcance del suministro. Debe pedirse por
+separado.
+3) Versión de 230 V CA: 8WD44 50-1B. o 8WD44 50-0C.
+4) La lámpara está incluida en el alcance del suministro.
+
+6/64
+Catálogo de baja tensión, control y distribución

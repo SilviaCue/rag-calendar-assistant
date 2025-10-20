@@ -1,0 +1,73 @@
+Relevadores de Acoplamiento e Interfaces
+
+3TX71 Relevadores Enchufables
+
+Descripción
+
+Siemens Ofrece una amplia variedad de relevadores de acoplamiento para cumplir con las necesidades de la industria.
+Las características de los diferentes relevadores son:
+Relevadores Básicos:
+*   Economía
+*   Señalización mecánica
+Relevadores Premium:
+*   Señalización mecánica
+*   LED de señalización
+*   Botón de test
+*   Palanca de prueba para contactos sin energizar bobina del relé
+
+Relevadores Premium de contactos Bifurcados:
+*   Ideales para aplicaciones donde se requiere poco flujo de corriente en los contactos
+*   Valor típico de 3 mA en lugar de 100 mA
+Los relevadores son modulares y recomendamos tomar en cuenta:
+*   Estilo de la base de montaje
+*   Arreglo de contactos
+*   Valor de Amperaje de los contactos
+*   Voltaje de alimentación de la bobina
+*   Características del tipo de relé
+
+Datos para selección y pedidos
+
+Base Rectangular (Compacto)
+
+Contactos Contactos (A) Voltaje de Bobina Relevador Básico Relevador Premium Usa Socket 3TX7144- Usa Clip 3TX7144- Acces. Socket Tipo Adapt. Montaje en Panel 3TX7144- Adapt. Montaje Riel DIN 3TX7144-
+SPDT 15 12 VDC 3TX7110-5BB03C 3TX7110-5JB03 4E7 1L7 B 3L5 3L4
+24 VDC 3TX7110-5BC03C 3TX7110-5JC03 4E7 1L7 B 3L5 3L4
+24 VAC 3TX7110-5BC13C 3TX7110-5JC13 4E7 1L7 B 3L5 3L4
+120 VAC 3TX7110-5BF13C 3TX7110-5JF13 4E7 1L7 B 3L5 3L4
+240 VAC — 3TX7110-5JG13 4E7 1L7 B 3L5 3L4
+
+Base Rectangular (Stándar)
+
+Contactos Contactos (A) Voltaje de Bobina Relevador Básico Relevador Premium Usa Socket 3TX7144- Usa Clip 3TX7144- Acces. Socket Tipo Adapt. Montaje en Panel 3TX7144- Adapt. Montaje Riel DIN 3TX7144-
+DPDT 12 24 VDC 3TX7111-3DC03C 3TX7111-3LC03 4E5 1L6 B 3L7 3L6
+24 VAC 3TX7111-3DC13C 3TX7111-3LC13 4E5 1L6 B 3L7 3L6
+120 VAC 3TX7111-3DF13C 3TX7111-3LF13 4E5 1L6 B 3L7 3L6
+DPDT 15 12 VDC 3TX7114-5DB03C 3TX7114-5LB03 4E6 1L6 B 3L7 3L6
+24 VDC 3TX7114-5DC03C 3TX7114-5LC03 4E6 1L6 B 3L7 3L6
+24 VAC 3TX7114-5DC13C 3TX7114-5LC13 4E6 1L6 B 3L7 3L6
+120 VAC 3TX7114-5DF13C 3TX7114-5LF13 4E6 1L6 B 3L7 3L6
+240 VAC 3TX7114-5DH13C 3TX7114-5LH13 4E6 1L6 B 3L7 3L6
+DPDT 10 12 VDC 3TX7115-5DB03C — 4E4 1L12 A — —
+24 VDC 3TX7115-5DC03C 3TX7115-5LC03 4E4 1L12 A — —
+24 VAC 3TX7115-5DC13C 3TX7115-5LC13 4E4 1L12 A — —
+120 VAC 3TX7115-5DF13C 3TX7115-5LF13 4E4 1L12 A — —
+DPDT 20
+Nota:
+Sin palanca
+de prueba
+para versión
+premium
+12 VDC — 3TX7119-5LB03 4E4 1L12 A — —
+24 VDC — 3TX7119-5LC03 4E4 1L12 A — —
+120 VAC — 3TX7119-5LF13 4E4 1L12 A — —
+240 VAC — 3TX7119-5LH13 4E4 1L12 A — —
+
+Características
+Característica Básico Premium
+Señalización Mecánica ✓ ✓
+Botón de Test ✓
+Palanca de Prueba ✓
+Señalización LED ✓
+
+7/28
+Catálogo de baja tensión, control y distribución

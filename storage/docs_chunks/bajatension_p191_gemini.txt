@@ -1,0 +1,61 @@
+Lámparas de señalización integrada SIRIUS 8WD5
+8WD53 Lámparas de señalización integrada, 70 mm diámetro
+
+Datos de selección
+
+Datos para selección y pedidos
+
+Versión Voltaje nominal Color SD Referencia
+V d
+
+Luminarias para lámparas incandescentes / LED¹), base BA 15d
+Luz continua²) 12...230 CA/CD Rojo 2 8WD5300-1AB
+Verde 2 8WD5300-1AC
+Amarillo 2 8WD5300-1AD
+Trasparente 2 8WD5300-1AE
+Azul 2 8WD5300-1AF
+
+Luminarias con lampara intermitente
+Luces de un solo flash 24 CA/CD Rojo 2 8WD5320-0CB
+con flash electrónico integrado Verde 2 8WD5320-0CC
+Amarillo 2 8WD5320-0CD
+Trasparente 2 8WD5320-0CE
+Azul 2 8WD5320-0CF
+115 CA Rojo 2 8WD5340-0CB
+Verde 2 8WD5340-0CC
+6
+Amarillo 2 8WD5340-0CD
+Trasparente 2 8WD5340-0CE
+Azul 20 8WD5340-0CF
+230 CA Rojo 2 8WD5350-0CB
+Verde 20 8WD5350-0CC
+Amarillo 2 8WD5350-0CD
+Trasparente 2 8WD5350-0CE
+Azul 20 8WD5350-0CF
+
+Luminarias con LED integrado¹)
+Luz continua 24 CA/CD Rojo 2 8WD5320-5AB
+Verde 2 8WD5320-5AC
+Amarillo 2 8WD5320-5AD
+Trasparente 2 8WD5320-5AE
+Azul 2 8WD5320-5AF
+Lámparas de luz intermitente 24 CA/CD Rojo 2 8WD5320-5BB
+Verde 2 8WD5320-5BC
+Amarillo 2 8WD5320-5BD
+Trasparente 2 8WD5320-5BE
+Azul 2 8WD5320-5BF
+Luces giratorias 24 CA/CD Rojo 2 8WD5320-5CB
+Verde 2 8WD5320-5CC
+Amarillo 2 8WD5320-5CD
+Trasparente 2 8WD5320-5CE
+Azul 2 8WD5320-5CF
+
+Accesorios para montaje (opcional)
+Adaptadores de tubos 2 8WD5308-0EG
+Para montaje en tubo³)
+
+1) Solo para uso con los dispositivos de comando y señalizacion SIRIUS.
+2) Lámpara no incluida en el alcance del suministro, ver columnas de señalización, página 6/64.
+3) Para tubos y patas, ver columnas de señalización, página 6/64.
+
+6/68 Catálogo de baja tensión, control y distribución

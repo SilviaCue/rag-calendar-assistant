@@ -1,0 +1,104 @@
+Equipos de mando y señalización
+
+Introducción
+
+Descripción
+
+3SU1.0
+
+Botones y lámparas indicadoras
+Diseños
+Diámetro nominal
+Versión
+
+Actuadores
+Botones
+Botón iluminado
+Botón hongo iluminado
+Botón hongo PARO DE EMERGENCIA
+Botón selector
+Selectores con llave
+Botón doble
+Selector con sensor
+Selector con llave ID
+Botones con carrera extendida
+
+Indicadores
+Lámparas indicadoras
+
+Bloques de contacto
+1 Polo
+
+Módulos LED
+Módulos con LED integrado
+
+Conexiones
+Terminal tornillo
+Terminal resorte
+Terminal soldable
+AS-Interface
+IO-Link
+
+✓ Disponible
+— No disponible
+
+22 mm
+Plástico
+Unidades completas
+
+✓
+✓
+✓
+✓
+✓
+✓
+—
+—
+—
+—
+
+✓
+
+✓
+
+✓
+
+✓
+✓
+✓
+✓
+✓
+
+Unidades compactas
+
+—
+—
+
+—
+—
+—
+—
+—
+—
+—
+—
+—
+✓
+
+—
+
+—
+
+✓
+
+✓
+✓
+✓
+✓
+✓
+
+6
+
+Catálogo de baja tensión, control y distribución
+
+6/3

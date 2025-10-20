@@ -1,0 +1,40 @@
+Relés de sobre carga
+Relés de sobre carga térmicos SIRIUS 3RU2
+
+Para aplicaciones estándar 3RU2
+
+Descripción
+
+Más información
+
+Homepage, see http://www.siemens.com/sirius-overloadrelays
+Industry Mall, see www.siemens.com/product?3RU2
+TIA Selection Tool Cloud (TST Cloud), see
+https://mall.industry.siemens.com/spice/TSTWeb?kmat=ElectronicOverloadRelay
+Conversion tool, e.g. from 3RU11 to 3RU21, see
+www.siemens.com/sirius/conversion-tool
+
+Application Manual "Controls with IE3/IE4 Motors", see
+https://support.industry.siemens.com/cs/ww/en/view/94770820
+Manual "SIRIUS – SIRIUS 3RU Thermal Overload Relays /
+SIRIUS 3RB Electronic Overload Relays", see
+http://support.automation.siemens.com/WW/view/en/60298164
+Characteristics and certificates, see
+https://support.industry.siemens.com/cs/ww/en/ps/16271
+
+3
+
+IC01_00659
+
+1 Soporte para ensamble independiente 3RU2 y 3RB3
+2 Relés de sobre carga térmicos 3RU21
+Tamaños S00 a S3
+Accesorios montables
+3 Módulo para RESET remoto
+4 Cable suelto con sujetador para RESET
+5 Tapa sellable
+6 RESET mecánico
+7 Botón pulsador
+
+3/16
+Catálogo de baja tensión, control y distribución

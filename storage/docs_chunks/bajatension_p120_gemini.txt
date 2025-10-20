@@ -1,0 +1,78 @@
+Interruptores de límite 3SE5, 3SE2
+
+3SE5, cajas de plástico
+Ancho de caja 31 mm según EN 50047
+
+Datos para selección y pedidos
+
+Aparatos completos
+Dos o tres contactos • Grado de protección IP65 • Entrada de cables M20 x 1,5¹⁾
+
+Versión Contactos²⁾ LED PE Aparatos completos ☐ TE*
+Referencia
+
+Aparatos completos³⁾ • Ancho de caja 31 mm
+Vástagos reforzados, forma B, según 50047
+Con vástago de teflón
+Contactos de acción normal 1 NA + 1 NC ⨁ — ► 3SE5232-0BC05 1 UD
+Contactos de acción brusca 1 NA + 1 NC ⨁ — 3SE5232-0CC05 1 UD
+Vástago reforzado Carrera corta, integrados⁴⁾ 1 NA + 1 NC ⨁ — ► 3SE5232-0HC05 1 UD
+Contactos de acción brusca, integrados⁴⁾ 1 NA + 1 NC ⨁ — 3SE5232-0FC05 1 UD
+• 2 x 2 mm de distancia entre los contactos
+Contactos de acción brusca 1 NA + 1 NC ⨁ — 3SE5232-0GC05 1 UD
+Contactos de acción normal 1 NA + 2 NC ⨁ — 3SE5232-0KC05 1 UD 5
+Contactos de acción brusca 1 NA + 2 NC ⨁ — 3SE5232-0LC05 1 UD
+Contactos de acción normal con solape 1 NA + 2 NC ⨁ — 3SE5232-0MC05 1 UD
+Contactos de acción normal 2 NA + 1 NC ⨁ — 3SE5232-0PC05 1 UD
+
+Con protección anticorrosión elevada
+Contactos de acción normal 1 NA + 1 NC ⨁ — 3SE5232-0BC05-1CA0 1 UD
+Contactos de acción brusca 1 NA + 1 NC ⨁ — 3SE5232-0CC05-1CA0 1 UD
+Contactos de acción normal 1 NA + 2 NC ⨁ — 3SE5232-0KC05-1CA0 1 UD
+Contactos de acción brusca 1 NA + 2 NC ⨁ — 3SE5232-0LC05-1CA0 1 UD
+con protección Contactos de acción normal con solape 1 NA + 2 NC ⨁ — 3SE5232-0MC05-1CA0 1 UD
+anticorrosión Contactos de acción normal 2 NA + 1 NC ⨁ — 3SE5232-0PC05-1CA0 1 UD
+elevada
+
+Con conector de aparato M12, de 4 polos (250 V, 4 A)
+Contactos de acción normal 1 NA + 1 NC ⨁ — 3SE5234-0BC05-1AC4 1 UD
+Carrera corta, integrados⁴⁾ 1 NA + 1 NC ⨁ — 3SE5234-0HC05-1AC4 1 UD
+Contactos de acción normal 2 NC ⨁ — 3SE5234-0KC05-1AE0 1 UD
+Contactos de acción brusca 2 NC ⨁ — 3SE5234-0LC05-1AE0 1 UD
+
+Con dos LEDs en amarillo/verde
+Contactos de acción normal 1 NA + 2 NC ⨁ 24 V CD 3SE5232-1KC05 1 UD
+Contactos de acción brusca 1 NA + 2 NC ⨁ 24 V CD 3SE5232-1LC05 1 UD
+Contactos de acción normal 1 NA + 2 NC ⨁ 230 V CA 3SE5232-3KC05 1 UD
+Contactos de acción brusca 1 NA + 2 NC ⨁ 230 V CA 3SE5232-3LC05 1 UD
+con 2 LEDs
+
+Con conector de aparato M12, de 5 polos (125 V, 4 A), y 2 LEDs
+Contactos de acción normal 1 NA + 1 NC ⨁ 24 V CD 3SE5234-1BC05-1AF3 1 UD
+Contactos de acción brusca 1 NA + 1 NC ⨁ 24 V CD 3SE5234-1CC05-1AF3 1 UD
+
+Vástagos de rodillo, forma C, según EN 50047
+Con rodillo de plástico de 10 mm
+Contactos de acción normal 1 NA + 1 NC ⨁ — 3SE5232-0BD03 1 UD
+Contactos de acción brusca 1 NA + 1 NC ⨁ — ► 3SE5232-0HD03 1 UD
+• Integrados⁴⁾
+Contactos de acción brusca 1 NA + 1 NC ⨁ — 3SE5232-0FD03 1 UD
+Vástago de rodillo • Carrera corta, integrados⁴⁾
+Contactos de acción normal 1 NA + 2 NC ⨁ — 3SE5232-0KD03 1 UD
+Contactos de acción brusca 1 NA + 2 NC ⨁ — 3SE5232-0LD03 1 UD
+Cabeza girada 90°
+Contactos de acción brusca 1 NA + 2 NC ⨁ — 3SE5232-0LD03-1AH0 1 UD
+Con conector de aparato M12, de 4 polos (250 V, 4 A)
+Contactos de acción brusca, integrados⁴⁾ 1 NA + 1 NC ⨁ — 3SE5234-0HD03-1AC4 1 UD
+
+Vástagos de rodillo con fijación central
+Vástago de rodillo • Integrados⁴⁾
+con fijación central Contactos de acción brusca 1 NA + 1 NC ⨁ — 3SE5232-0HD10 1 UD
+Contactos de acción normal 1 NA + 2 NC ⨁ — 3SE5232-0KD10 1 UD
+
+1) Para la conexión rápida debe usarse un pasacables con junta.
+2) Contacto NC con apertura positiva según IEC 60947-5-1, Anexo K, y accionamiento con sistema de unión mecánica, necesario en circuitos de seguridad. Identificado por el símbolo ⨁.
+3) Variantes solicitadas con frecuencia.
+4) No es posible intercambiar posteriormente los bloques de contactos.
+
+Catálogo de baja tensión, control y distribución 5/7

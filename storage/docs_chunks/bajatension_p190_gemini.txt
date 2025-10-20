@@ -1,0 +1,72 @@
+Lámparas de señalización integrada SIRIUS 8WD5
+8WD53 Lámparas de señalización integrada, 70 mm diámetro
+
+Descripción
+Datos Generales
+
+Lámparas de señalización integrada 8WD53
+
+Más información
+Página Inicio, www.siemens.com/sirius-commanding
+Industry Mall, www.siemens.com/product?8WD5
+Manual, https://support.industry.siemens.com/cs/ww/en/view/107194954
+
+Diseño
+Características
+• Cajas termoplásticas, diámetro 70 mm.
+• Grado de protección IP65.
+• Tensión nominal 24 V, 115 V, 230 V CA / CC.
+• Temperatura ambiente -20 a +50 °C, lámpara incandescente
+hasta 60 °C.
+
+La forma especial de las lámparas de señalización ayuda a que
+la luz se emita de manera óptima en todas las direcciones (hacia
+los lados y hacia arriba).
+
+Luces continuas (con lámpara incandescente o LED) y las luces
+de un solo flash están disponibles en cinco colores. Así como la
+versión de luz continua.
+
+Las versiones LED de las lámparas de señalización ofrecen una
+considerable durabilidad más larga que las versiones con lámpara
+incandescente.
+
+Todos ellos tienen el alto grado de protección IP65 y están hechos
+de un material altamente resistente al impacto.
+
+Montaje
+Las lámparas de señalización integradas 8WD53 se pueden montar
+en cualquier punto de la máquina con el fin de dar señales
+visuales. Son montados mediante una base de tornillo PG-29
+con tuerca.
+
+Aplicación
+Las lámparas de señalización SIRIUS 8WD53 pueden usarse
+como elemento de visualización en en condiciones ambientales
+adversas y en instalaciones exteriores.
+
+Los dispositivos de señalización visual para indicar las condiciones
+de operación pueden ser utilizados para las siguientes
+aplicaciones:
+• Plantas de manufactura.
+
+① Lámpara de señalización 8WD53
+② Adaptador de tubo 8WD5308-0EG
+③ Tubo 8WD4208-0EF / 8WD4308-0E.
+④ Pie con tubo 8WD4308-OD
+⑤ Pie para montaje con tubo 8WD4308-0DB
+⑥ Pie para montaje con tubo (> 400 mm) 8WD4308-0DC
+⑦ Pie de ángulo ajustable para montaje en tubo 8WD4408-ODF
+⑧ Zócalo 8WD4308-ODD
+⑨ Zócalo (fijación magnética) 8WD4308-0DE
+⑩ Soporte para montaje con pie 8WD4408-0CC
+
+• Máquinas de moldeo por inyección.
+• Bandas transportadoras.
+• Sistemas de montaje para componentes electrónicos.
+
+IC01_00455
+6
+
+Catálogo de baja tensión, control y distribución
+6/67

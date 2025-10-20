@@ -1,0 +1,35 @@
+Arrancador Reversible Clase 22
+Con Relevador Bimetálico
+Dimensiones
+
+Dimensiones
+
+Figura 1a
+Este revelador se utiliza para multivelocidad únicamente
+
+Figura 1b
+Este revelador se utiliza para multivelocidad únicamente
+
+Figura 2
+Este revelador se utiliza para multivelocidad únicamente
+
+Figura 3
+Este revelador se utiliza para multivelocidad únicamente
+
+7
+
+Arrancador Reversible Clase 22 y Clase 30, 2 velocidades con relevador de sobrecarga bimetálico
+
+Tamaño Figura Dimensiones exteriores                      Dimensiones de montaje Tornillería de montaje Dimensiones del reset
+       A      B      B1     B2    C      C1     D      D1     E      G        J      K     K1     L     M      M1
+00–1¾  1a    7.69   8.25   10.50  3.62  3.92   3.61   7.25   0.22   7.25   #10      5.60   1.25  4.75   0.16  3.12   3.07
+2–2½   1b    8.94   8.25   10.50  3.62  4.17   3.98   8.50   0.22   7.25   #10      6.46   0.79  4.75   0.16  3.10   3.05
+3–3½   2     11.44  10.94  12.94  —     5.66   5.08   10.75  0.34   10.25  #10      8.56   2.12  6.00   0.12  3.83   3.71
+4      3     12.50  10.94  12.75  —     6.22   5.16   11.22  0.34   10.25  0.25     9.11   2.12  6.00   0.12  4.09   3.97
+
+Nota:
+Dimensiones para referencia, no recomendadas para construcción. Contacte a su representante de ventas para referencia de las dimensiones no mostradas en este catálogo.
+Dimensiones en pulgadas (mm).
+
+Catálogo de baja tensión, control y distribución
+7/17

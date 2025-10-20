@@ -1,0 +1,159 @@
+Contactores de fuerza tripolares para maniobra de motores
+
+Contactores SIRIUS 3RT20,
+de 3 polos, 3... 18,5 kW
+
+1
+
+Datos para selección y pedidos
+Accionamiento CA
+
+3RT20 2.-1A.00
+3RT20 2.-2A.00
+3RT20 2.-1A.04
+3RT20 2.-2A.04
+
+Datos asignados en la categoría de empleo
+AC-2 y AC-3, Tu: hasta 60 °C
+AC-1, Tu: 40 °C
+Contactos auxiliares
+Tensión asignada de mando Us a 50/60 Hz
+PE
+Bornes de tornillo
+PE
+Bornes de resorte
+Intensidad de empleo Ie hasta 400 V
+Potencias de motores trifásicos a 50/60 Hz y 400 V
+Intensidad de empleo Ie hasta 690 V
+N° caract.
+Versión
+Referencia
+Referencia
+A
+kW
+A
+NA
+NC
+V CA
+
+Para fijación por tornillos y por abroche en perfil TH 35
+Tamaño S01)
+
+9
+4
+40
+11
+1
+1
+24
+3RT2023-1AC20
+3RT2023-2AC20
+110
+3RT2023-1AK60
+3RT2023-2AK60
+230
+3RT2023-1AN20
+3RT2023-2AN20
+440
+3RT2023-1AR60
+—
+
+12
+5,5
+40
+11
+1
+1
+24
+3RT2024-1AC20
+3RT2024-2AC20
+110
+3RT2024-1AK60
+3RT2024-2AK60
+230
+3RT2024-1AN20
+3RT2024-2AN20
+440
+3RT2024-1AR60
+—
+
+16
+7,5
+40
+11
+1
+1
+24
+3RT2025-1AC20
+3RT2025-2AC20
+110
+3RT2025-1AK60
+3RT2025-2AK60
+230
+3RT2025-1AN20
+3RT2025-2AN20
+440
+3RT2025-1AR60
+—
+
+25
+11
+40
+11
+1
+1
+24
+3RT2026-1AC20
+3RT2026-2AC20
+110
+3RT2026-1AK60
+3RT2026-2AK60
+230
+3RT2026-1AN20
+3RT2026-2AN20
+440
+3RT2026-1AR60
+—
+
+32
+15
+50
+11
+1
+1
+24
+3RT2027-1AC20
+3RT2027-2AC20
+110
+3RT2027-1AK60
+3RT2027-2AK60
+230
+3RT2027-1AN20
+3RT2027-2AN20
+440
+3RT2027-1AR60
+—
+
+38
+18,5
+50
+11
+1
+1
+24
+3RT2028-1AC20
+3RT2028-2AC20
+110
+3RT2028-1AK60
+3RT2028-2AK60
+230
+3RT2028-1AN20
+3RT2028-2AN20
+440
+3RT2028-1AR60
+—
+
+1) Los contactores 3RT20 pueden suministrarse también con terminal de cable en anillo. Para consultar sobre estas versiones especiales, póngase en contacto con el distribuidor de Siemens para su zona.
+
+Catálogo de baja tensión, control y distribución
+1/11

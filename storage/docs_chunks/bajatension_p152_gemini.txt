@@ -1,0 +1,29 @@
+SIRIUS ACT Botones pulsadores y lámparas indicadoras
+Actuadores e indicadores 22 mm, plástico con anillo metálico, mate
+
+Unidades completas
+Selectores
+
+Datos para selección y pedidos
+
+Principio de operación    Color    Número de Bloques de contacto    Contactos NA    Contactos NC    SD Terminal tornillo
+                                                                                                    d Referencia
+
+Selectores
+
+3SU1130-2BF60-1BA0
+
+Actuador negro corto, 2 posiciones, iluminable
+Enclavados 90º           Blanco      1      1      0      ► 3SU1130-2BF60-1BA0
+                                     1      1      1      ► 3SU1130-2BF60-1MA0
+
+Actuador negro corto, 3 posiciones, iluminable
+Contacto momentáneo 2 x 45º  Blanco      2      2      2      5 3SU1130-2BM60-1LA0
+                                     2      2      0      3 3SU1130-2BM60-1NA0
+
+Desenclave, 2 x 45º      Blanco      2      2      2      3 3SU1130-2BL60-1LA0
+                                     2      2      0      ► 3SU1130-2BL60-1NA0
+
+6
+
+Catálogo de baja tensión, control y distribución 6/29

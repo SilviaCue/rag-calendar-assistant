@@ -1,0 +1,86 @@
+Equipos de gestión y mando de motores SIMOCODE pro 3UF7
+
+Módulos de ampliación de seguridad
+
+Datos para selección y pedidos
+
+Versión PE Bornes de tornillo TE*
+Referencia
+
+Módulos de expansión para SIMOCODE pro S
+Con SIMOCODE pro S es posible expandir el tipo y el número de entradas y
+salidas. El módulo de expansión tiene dos interfaces al frente. A través de
+una de las interfaces se conecta el módulo de expansión a la unidad base del
+SIMOCODE S usando un cable de conexión. La alimentación para el módulo de
+expansión se suministra a través del cable de conexión de la unidad base.
+
+4
+
+3UF7 600-1AU01-0
+
+Módulos Multifunción
+El módulo multifunción de expansión para el SIMOCODE S posee las siguientes
+funciones:
+• 1Módulo de función con 4 entradas digitales y dos salidas a relevador
+monoestables
+• Función de falla a tierra con 1 entrada para la conexión de un transformador
+3UL23 con aviso de advertencia configurable y límites de disparo ajustables
+de 30 mA...40A
+• Función de temperatura con 1 entrada para conexión de sensor de
+temperatura analógico PT100, KTY83 KTY84 o NTC
+Máx. 1 módulo multifunción puede conectarse a la unidad base del
+SIMOCODE S.
+
+Voltaje de entrada de las entradas digitales:
+• 24 V DC
+• 110... 240 V AC/DC
+
+► 3UF7600-1AB01-0 1 UD
+► 3UF7600-1AU01-0 1 UD
+
+Versión PE Bornes de tornillo TE*
+Referencia
+
+Módulos de expansión de seguridad para SIMOCODE pro V
+Los módulos de expansión de seguridad permiten ampliar SIMOCODE pro V
+con la función de un módulo de seguridad para la desconexión de motores.
+Como máximo puede conectarse un módulo digital de seguridad que podrá
+emplearse en lugar de un módulo digital.
+Los módulos de ampliación de seguridad están equipados con dos interfaces
+de sistema en el frontal para la conexión con otros componentes del sistema. A
+diferencia de otros módulos de ampliación, la alimentación eléctrica de los
+módulos se efectúa a través de una conexión por bornes separada.
+
+Nota:
+El cable de conexión debe pedirse por separado.
+
+Módulos digitales de seguridad DM-F Local
+Para la desconexión de seguridad a través de señal de hardware se tienen dos
+circuitos de habilitación a relés, con maniobra común; dos salidas por relés, un
+mismo común con desconexión de seguridad; entradas para circuito de
+sensor, señal de arranque, conexión en cascada y circuito de retroacción,
+función de seguridad ajustable mediante interruptor DIP.
+Tensión asignada de mando Us:
+• 24 V DC
+• 110... 240 V AC/DC
+
+3UF7 320-1AB00-0
+
+► 3UF7320-1AB00-0 1 UD
+► 3UF7320-1AU00-0 1 UD
+
+Módulos digitales de seguridad DM-F PROFIsafe
+Para la desconexión de seguridad vía PROFIBUS/PROFIsafe se tienen dos circuitos
+de habilitación a relés, con maniobra común; dos salidas por relés, un mismo
+común con desconexión de seguridad; una entrada para circuito de retroacción;
+tres entradas estándar binarias.
+Tensión asignada de mando Us:
+• 24 V DC
+• 110... 240 V AC/DC
+
+3UF7 330-1AB00-0
+
+► 3UF7330-1AB00-0 1 UD
+► 3UF7330-1AU00-0 1 UD
+
+4/10 Catálogo de baja tensión, control y distribución

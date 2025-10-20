@@ -1,0 +1,45 @@
+SIRIUS ACT Botones pulsadores y lámparas indicadoras
+Actuadores e indicadores 22 mm, redondo, plástico negro
+Unidades completas
+Selectores
+
+Datos para selección y pedidos
+
+Principio de operación | Color Voltaje de suministro para fuente de luz | Número de Bloques de contacto | Contactos NA | Contactos NC | DT | Terminal tornillo | Referencia
+
+Perilla selectora
+
+Actuador maneta corta negro, 2 posiciones iluminable
+Enclavados 90°
+Blanco | 1 | 1 | 0 | 3SU1100-2BF60-1BA0
+Blanco | 2 | 1 | 1 | 3SU1100-2BF60-1MA0
+Blanco 110 V | 1 | 1 | 0 | 5 | 3SU1103-2BF60-1BA0
+
+3SU1100-2BF60-1BA0
+
+Actuador maneta corta negro, 3 posiciones iluminación
+Contacto momentáneo, 2 x 45°, reset desde derecha + izquierda
+Blanco | 2 | 2 | 0 | 3SU1100-2BM60-1NA0
+Desenclave, 2 x 45°
+Blanco | 2 | | | 3SU1100-2BL60-1NA0
+Blanco 110 V | 2 | 2 | 0 | 5
+
+Bornes de resorte
+
+Actuador maneta corta negro, 2 posiciones iluminación
+Enclave 90°
+Blanco | 1 | 1 | 0 | 5 | 3SU1100-2BF60-3BA0
+Blanco | 2 | 1 | 1 | 5 | 3SU1100-2BF60-3MA0
+
+3SU1100-2BL60-3NA0
+
+Actuador maneta corta negro, 3 posiciones iluminación
+Contacto momentáneo, 2 x 45°, reset desde derecha + izquierda
+Blanco | 2 | 2 | 0 | 5 | 3SU1100-2BM60-3NA0
+Desenclave, 2 x 45°
+Blanco | 2 | 2 | 0 | 5 | 3SU1100-2BL60-3NA0
+
+6
+
+Catálogo de baja tensión, control y distribución
+6/15

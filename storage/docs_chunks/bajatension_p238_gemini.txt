@@ -1,0 +1,60 @@
+Botonería y Señalización
+NEMA Clase 51, Ø30.5 mm
+
+Selección
+
+Datos para selección y pedidos
+Botones NEMA 7&9
+
+Botones pulsadores NEMA 7&9
+Color Botón rasante Botón saliente
+US2:51PA8A1 US2:51PA8B1
+US2:51PA8A2 US2:51PA8B2
+US2:51PA8A3 US2:51PA8B3
+
+Botón hongo no iluminado NEMA 7&9
+Color Cabezal 1 5/8" Cabezal 2 1/2" Tipo de seguro Posiciones
+US2:51PA9D2 US2:51PA9E2 Momentáneo 2
+US2:51PA2D2 US2:51PA2E2 Jalón 2
+US2:51PA3A2U — Jalón 3
+US2:51PA9D1 US2:51PA9E1 Momentáneo 2
+US2:51PA2D1 US2:51PA2E1 Jalón 2
+US2:51PA3A1U — Jalón 3
+
+Lámparas indicadoras NEMA 7&9, incandescentes
+Color 6-8 V CA/CD con lamp 6 V tipo 755 12 V CA/CD con lamp 6 V tipo 756 24 V CA/CD con lamp 6 V tipo 757
+US2:51PC5B2 US2:51PC5C2 US2:51PC5D2
+US2:51PC5B3 US2:51PC5C3 US2:51PC5D3
+US2:51PC5B9 US2:51PC5C9 US2:51PC5D9
+
+Lámparas indicadoras NEMA 7&9, LED
+Color 6-8 V CA/CD con LED 6 V tipo BA9 24 V CA/CD con LED 24 V tipo BA9
+US2:51PE5B2 US2:51PE5D2
+US2:51PE5B3 US2:51PE5D3
+US2:51PE5B9 US2:51PE5D9
+
+Lámparas indicadoras con transformador NEMA 7&9, incandescentes
+Color 120 V CA/CD con lamp 6 V tipo 755 240 V CA/CD con lamp 6 V tipo 755 480 V CA/CD con lamp 6 V tipo 755
+US2:51PC5G2 US2:51PC5H2 US2:51PC5J2
+US2:51PC5G3 US2:51PC5H3 US2:51PC5J3
+US2:51PC5G9 US2:51PC5H9 US2:51PC5J9
+
+Lámparas indicadoras con transformador NEMA 7&9, LED
+Color 120 V CA/CD con LED 6 V tipo BA9 240 V CA/CD con LED 6 V tipo BA9 480 V CA/CD con LED 6 V tipo BA9
+US2:51PE5G2 US2:51PE5H2 US2:51PE5J2
+US2:51PE5G3 US2:51PE5H3 US2:51PE5J3
+US2:51PE5G9 US2:51PE5H9 US2:51PE5J9
+
+Botón Selector NEMA 7&9
+Color Maneta corta Maneta larga Llave Posición y funcionamiento Posiciones
+US2:51SA2AA US2:51SB2AA US2:51SA6AF Sost / Sost 2
+US2:51SA2AC US2:51SB2AC US2:51SA6AC Sost / Mom 2
+US2:51SA2BA US2:51SB2BA US2:51SA6BH Sost / Sost / Sost 3
+US2:51SA2BC US2:51SB2BC US2:51SA6BU Sost / Sost / Mom 3
+US2:51SA2BB US2:51SB2BB US2:51SA6BT Mom / Sost / Sost 3
+US2:51SA2BD US2:51SB2BD US2:51SA6BV Mom / Sost / Mom 3
+
+Botón pulsador dual
+Modelo US2:51PD8A1B2
+
+Catálogo de baja tensión, control y distribución 7/47

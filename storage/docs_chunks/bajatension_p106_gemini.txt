@@ -1,0 +1,103 @@
+Relés
+Relevadores de tiempo 3RP20, 45mm
+
+Datos para selección y pedidos
+
+3RP2005-1AP30
+3RP2005-1BW30
+3RP2005-2AP30
+3RP2005-2BW30
+
+Versión
+Rango de ajuste de tiempo t
+Voltaje de alimentación nominal Us
+PE
+Bornes de tornillo
+PE
+Bornes de resorte
+50/60 Hz CA
+CD
+Referencia
+Referencia
+V
+V
+
+Relés de tiempo 3RP2005, multifunción, 15 rangos de ajustes
+
+Las funciones pueden ser ajustadas a través de switches rotatorios, en la inserción de etiquetas pueden usarse diferentes funciones del 3RP2505 claramente y sin errores, estas etiquetas pueden ser ordenadas como accesorios.
+El mismo potencial debe ser aplicado a las terminales A y B
+
+Con LED y 1 contacto CO¹⁾
+8 funciones
+0,05... 1 s
+0,15... 3 s
+0,5... 10 s
+1,5... 30 s
+0,05... 1 min
+24/100... 127
+24/200... 240
+24
+24
+▶ 3RP2005-1AQ30
+▶ 3RP2005-1AP30
+2
+▶
+3RP2005-2AQ30
+3RP2005-2AP30
+
+Con LED y 2 contactos
+CO 16 funciones
+0,05... 1 min
+5... 100 s
+0,15... 3 min
+0,5... 10 min
+1,5... 30 min
+0,05... 1 h
+5... 100 min
+0,15... 3 h
+0,5... 10 h
+1,5... 30 h
+5... 100 h
+∞ ²⁾
+24... 240³⁾
+24... 240⁴⁾
+▶ 3RP2005-1BW30
+2
+3RP2005-2BW30
+
+Relés de tiempo 3RP2025, retraso al arranque, 15 rangos de ajustes
+
+Con LED y
+1 contacto CO¹⁾
+0,05... 1 s
+0,15... 3 s
+0,5... 10 s
+1,5... 30 s
+0,05... 1 min
+5... 100 s
+0,15... 3 min
+0,5... 10 min
+1,5... 30 min
+0,05... 1 h
+5... 100 min
+0,15... 3 h
+0,5... 10 h
+1,5... 30 h
+5... 100 h
+∞ ²⁾
+24/100... 127
+24/200... 240
+24
+24
+▶ 3RP2025-1AQ30
+▶ 3RP2025-1AP30
+▶ 3RP2025-2AQ30
+▶ 3RP2025-2AP30
+
+1) Unidades con separación de protección.
+2) Con posición de maniobra sin tiempo. Para propósitos de prueba (Función Arranque/Paro) en sitio. El relevador es constante cuando se activa, o el relevador sigue constantemente apagado cuando se activa. Dependiendo de la función que se fije.
+3) Rango de operación 0,8 a 1,1 x Us.
+4) Rango de operación 0,7 a 1,1 x Us.
+
+Catálogo de baja tensión, control y distribución
+4/15

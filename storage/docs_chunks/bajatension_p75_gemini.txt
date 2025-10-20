@@ -1,0 +1,273 @@
+Interruptores SIRIUS 3RV2 hasta 40 A
+
+Accesorios
+
+Versión
+
+Para interruptores automáticos
+
+Tamaño
+
+PE
+
+Bornes de tornillo
+
+Referencia
+
+PE
+
+Bornes de resorte
+
+Referencia
+
+**Bloques de contactos auxiliares¹)**
+
+3RV29 01-1E
+
+**Bloques de contactos auxiliares transversales**
+Adosables en el frontal
+1 conmutado
+1 NA + 1 NC²)
+2 NA
+
+S00...S3
+
+► 3RV2901-1D
+► 3RV2901-1E
+► 3RV2901-1F
+
+—
+► 3RV2901-2E
+► 3RV2901-2F
+
+3
+
+3RV29 01-2E
+
+**Bloque de contactos auxiliares transversal para electrónica**
+Adosable en el frontal, para la aplicación en ambientes con alto grado de polvo y en circuitos electrónicos con bajas intensidades de empleo.
+1 conmutado
+
+S00...S3
+
+► 3RV2901-1G
+
+—
+
+**Tapa para el bloque de contactos auxiliares transversal**
+
+S00...S3
+
+► 3RV2901-0H
+
+—
+
+**Bloques de contactos auxiliares laterales**
+Adosables al costado izquierdo
+1 NA + 1 NC²)
+2 NA
+2 NC
+2 NA + 2 NC
+
+S00...S3
+
+► 3RV2901-1A
+► 3RV2901-1B
+► 3RV2901-1C
+► 3RV2901-1J
+
+► 3RV2901-2A
+► 3RV29 01-2B
+► 3RV2901-2C
+—
+
+3RV29 01-1A 3RV29 01-2A
+
+**Bloques de señalización³) y módulos separadores**
+
+**Bloque de señalización²)**
+Por cada interruptor automático se podrá adosar un bloque de señalización a la izquierda.
+Aviso separado de disparo y de cortocircuito, c/u
+1 NA + 1 NC
+
+S00...S3
+
+► 3RV2921-1M
+
+► 3RV2921-2M
+
+**Módulo separador**
+Tramo de seccionamiento visible para separar guardamotores individuales de la red, con cierre en la posición de seccionamiento.
+
+S00, S0
+S2
+
+3RV2928-1A
+3RV2938-1A
+
+—
+—
+
+3RV29 21-1M 3RV29 21-2M
+
+1) Por cada interruptor automático se puede adosar un bloque de contactos auxiliares transversal y otro lateral. El bloque lateral de contactos auxiliares 2 NA + 2 NC se usa sin bloque transversal.
+
+3) Este accesorio no puede usarse con los guardamotores 3RV27 y 3RV28.
+
+4) El módulo aislador para tamaño S2 debe ser usado solo con guarda motor 3RV2 con capacidad máxima de 65 A. NO puede ser utilizado con bloque de contactos transversales.
+
+2) Los bloques de contactos auxiliares y de señalización 3RV29 con 1 NA + 1 NC se pueden suministrar también con terminal de cable en anillo. La 8ª posición de la referencia debe cambiarse a "4": p. ej. 3RV29 01-4E.
+
+Tensión asignada de mando Uₛ
+
+CA 60 Hz
+
+V
+
+CA 50/60 Hz,
+Ciclo de trabajo
+100 %¹)
+
+V
+
+CA/CD 50/60 Hz,
+Ciclo de trabajo
+CD 5 s²)
+
+V
+
+CD
+
+V
+
+Para
+interruptores
+automáticos
+
+Tamaño
+
+PE
+
+Bornes de
+tornillo
+
+Referencia
+
+PE
+
+Bornes de
+resorte
+
+Referencia
+
+**Disparadores auxiliares³)**
+
+**Disparadores de mínima tensión**
+—
+110
+230
+400
+
+—
+120
+240
+440
+
+—
+—
+—
+—
+
+24
+—
+—
+—
+
+S00...S2
+S00...S2 ⁴⁾
+S00...S2 ⁴⁾
+S00...S2 ⁴⁾
+
+3RV2902-1AB4
+3RV2902-1AF0
+► 3RV2902-1AP0
+► 3RV2902-1AV0
+
+—
+—
+► 3RV2902-2AP0
+► 3RV2902-2AV0
+
+3RV29 02-1AV0
+
+**Disparadores de mínima tensión con contactos auxiliares adelantados 2 NA**
+230
+400
+
+240
+440
+
+—
+—
+
+—
+—
+
+S00...S2
+S00...S2
+
+3RV2922-1CP0
+3RV2922-1CV0
+
+3RV2922-2CP0
+3RV2922-2CV0
+
+**Disparadores de apertura**
+—
+—
+—
+—
+
+—
+70 ... 110
+190 ... 240
+350 ... 415
+
+20 ... 24
+70 ... 190
+190 ... 330
+330 ... 500
+
+20 ... 70
+—
+—
+—
+
+S00...S2
+S00...S2 ⁴⁾
+S00...S2 ⁴⁾
+S00...S2
+
+► 3RV2902-1DB0
+3RV2902-1DF0
+► 3RV2902-1DP0
+3RV2902-1DV0
+
+► 3RV2902-2DB0
+3RV2902-2DF0
+► 3RV2902-2DP0
+—
+
+3RV29 02-2AV0
+
+1) El rango de tensión es válido para un ciclo de trabajo de 100 % (infinito). La tensión de respuesta corresponde a 0,9 de la marca inferior del rango de tensión.
+
+3) Por cada interruptor automático se puede adosar un disparador auxiliar a la derecha (excepto en el caso de guardamotores 3RV21 para protección de motores con función de relés de sobrecarga).
+
+2) El rango de tensión vale para un ciclo de trabajo de 5 s con CA 50/60 Hz y CD. La tensión de respuesta corresponde a 0,85 de la marca inferior del rango de tensión.
+
+4) Los disparadores auxiliares 3RV29 pueden suministrarse también con terminal de cable en anillo. La 8ª posición de la referencia debe cambiarse a "4": p. ej. 3RV29 02-4AP0.
+
+**3/8**
+
+Catálogo de baja tensión, control y distribución

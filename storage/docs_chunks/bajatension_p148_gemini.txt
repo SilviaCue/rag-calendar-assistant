@@ -1,0 +1,51 @@
+SIRIUS ACT Botones pulsadores y lámparas indicadoras
+Actuadores e indicadores 22 mm, redondo, plástico negro
+
+Datos para selección y pedidos
+Joysticks/lámparas indicadoras
+
+Función del producto
+Cerradura en posición cero   Número de posiciones de maniobra   Principio de operación   Dirección del actuador   SD   Referencia
+                                                                                               d
+Joysticks
+
+3SU1000-7AA10-0AA0
+No           2           Contacto momentáneo      Horizontal               ►    3SU1000-7AC10-0AA0
+                         Vertical                 ►    3SU1000-7AD10-0AA0
+                         NUEVO Enclave            Horizontal               ►    3SU1000-7AA10-0AA0
+                         Vertical                 ►    3SU1000-7AB10-0AA0
+             4           Contacto momentáneo      Horizontal/              ►    3SU1000-7AF10-0AA0
+                                                  Vertical
+                         NUEVO Enclave            Horizontal/              ►    3SU1000-7AE10-0AA0
+                                                  Vertical
+
+3SU1000-7BA10-0AA0
+Si           2           Contacto momentáneo      Horizontal               ►    3SU1000-7BC10-0AA0
+                         Vertical                 ►    3SU1000-7BD10-0AA0
+                         NUEVO Enclave            Horizontal               ►    3SU1000-7BA10-0AA0
+                         Vertical                 ►    3SU1000-7BB10-0AA0
+             4           Contacto momentáneo      Horizontal/              ►    3SU1000-7BF10-0AA0
+                                                  Vertical
+                         NUEVO Enclave            Horizontal/              ►    3SU1000-7BE10-0AA0
+                                                  Vertical
+
+Voltaje operacional        Color                   DT   Referencia
+Luces indicadoras
+Con lente lisa             Ámbar                   3    3SU1001-6AA00-0AA0
+                           Rojo                    ►    3SU1001-6AA20-0AA0
+                           Amarillo                ►    3SU1001-6AA30-0AA0
+                           Verde                   ►    3SU1001-6AA40-0AA0
+3SU1001-6AA40-0AA0         Azul                    ►    3SU1001-6AA50-0AA0
+                           Blanco                  ►    3SU1001-6AA60-0AA0
+                           Transparente            ►    3SU1001-6AA70-0AA0
+
+Lámparas indicadoras en diseño de botón iluminado NUEVO
+                           Rojo                    3    3SU1001-0AD20-0AA0
+                           Amarillo                ►    3SU1001-0AD30-0AA0
+                           Verde                   ►    3SU1001-0AD40-0AA0
+3SU1001-0AD50-0AA0         Azul                    ►    3SU1001-0AD50-0AA0
+                           Transparente            ►    3SU1001-0AD70-0AA0
+
+9
+
+Catálogo de baja tensión, control y distribución   6/25

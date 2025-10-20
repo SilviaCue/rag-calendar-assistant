@@ -1,0 +1,35 @@
+Contactores de fuerza tripolares para maniobra de motores
+
+Contactores SIRIUS 3RT
+de 3 polos hasta 250 kW
+
+1 Montaje de control nominal para contactores 3RT1, disponibles bajo pedido
+(cambiar el 10° y 11° dígito de número de parte)
+
+Voltaje de control nominal  Tipo de contactor   3RT1.5..-A,  Voltaje de control nominal   Tipo de contactor   3RT1.5..-N,   3RT1.5..-P
+                               3RT1.6..-A,                                          3RT1.6..-N,   3RT1.5..-S,
+                               3RT1.7..-A                                           3RT1.7..-N    3RT1.6..-P,
+                                                                                                    3RT1.6..-S,
+                                                                                                    3RT1.7..-P,
+                                                                                                    3RT1.7..-S
+
+Us min ... Us max           Tamaño S6 al S122  Us min ... Us max              Tamaño S6 al S12
+
+Tamaños S6 al S12
+Operación CA/CD (50/60 Hz)
+Mecanismo de operación convencional             Mecanismos de operación de estado sólido
+23... 28 V CA/CD            B3                 21... 27,3 V CA/CD           B3         —
+42... 48 V CA/CD            D3                 96... 127 V CA/CD            F3         F3
+110... 127 V CA/CD          F3                 200... 277 V CA/CD           P3         P3
+200... 220 V CA/CD          M3
+220... 240 V CA/CD          P3
+240... 277 V CA/CD          U3
+380... 420 V CA/CD          V3
+440... 480 V CA/CD          R3
+500... 550 V CA/CD          S3
+575... 600 V CA/CD          T3
+
+1) Rango de operación: 0.8 x Us min a 1.1 x Us max
+2) Rango de operación: 0.7 x Us min a 1.25 x Us max
+
+1/18 Catálogo de baja tensión, control y distribución

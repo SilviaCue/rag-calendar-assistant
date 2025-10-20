@@ -1,0 +1,48 @@
+Contactores de fuerza tripolares para maniobra de motores
+
+Contactores SIRIUS 3RT20,
+de 3 polos, 3... 18,5 kW
+
+Fiabilidad de los contactos
+
+Para maniobrar tensiones ≤110 V e intensidades de ≤ 100 mA deben utilizarse los contactos auxiliares de los contactores 3RT2 o de los contactores auxiliares 3RH21, los cuales garantizan una alta seguridad de contacto.
+
+Estos contactos auxiliares son idóneos para circuitos electrónicos con intensidades ≥1 mA con una tensión ≥ 17 V.
+
+Tecnología de conexión
+
+Los contactores 3RT2 se ofrecen con bornes de tornillo, de resorte o terminal de cable en anillo.
+
+Protección contra cortocircuitos de los contactores
+
+A la hora de configurar derivaciones de motor sin fusibles, las combinaciones de interruptor automático y contactor han de seleccionarse de acuerdo con lo expuesto en la sección "Derivaciones a motor 3RA2".
+
+Protección de motores
+
+Para obtener la debida protección contra sobrecargas pueden montarse relés térmicos de sobrecarga 3RU21 o relés electrónicos de sobrecarga 3RB30 a los contactores 3RT2. Los relés de sobrecarga deben pedirse por separado.
+
+La fuerza indicada (en kW) se refiere a la fuerza transmitida por el eje del motor (ver placa de características).
+
+Tensión de mando
+
+Todos los contactores se pueden suministrar con accionamiento CA o CD. Con los contactores del tamaño S0 se dispone además de un accionamiento UC, que se puede activar tanto con CA (45 a 70 Hz) como con CD.
+
+Limitación de sobretensión
+
+Todos los contactores 3RT2 pueden equiparse posteriormente con elementos RC, varistores, diodos supresores, diodos o combinaciones de diodos (combinación de diodo y diodo Z para tiempos de desconexión cortos), para limitar las sobretensiones de corte de la bobina.
+
+Los contactores del tamaño S00 tienen espacio para enchufar los limitadores de sobretensión en el lado frontal, junto a un bloque de contactos auxiliares.
+
+En el caso de los contactores del tamaño S0 pueden enchufarse los limitadores de sobretensión en el frontal de los equipos.
+
+Nota:
+Los tiempos del retardo de apertura de los contactos NA y del retardo de cierre de los contactos NC aumentan, si las bobinas de los contactores están protegidas contra picos de tensión (diodo supresor de interferencias de 6 a 10 x; combinación de diodos de 2 a 6 x; varistor y diodo supresor +2 hasta 5 ms).
+
+Contactores S00 y S0 con interfaz de comunicación
+
+Los contactores S00 y S0 con interfaz de comunicación son el requisito para que puedan adosarse los módulos de función SIRIUS para la conexión con el mando vía IO-Link o AS-Interface.
+
+1
+
+Catálogo de baja tensión, control y distribución
+1/9

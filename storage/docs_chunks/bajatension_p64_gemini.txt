@@ -1,0 +1,53 @@
+Arrancador compacto 3RM1
+Derivaciones a motor y arrancadores de motor para uso en tablero
+
+Datos generales
+
+Conectores de dispositivos para el circuito de control
+
+Los conectores para arrancador de motor 3RM1 (solo en Voltaje de control 24 VCD) reduce el cableado con el uso del conector esto para el voltaje de control. Los conectores son enchufables en un carril de montaje estándar o fijado a un nivel de montaje de panel con tornillos.
+
+El arranque de motor utiliza una desconexión segura para todo el grupo.
+
+El apagado de un grupo seguro se puede implementar fácilmente en conjunto con relés de seguridad 3SK. En este caso, hasta cinco arrancadores se pueden conectar directamente a 3SK relés de seguridad a través de los conectores esto para desconexión segura.
+
+Normas
+
+IEC 60947-4-2:2011, Low-Voltage Switchgear and Controlgear-Part 4-2: Contactors and Motor-Starters-CA Semiconductor Motor Controllers and Starters.”
+IEC 60947-4-3:2011
+IEC 60947-5-1:2011
+ANSI/UL 60947-4-2, Low-Voltage Switchgear and Controlgear-Part 4-2: Contactors and Motor-Starters-CA Semiconductor Motor Controllers and Starters.”
+CSA-C22.2 No 14-13 – Industrial Control Equipment
+CAN/CSA-C22.2 No 60947-1-13- Low-Voltage Switchgear and Control gear – Part 1: General rules
+CAN/CSA-C22.2 No 60947-4-2-14- Low-Voltage Switchgear and Control gear – Part 4-2: Contactors and motor-starters-CA semiconductor motor controllers and starters
+
+2
+
+IC01_00218b
+
+Conectores para arrancador de motor 3RM1
+
+El uso de los conectores es exclusivo para la alimentación de control
+Mediante el uso de conectores, pueden conectar máximo cinco arrancadores de motor solo alimentación de control de 24 V CD. La alimentación de control se conecta a A1 y A2 solo de un arrancador.
+
+Los tapones pueden ser utilizados para huecos entre dos arrancadores de motor.
+
+El uso de los conectores para el apagado seguro de un grupo
+
+En combinación el 3RM11 y 3RM13 Arrancadores con autoprotección.
+
+El Arrancador también se pueden utilizar para apagado de seguridad. Para esta aplicación, los grupos de no más de cinco arrancadores de motor con seguridad se pueden conectar con el dispositivo de seguridad, y el grupo debe terminarse con una terminal. Extracción del voltaje de alimentación de control del primer arrancador.
+
+3SK Relevador de seguridad
+3RM1 Arrancador
+IC01_00178a
+Motor
+
+Conexión ideal: combinación de cuatro arrancadores SIRIUS 3RM1 y un relé de seguridad SIRIUS 3SK1
+
+Más información
+Encontrará toda la información sobre la configuración y dimensionamiento de los accesorios en el manual 3RM1:
+https://support.industry.siemens.com/cs/ww/en/view/66295730
+
+Catálogo de baja tensión, control y distribución
+2/19

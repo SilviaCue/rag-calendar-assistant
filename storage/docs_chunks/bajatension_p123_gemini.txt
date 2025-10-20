@@ -1,0 +1,63 @@
+Interruptores de límite 3SE5, 3SE2
+
+Accesorios y refaccionamiento
+
+Versión                               Color/ Contactos¹⁾    PE    Referencia          TE*
+
+Accesorios opcionales para 3SE52
+    Caperuza de protección, goma,         negro                A     3SE5000-0AC30       1 UD
+    Para vástago reforzado según EN 50047,
+    3SE5 ...-...C05
+
+Piezas de recambio para 3SE51, 3SE52
+    Cajas vacías, plástico                                         turquesa
+    Ancho de caja 31 mm
+    • Con protección anticorrosión elevada                                          3SE5232-0AC05       1 UD
+                                                                                  3SE5232-0AC05-1CA0  1 UD
+    Ancho de caja 50 mm
+    • Con protección anticorrosión elevada                                          3SE5242-0AC05       1 UD
+                                                                                  3SE5242-0AC05-1CA0  1 UD
+    Ancho de caja 31 mm
+
+5
+    Cajas vacías, metal                                            turquesa
+    Ancho de caja 31 mm
+    • Con protección anticorrosión elevada                                          3SE5212-0AC05       1 UD
+                                                                                  3SE5212-0AC05-1CA0  1 UD
+    Ancho de caja 40 mm
+    • Con protección anticorrosión elevada                                          3SE5112-0AA00       1 UD
+                                                                                  3SE5112-0AA00-1CA0  1 UD
+    Ancho de caja 56 mm
+    Ancho de caja 40 mm
+    • Con protección anticorrosión elevada                                          3SE5122-0AA00       1 UD
+                                                                                  3SE5122-0AA00-1CA0  1 UD
+    Ancho de caja 56 mm, XL²⁾                                                       3SE5162-0AA00       1 UD
+
+    Bloques de contactos con 2 contactos
+    • Contactos de acción normal          1 NA + 1 NC          ⊕     3SE5000-0BA00       1 UD
+    • Contactos de acción brusca          1 NA + 1 NC
+      - Estándar                                               ⊕     3SE5000-0CA00       1 UD
+    2 contactos
+      - Contactos dorados                                      ⊕     3SE5000-0CA00-1AC1  1 UD
+      - 2 x 2 mm de distancia de conmutación                   ⊕     3SE5000-0GA00       1 UD
+      - Carrera corta                                          ⊕     3SE5000-0NA00       1 UD
+
+    Bloques de contactos con 3 contactos
+    • Contactos de acción normal          1 NA + 2 NC          ⊕     3SE5000-0KA00       1 UD
+    • Contactos de acción brusca          1 NA + 2 NC          ⊕     3SE5000-0LA00       1 UD
+    • Contactos de acción normal con solape 1 NA + 2 NC        ⊕     3SE5000-0MA00       1 UD
+    3 contactos
+    • Contactos de acción normal          2 NA + 1 NC          ⊕     3SE5000-0PA00       1 UD
+
+1) Contacto NC con apertura positiva según IEC 60947-5-1, Anexo K, identificado por el símbolo ⊕
+
+Modelo                   Contactos             PE      Referencia                  TE*
+                                                       Plástico        Metal
+Interruptores de límite nacionales
+    Vástago                  1 NA + 1NC                        3SE5232-0HC05   3SE5112-0CD02   1 UD
+    Rodillo                  1 NA + 1NC                        3SE5232-0HD03   3SE5112-0CE01   1 UD
+    Leva con rodillo         1 NA + 1NC                        3SE5232-0HE10   3SE5112-0CR01   1 UD
+    Varilla                  1 NA + 1NC                        3SE5232-0HR01   3SE5112-0CH01   1 UD
+    Palanca de rodillo       1 NA + 1NC                        3SE5232-0HK21   3SE5112-0CH50   1 UD
+
+5/10    Catálogo de baja tensión, control y distribución

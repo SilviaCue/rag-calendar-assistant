@@ -1,0 +1,249 @@
+Arrancadores Reversibles Clase 22
+Con Relevador de Sobrecarga Bimetálico
+
+Datos para selección y pedidos
+Selección
+
+Para aquellas aplicaciones donde se requiere invertir el sentido de giro del motor, Siemens combina en los arrancadores Clase 22 la durabilidad y robustez de los contactores NEMA Clase 43 con la eficacia probada de los relevadores térmicos Clase 48 y su amplia variedad de elementos térmicos que ofrecen protección contra rotor bloqueado y sobrecarga (hasta curvas de disparo clase 20 o clase 10 como opción) además de memoria térmica ante cambios de temperatura ambiente para garantizar al usuario mayor protección a su motor y extendiendo su vida útil en aplicaciones de servicio pesado o de uso rudo.
+
+Arrancadores a Tensión Plena Reversible Clase 22 con Relevador de Sobrecarga Bimetálico, 3 Fases, 3 Polos
+
+Tamaño NEMA
+Voltaje de Servicio del Motor
+Potencia máxima [Hp]
+Voltaje de Bobina
+Rango de ajuste de corriente [A]
+Tipo Abierto
+En Gabinete NEMA 1
+En Gabinete NEMA 4 / 4X Acero Inoxidable 304
+En Gabinete NEMA 4 / 4X Fibra de Vidrio
+En Gabinete NEMA 12
+En Gabinete NEMA 3 / 3R
+
+00
+230
+1 1/2
+110 - 240 V C.A
+9
+US2:22BP32AA81
+US2:22BP32BA81
+Use el tamaño 0
+Use el tamaño 0
+Use el tamaño 0
+
+230
+2
+220 - 480 V C.A
+9
+US2:22BP32AC81
+US2:22BP32BC81
+Use el tamaño 0
+Use el tamaño 0
+Use el tamaño 0
+
+0
+230
+3
+110 - 240 V C.A
+18
+US2:22CP32AA81
+US2:22CP32BA81
+US2:22CP32WA81
+US2:22CP32FA81
+US2:22CP320A81
+
+460
+5
+220 - 480 V C.A
+18
+US2:22CP32AC81
+US2:22CP32BC81
+US2:22CP32WC81
+US2:22CP32FC81
+US2:22CP320C81
+
+1
+230
+7 1/2
+110 - 240 V C.A
+27
+US2:22DP32AA81
+US2:22DP32BA81
+US2:22DP32WA81
+US2:22DP32FA81
+US2:22DP320A81
+
+460
+10
+220 - 480 V C.A
+27
+US2:22DP32AC81
+US2:22DP32BC81
+US2:22DP32WC81
+US2:22DP32FC81
+US2:22DP320C81
+
+1 3/4
+230
+10
+110 - 240 V C.A
+40
+US2:22EP32AA81
+US2:22EP32BA81
+US2:22EP32WA81
+US2:22EP32FA81
+US2:22EP320A81
+
+460
+15
+220 - 480 V C.A
+40
+US2:22EP32AC81
+US2:22EP32BC81
+US2:22EP32WC81
+US2:22EP32FC81
+US2:22EP320C81
+
+2
+230
+15
+110 - 240 V C.A
+45
+US2:22FP32AA81
+US2:22FP32BA81
+US2:22FP32WA81
+US2:22FP32FA81
+US2:22FP320A81
+
+460
+25
+220 - 480 V C.A
+45
+US2:22FP32AC81
+US2:22FP32BC81
+US2:22FP32WC81
+US2:22FP32FC81
+US2:22FP320C81
+
+2 1/2
+230
+20
+110 - 240 V C.A
+60
+US2:22GP32AA81
+US2:22GP32BA81
+US2:22GP32WA81
+US2:22GP32FA81
+US2:22GP320A81
+
+460
+30
+220 - 480 V C.A
+60
+US2:22GP32AC81
+US2:22GP32BC81
+US2:22GP32WC81
+US2:22GP32FC81
+US2:22GP320C81
+
+3
+230
+30
+110 - 240 V C.A
+90
+US2:22HP32AA81
+US2:22HP32BA81
+US2:22HP32WA81
+US2:22HP32FA81
+US2:22HP320A81
+
+460
+50
+220 - 480 V C.A
+90
+US2:22HP32AC81
+US2:22HP32BC81
+US2:22HP32WC81
+US2:22HP32FC81
+US2:22HP320C81
+
+3 1/2
+230
+40
+110 - 240 V C.A
+115
+US2:22IP32AA81
+US2:22IP32BA81
+US2:22IP32WA81
+US2:22IP32FA81
+US2:22IP320A81
+
+460
+75
+220 - 480 V C.A
+115
+US2:22IP32AC81
+US2:22IP32BC81
+US2:22IP32WC81
+US2:22IP32FC81
+US2:22IP320C81
+
+4
+230
+50
+110 - 240 V C.A
+135
+US2:22JG32AA81
+US2:22JG32BA81
+US2:22JG32WA81
+US2:22JG32FA81
+US2:22JG320A81
+
+460
+100
+220 - 480 V C.A
+135
+US2:22JG32AC81
+US2:22JG32BC81
+US2:22JG32WC81
+US2:22JG32FC81
+US2:22JG320C81
+
+*** Para otros voltajes de control por favor consulte la tabla "Tensiones de bobina".
+Accesorios y partes de repuesto en página 7/20.
+Elementos Térmicos clase 20 página 7/26.
+
+Tensiones de las bobinas para arrancadores NEMA
+Tensiones de las bobinas (Cambiar 12ª letra por la correspondiente)
+Tensión (60 Hz)
+Letra
+24
+J
+24 (DC)
+S
+120
+F
+125 (DC)
+V
+110-120 / 220-240
+A
+200-208
+D
+220-240
+G
+240-277
+L
+220-240 / 440-480
+C
+440-480
+H
+575-600
+E
+
+Nota:
+Bobina S 24 V DC No disponible para contactores / arrancadores tamaño 4.
+
+Catálogo de baja tensión, control y distribución
+7/15
+
+7

@@ -1,0 +1,112 @@
+SIRIUS ACT Botones pulsadores y lámparas indicadoras
+Actuadores e indicadores 22 mm, plástico con anillo metálico, mate
+
+Elementos actuadores y de señalización
+Selectores
+
+Datos para selección y pedidos
+
+Versión del elemento actuador
+Principio de operación
+Color
+SD
+Referencia
+d
+
+Selector
+Selector actuador largo negro
+Enclavamiento, 90° (10:3/1:30 en punto)
+Negro
+3
+3SU1032-2CF10-0AA0
+Rojo
+3
+3SU1032-2CF20-0AA0
+Blanco
+3
+3SU1032-2CF60-0AA0
+
+3SU1032-2CF60-0AA0
+
+Perilla rotatoria
+Enclave, 90° (10:30/1:30 en punto)
+Rojo
+3
+3SU1032-2AF20-0AA0
+Blanco
+►
+3SU1032-2AF60-0AA0
+
+6
+3SU1032-2AF20-0AA0
+
+Principio de operación
+Tipo de cerradura
+Posición de maniobra para remover la llave
+Número de llaves
+SD
+Referencia
+d
+
+Selectores con llave
+Enclave, 2x45°
+(10:30/12/1:30 en punto)
+O
+I
+II
+RONIS, SB30
+O
+2
+3
+3SU1030-4BL01-0AA0
+I+O+II
+2
+►
+3SU1030-4BL11-0AA0
+I
+2
+5
+3SU1030-4BL21-0AA0
+II
+2
+3
+3SU1030-4BL31-0AA0
+I+II
+2
+5
+3SU1030-4BL41-0AA0
+O+I
+2
+3
+3SU1030-4BL51-0AA0
+RONIS, 455
+O
+2
+5
+3SU1030-4CL01-0AA0
+I+O+II
+2
+5
+3SU1030-4CL11-0AA0
+3SU1030-4BM01-0AA0
+
+Ángulo de operación
+Principio de operación
+Posición de maniobra para remover la llave
+Color
+SD
+Referencia
+d
+Selector con llave ID
+Selector 4 posiciones
+45°
+Enclavamiento
+La llave puede ser removida en cualquiera de las 4 posiciones
+Negro
+►
+3SU1030-4WS10-0AA0
+
+3SU1030-4WS10-0AA0
+
+6/36
+Catálogo de baja tensión, control y distribución

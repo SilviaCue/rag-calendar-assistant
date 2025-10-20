@@ -1,0 +1,75 @@
+Contactores de fuerza tripolares para maniobra de motores
+
+Datos generales
+
+1
+
+Descripción
+
+La familia de los equipos de maniobra SIRIUS
+
+El sistema modular SIRIUS con sus componentes para conectar,
+arrancar, proteger, así como para vigilar instalaciones y motores,
+es sinónimo de una construcción rápida, flexible y compacta de
+armarios eléctricos.
+
+Contactores de fuerza y contactores de acoplamiento 3RT2
+Tamaño S00 con accesorios adosables
+
+Componentes
+
+IC01_00614a
+
+① Contactores tamaño S00
+
+② Bloque de contactos auxiliar de 2-polos, montaje lateral
+
+③ Bloque de contactos auxiliar de 1-polo, para fijación frontal, entrada de
+cable por arriba
+
+④ Bloque de contactos auxiliares 2-polos, para fijación al frente, entrada
+de cable por arriba
+
+⑤ Bloque de contactos auxiliares 4-polos, para fijación frontal
+
+⑥ Módulo de función 3RA28
+
+⑦ Módulo de función 3RA27 para arranque directo con protocolo AS-
+Interface
+
+⑧ Módulo de función 3RA27 para arranque directo con protocolo I-O Link
+
+⑨ Supresor de picos con/sin LED
+
+⑩ Terminal de alimentación trifásica
+
+⑪ Puente estrella, 3- polos, sin terminal de conexión
+
+⑫ Conector para enlace en paralelo, 3-polos, con terminal de conexión
+
+⑬ Adaptador para pin de soldadura
+
+⑭ Módulo de conexión (adaptador y conector) para contactores con
+conexión tornillo
+
+⑮ Conector de seguridad para el circuito principal para dos contactores
+
+Kit de ensamble 3RA2913-2AA1 lo compone:
+⑯ Módulo de cableado superior e inferior para conexión del circuito
+principal incluye interlock¹)
+
+⑰ Interlock mecánico²)
+
+⑱ Clips de conexión para dos contactores²)
+
+Para contactores
+Para contactores y contactores de acoplamiento
+
+1) 3RT201. Se requieren contactores con un contacto NC en la unidad base
+para interlock eléctrico. Se requiere un contacto NA para operación de
+contacto momentáneo.
+
+2) Las partes ⑰ y ⑱ solo pueden ser ordenadas juntas con el número de
+parte 3RA2912-2H.
+
+Catálogo de baja tensión, control y distribución 1/3

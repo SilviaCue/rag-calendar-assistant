@@ -1,0 +1,74 @@
+2
+
+Arrancadores suaves 3RW
+3RW40 Para aplicaciones estándar
+
+3RW40
+Datos para selección y pedidos
+
+3RW40 2.
+3RW40 3.
+3RW40 4.
+
+Temperatura ambiente 3RW 40 °C1)                               Temperatura ambiente 3RW 50 °C1)                               Tamaño    PE    Arranque normal
+Datos asignados de motores trifásicos                          Datos asignados de motores trifásicos                                           (Clase 10)
+Corriente        Potencia a tensión de empleo Ue                 Corriente        Potencia a tensión de empleo Ue
+de empleo Ie                     kW                            de empleo Ie                     hp                                                     Referencia
+A                230 V    400 V    500 V                        A                200 V    230 V    460 V    575 V
+
+Tensión asignada de empleo Ue 200... 480 V2)
+• Con bornes de tornillo o de resorte
+12,5             3        5,5      —                            11               3        3        7,5      —       S0        ▶    3RW4024-□BB□4
+25               5,5      11       —                            23               5        5        15       —       S0        ▶    3RW4026-□BB□4
+32               7,5      15       —                            29               7,5      7,5      20       —       S0        ▶    3RW4027-□BB□4
+38               11       18,5     —                            34               10       10       25       —       S0        ▶    3RW4028-□BB□4
+• Con bornes de tornillo o de resorte
+45               11       22       —                            42               10       15       30       —       S2        ▶    3RW4036-□BB□4
+63               18,5     30       —                            58               15       20       40       —       S2        ▶    3RW4037-□BB□4
+72               22       37       —                            62               20       20       40       —       S2        ▶    3RW4038-□BB□4
+• Con bornes de tornillo o de resorte
+80               22       45       —                            73               20       25       50       —       S3        ▶    3RW4046-□BB□4
+106              30       55       —                            98               30       30       75       —       S3        ▶    3RW4047-□BB□4
+
+Tensión asignada de empleo Ue 400... 600 V
+• Con bornes de tornillo o de resorte
+12,5             —        5,5      7,5                          11               —        —        7,5      10      S0        ▶    3RW4024-□BB□5
+25               —        11       15                           23               —        —        15       20      S0        ▶    3RW4026-□BB□5
+32               —        15       18,5                         29               —        —        20       25      S0        ▶    3RW4027-□BB□5
+38               —        18,5     22                           34               —        —        25       30      S0        ▶    3RW4028-□BB□5
+• Con bornes de tornillo o de resorte
+45               —        22       30                           42               —        —        30       40      S2        ▶    3RW4036-□BB□5
+63               —        30       37                           58               —        —        40       50      S2        ▶    3RW4037-□BB□5
+72               —        37       45                           62               —        —        40       60      S2        ▶    3RW4038-□BB□5
+• Con bornes de tornillo o de resorte
+80               —        45       55                           73               —        —        50       60      S3        ▶    3RW4046-□BB□5
+106              —        55       75                           98               —        —        75       75      S3        ▶    3RW4047-□BB□5
+
+Complemento de la referencia para el tipo de conexión
+• Con bornes de tornillo                                                                                                            1
+• Con bornes de resorte3)                                                                                                           2
+
+Complemento de la referencia para la tensión asignada de mando Us
+• 24 V CA/CD                                                                                                                      0
+• 110... 230 V CA/CD                                                                                                                1
+
+1) Montaje individual sin ventilador adicional. 2) Arrancadores suaves con bornes de tornillo: 3) Conexión principal: bornes de tornillo.
+                                             plazo de entrega ▶ (tipo preferente).
+
+Nota:
+Las potencias de motor indicadas son solo valores aproximados. El diseño del arrancador suave debería ser siempre
+superior a la corriente asignada de empleo necesaria del motor. Los 3RW40 están diseñados para arranques normales.
+Los datos para selección y pedidos se han determinado bajo las siguientes condiciones generales:
+• Tiempo de arranque máximo en s: 20
+• Corriente de arranque máxima en % de la corriente del motor Ie: 300
+
+                                     Para arrancadores suaves
+                                     Tipo                                     Tamaño                PE    Referencia
+
+Ventiladores (para aumentar la frecuencia de maniobra y para montar
+el aparato en otra posición diferente a la normal)
+                                     3RW40 2.                                 S0                    ▶     3RW4928-8VB00
+                                     3RW40 3.,
+                                     3RW40 4.                                 S2, S3                ▶     3RW4947-8VB00
+
+2/6 Catálogo de baja tensión, control y distribución

@@ -1,0 +1,207 @@
+Relés de vigilancia SIRIUS 3UG para montaje individual
+
+Vigilancia de corriente y factor de potencia:
+relés de vigilancia de corrientes de defecto
+
+Descripción
+El relés de vigilancia de corrientes de defecto 3UG46 24 se com-
+bina con el transformador de corriente sumador 3UL22 para la
+vigilancia de la instalación.
+
+Gama de aplicación
+Vigilancia de instalaciones en las que se pueden formar corrien-
+tes de defecto, p. ejem. a consecuencia de almacenamiento
+de polvo o humedad, cables y líneas porosas o corrientes de
+defecto capacitivas.
+
+Datos para selección y pedidos
+
+• Para vigilar corrientes de defecto IΔn 0,3 hasta 40 A
+• Para el transformador de corriente sumador 3UL22 con
+orificio de paso de 40 a 120 mm
+• Ajuste digital, display LCD con iluminación
+
+• Límite y umbral de alarma ajustables por separado
+• Señalización permanente de valor efectivo y estado de disparo
+• 1 conmutado para rebases por exceso del límite y
+umbral de aviso
+
+4
+
+Rango de
+indicación
+
+Rango de
+regulación
+
+Histéresis
+Límite fijo
+
+Valor de
+alarma
+
+Tiempo de retardo
+de arranque/disparo
+
+Tensión asignada
+de mando Us²)
+
+PE
+
+Bornes de
+tornillo
+
+TE*
+
+PE
+
+Bornes de
+resorte
+
+TE*
+
+Referencia
+
+Referencia
+
+A
+
+A
+
+A
+
+A
+
+s
+
+V
+
+10... 120 %
+de IΔn
+
+10... 100 %
+de IΔn
+
+LSB¹) hasta 50
+% de IΔn
+
+5 % de IΔn
+
+0,1... 20
+
+90... 690
+
+3UG4624-1CS20
+
+1 UD
+
+3UG4624-2CS20
+
+1 UD
+
+1) LSB: valor mínimo ajustable, sujeto al transformador, ≤ 1 % de IΔn.
+2) Límites absolutos.
+
+• Para monitorear el factor de potencia y la corriente activa Ires
+(p.f. x I).
+• Adecuado para corrientes monofásicas y trifásicas.
+• Ajustable digitalmente, con LCD iluminado.
+• Supervisión de rebase, rango por debajo ajustable.
+
+• Valor de umbral superior e inferior se puede ajustar por separado.
+• Visualización permanente del valor real y estado de disparo.
+• 1 contacto conmutable, cada uno para rango por debajo /
+sobre paso.
+
+Rango de medición
+
+Factor de
+potencia
+
+Corriente
+activa
+Ires
+
+Histéresis ajustable
+
+Factor de
+potencia
+
+Corriente
+activa
+Ires
+
+Con retraso
+al arranque
+ajustable
+onDel
+
+Tiempo de retardo
+de disparo ajustable
+I▲Del/I▼Del,
+φ▲Del/φ▼Del
+
+Alimentación de
+voltaje de control
+ajustable Us¹)
+50/60 Hz CA
+
+SD
+
+Bornes de
+tornillo
+
+SD
+
+Bornes de
+resorte
+
+Referencia
+
+Referencia
+
+P.f.
+
+A
+
+P.f.
+
+A
+
+s
+
+s
+
+V
+
+d
+
+d
+
+0.10 ... 0.99
+
+0.2 ... 10.0
+
+0.1
+
+0.1 ... 2.0
+
+0 ... 99
+
+0.1 ... 20.0
+
+90 ... 690
+
+2
+
+3UG4641-1CS20
+
+2
+
+3UG4641-2CS20
+
+1) Valores límite absolutos.
+
+4/22
+
+Catálogo de baja tensión, control y distribución

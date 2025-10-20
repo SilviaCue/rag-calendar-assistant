@@ -1,0 +1,50 @@
+Columnas de señalización SIRIUS 8WD4
+Columnas señalización 8WD42 con diámetro 50 mm
+Columnas señalización 8WD44 con diámetro 70 mm
+
+Datos para selección y pedidos
+
+Versión Tensión asignada Color PE Diámetro 50 mm TE* PE Diámetro 70 mm TE*
+V Referencia Referencia
+
+Elementos de conexión
+Elementos de conexión con tapa de cierre Negro
+bornes de tornillo
+Para montaje en tubos, en el suelo y en
+ángulo
+—
+• Para montaje en tubo 8WD42 08-0AA 1 UD 8WD44 08-0AA 1 UD
+• Elemento de conexión para montaje en 8WD42 08-0CD 8WD44 08-0AB 1 UD
+soporte y pared
+
+Tapa de cierre (repuesto) 8WD44 08-0XA 1 UD
+
+Versión Tensión Color SD Diámetro 50 mm SD Diámetro 70 mm
+asignada
+V d Referencia d Referencia
+
+Lámparas, zócalo BA 15d
+Lámparas incandescentes, 5 W 24 CA/CD Transparente 2 8WD4328-1XX 8WD4328-1XX
+115 CA 2 8WD4348-1XX 8WD4348-1XX
+230 CA 2 8WD4358-1XX 8WD4358-1XX
+
+LEDs
+24 CA/CD Rojo 2 8WD4428-6XB 8WD4428-6XB
+Verde 2 8WD4428-6XC 8WD4428-6XC
+Amarillo 2 8WD4428-6XD 8WD4428-6XD
+Transparente 2 8WD4428-6XE 8WD4428-6XE
+Azul 2 8WD4428-6XF 8WD4428-6XF
+115 CA Rojo 2 8WD4448-6XB 8WD4448-6XB
+Verde 2 8WD4448-6XC 8WD4448-6XC
+Amarillo 2 8WD4448-6XD 8WD4448-6XD
+Transparente 2 8WD4448-6XE 8WD4448-6XE
+Azul 2 8WD4448-6XF 8WD4448-6XF
+230 CA Rojo 2 8WD4458-6XB 8WD4458-6XB
+Verde 2 8WD4458-6XC 8WD4458-6XC
+Amarillo 2 8WD4458-6XD 8WD4458-6XD
+Transparente 2 8WD4458-6XE 8WD4458-6XE
+Azul 2 8WD4458-6XF 8WD4458-6XF
+
+6
+
+Catálogo de baja tensión, control y distribución 6/65

@@ -1,0 +1,247 @@
+Accesorios para contactores
+Para contactores y contactores auxiliares 3RT2, 3RH2
+
+1
+
+Bloques de contactos auxiliares
+
+3RH29 11-1HA..,
+3RH29 11-1GA..
+
+3RH29 11-2HA..,
+3RH29 11-2GA..
+
+Para contactores /
+contactores auxiliares
+
+Contactor con bloque de
+contactos auxiliares
+
+Nº caract.
+
+Contactos auxiliares
+
+Versión
+NA NC
+
+PE
+
+Bornes de
+tornillo
+
+Referencia
+
+PE
+
+Bornes de
+resorte
+
+Referencia
+
+Tipo
+
+Bloques de contactos auxiliares abrochables en el frontal según
+EN 50012 (cumpliendo también los requisitos de la norma EN 50005)
+Tamaño S00¹⁾
+Para montar contactores con 3, 4 y 5 contactos auxiliares
+
+3RT20 2.
+3RT23 2.
+3RT25 2.
+
+21
+
+1
+
+—
+
+.3
+.4
+
+3RH2911-1HA10
+
+3RH2911-2HA10
+
+22
+
+1
+
+1
+
+.1 .3
+.2 .4
+
+▶
+
+3RH2911-1HA11
+
+▶
+
+3RH2911-2HA11
+
+23
+
+1
+
+2
+
+.1 .1 .3
+.2 .2 .4
+
+▶
+
+3RH2911-1HA12
+
+▶
+
+3RH2911-2HA12
+
+31
+
+2
+
+—
+
+.3 .3
+.4 .4
+
+▶
+
+3RH2911-1HA20
+
+▶
+
+3RH2911-2HA20
+
+32
+
+2
+
+1
+
+.1 .3 .3
+.2 .4 .4
+
+3RH2911-1HA21
+
+3RH2911-2HA21
+
+41
+
+3
+
+—
+
+.3 .3 .3
+.4 .4 .4
+
+3RH2911-1HA30
+
+3RH2911-2HA30
+
+Bloques de contactos auxiliares para la fijación por abroche
+en el frontal según EN 50011
+Tamaño S00²⁾
+Para construir contactores auxiliares con 8 contactos
+
+3RH21 40,
+3RH24 40,
+número característico 40E
+
+80 E
+
+4
+
+—
+
+53 63 73 83
+54 64 74 84
+
+▶
+
+3RH2911-1GA40
+
+▶
+
+3RH2911-2GA40
+
+71 E
+
+3
+
+1
+
+53 61 73 83
+54 62 74 84
+
+▶
+
+3RH2911-1GA31
+
+▶
+
+3RH2911-2GA31
+
+62 E
+
+2
+
+2
+
+53 61 71 83
+54 62 72 84
+
+▶
+
+3RH2911-1GA22
+
+▶
+
+3RH2911-2GA22
+
+53 E
+
+1
+
+3
+
+53 61 71 81
+54 62 72 82
+
+▶
+
+3RH2911-1GA13
+
+▶
+
+3RH2911-2GA13
+
+44 E
+
+—
+
+4²⁾
+
+51 61 71 81
+52 62 72 82
+
+▶
+
+3RH2911-1GA04
+
+▶
+
+3RH2911-2GA04
+
+1) Los bloques de contactos auxiliares 3RH29 11-.HA.. pueden suministrarse también con
+terminal de cable en anillo. La 8ª posición de la referencia debe modificarse de "1" a "4",
+por ejemplo: 3RH29 11-1HA22 -> 3RH29 11-4HA22.
+
+2) Los bloques de contactos auxiliares 3RH29 11-.GA.. pueden
+suministrarse también con terminal de cable en anillo. La 8ª
+posición de la referencia debe modificarse de "1" a "4", por
+ejemplo: 3RH29 11-1GA22 -> 3RH29 11-4GA22.
+
+1/26
+
+Catálogo de baja tensión, control y distribución

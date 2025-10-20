@@ -1,0 +1,129 @@
+Accesorios para contactores
+Para contactores y contactores auxiliares 3RT2, 3RH2
+
+Limitadores de sobretensión
+
+1
+
+Para
+contactores
+
+Versión
+
+Tensión asignada de mando Us¹)
+Accionamiento CA
+V CA
+
+Accionamiento CD
+V CD
+
+PE
+
+Referencia²)
+
+Tipo
+
+Limitadores de sobretensión con LED (también para bornes de resorte)
+
+Tamaño S00
+
+3RT2. 1, 3RH2 .
+
+Para enchufar en el frontal de los contactores
+(sin y con bloque de contactos auxiliares)
+Varistores
+24 ... 48
+48 ... 127
+127 ... 240
+—
+
+12 ... 24
+24 ... 70
+70 ... 150
+150 ... 250
+
+► 3RT2916-1JJ00
+► 3RT2916-1JK00
+► 3RT2916-1JL00
+► 3RT2916-1JP00
+
+3RT29 16-1J 00
+
+3RT2. 1, 3RH2 .
+
+Diodos
+supresores de
+interferencias
+
+—
+—
+—
+
+24 ... 70
+50 ... 150
+150 ... 250
+
+► 3RT2916-1LM00
+► 3RT2916-1LN00
+► 3RT2916-1LP00
+
+Tamaño S0
+
+Para insertar en el frontal de los contactores
+(antes del montaje del bloque de contactos auxiliares)
+
+3RT2. 2
+
+Varistores
+
+24 ... 48
+48 ... 127
+127 ... 240
+
+12 ... 24
+24 ... 70
+70 ... 150
+
+► 3RT2926-1JJ00
+► 3RT2926-1JK00
+► 3RT2926-1JL00
+
+3RT2. 2
+
+Combinación de diodos
+
+—
+
+24
+
+► 3RT2926-1MR00
+
+3RT29 26-1M R00
+
+Tamaños S2 y S3
+
+Para enchufar en la parte frontal de los contactores
+(antes de instalar el bloque de contactos auxiliar)
+Varistores
+24 ... 48
+12 ... 24
+5
+3RT2936-1JJ00
+48 ... 127
+24 ... 70
+5
+3RT2936-1JK00
+127 ... 240
+70 ... 150
+► 3RT2936-1JL00
+
+3RT2936-1J 00
+
+1) Con accionamiento CA sirve para 50/60 Hz.
+Otras tensiones bajo consulta.
+
+2) Para los paquetes con 10 o 5 unidades hay que añadir una "-Z"
+y la clave X90 a la referencia.
+
+Catálogo de baja tensión, control y distribución
+1/31

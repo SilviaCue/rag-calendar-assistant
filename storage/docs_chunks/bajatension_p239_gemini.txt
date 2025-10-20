@@ -1,0 +1,77 @@
+Botonería y Señalización
+NEMA Clase 51, Ø30.5 mm
+
+Selección
+
+Datos para selección y pedidos
+
+Botoneras completas con accionamientos integrados NEMA 7&9
+Posiciones Modelo Contactos Descripción
+1 US2:51C101H 1NA + 1NC A= Botón negro rasante, placa "START"
+1 US2:51C103H 1NA + 1NC A= Botón rojo saliente, placa "STOP"
+1 US2:51C104H 1NA + 1NC A= Botón hongo rojo 1 5/8", placa "EMERGENCY STOP"
+2 US2:51C201H 1NA + 1NC B= Botón negro rasante, placa "START"
+1NA + 1NC A= Botón rojo saliente, placa "STOP"
+2 US2:51C202H 1NA + 1NC B= Botón negro rasante, placa "START"
+1NA + 1NC A= Botón hongo rojo 1 5/8", placa "EMERGENCY STOP"
+3 US2:51C307H 120V, 1NA + 1NC C= Lámpara indicadora incandescente verde
+1NA + 1NC B= Botón negro rasante, placa "START"
+1NA + 1NC A= Botón rojo saliente, placa "STOP"
+3 US2:51C301H 1NA + 1NC C= Lámpara indicadora incandescente verde
+1NA + 1NC B= Botón negro rasante, placa "REVERSE"
+1NA + 1NC A= Botón saliente rojo, placa "STOP"
+
+Botoneras vacías NEMA 7&9
+Posiciones Modelo
+1 US2:51EA1H
+2 US2:51EA2H
+3 US2:51EA3H
+
+Nota:
+Todas la botoneras tienen como estándar 1 ori-
+ficio para tubería conduit en la parte superior.
+Para 2 orificios superior e inferior por favor
+agregar al final de número de parte "X311".
+
+7
+
+Accesorios Botonería NEMA 7&9
+
+Accesorios para botones y botoneras NEMA 7&9
+Modelo Descripción
+US2:51AAGM Guarda contra activación accidental botón hongo 1 5/8" - 1 3/4"
+US2:51AADB Válvula de acero inoxidable para botonera. Drenado - Respiración.
+US2:51AARBA Cople para botonera 3/4" - 1/2"
+US2:51AARCA Cople para botonera 1" - 1/2"
+
+Nota:
+Toda la botonería, lámparas y botoneras
+armadas mostrados cuentan con buje corto.
+Para componentes con buje largo por favor
+agregue "LB" al final del número de parte.
+
+Repuesto Incandescente
+Voltaje / Tipo de elemento Modelo
+6 V CA Lámpara Tipo 755 US2:52AABN
+12 V CA Lámpara Tipo 756 US2:52AACN
+24 V CA Lámpara Tipo 757 US2:52AADN
+120 V CA Lámpara Tipo 3S6/5 Pleno voltaje US2:52AAENC
+
+Contactos Auxiliares para Botones y Lámparas NEMA Clase 51
+Modelo Contactos
+US2:52BAJ 1 NC
+US2:52BAK 1 NA
+US2:52BJK 1 NA + 1 NC
+US2:52BAH 1 NA early make
+US2:52BAE 1 NC Late brake
+US2:52BAU 1 NC extra-late brake
+
+Repuesto tipo LED
+Color 6 V CA/CD 24 V CA/CD 120 V CA/CD
+US2:52AEB2 US2:52AED2 US2:52AEE2
+US2:52AEB3 US2:52AED3 US2:52AEE3
+US2:52AEB4 US2:52AED4 US2:52AEE4
+US2:52AEB5 US2:52AED5 US2:52AEE5
+US2:52AEBB US2:52AEDB US2:52AEEB
+
+7/48 Catálogo de baja tensión, control y distribución

@@ -1,0 +1,16 @@
+Interruptores de límite 5
+
+Detectores 5/3
+Introducción 5/3
+
+Interruptores de límite 3SE5, 3SE2 5/4
+Datos generales 5/4
+3SE5, cajas de plástico 5/7
+Ancho de caja 31 mm según EN 50047
+3SE5, cajas de plástico 5/9
+Ancho de caja 40 mm según EN 50041
+Accesorios y refaccionamiento 5/10
+
+Para mayor información:
+https://w3.siemens.com/mcms/industrial-controls/en/
+detecting-devices/Pages/default.aspx

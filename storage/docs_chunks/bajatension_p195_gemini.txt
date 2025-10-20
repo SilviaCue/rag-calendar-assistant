@@ -1,0 +1,113 @@
+Contactores Magnéticos
+Clase 40
+
+Datos generales
+Datos para selección y pedidos
+
+Contactores Magnéticos de fuerza Clase 40, 3 Fases, 3 Polos
+
+Tamaño NEMA | Voltaje de Servicio del Motor | Potencia máxima [Hp] | Voltaje de Bobina | Corriente máxima [A] | Tipo abierto | En Gabinete NEMA 1 | En Gabinete NEMA 4 / 4X Acero Inoxidable W= para Acero Inoxidable 304 E por W= Acero pintado | En Gabinete NEMA 4 / 4X Fibra de Vidrio | En Gabinete NEMA 7 & 9 NEMA 3 & 4 | En Gabinete NEMA 12 NEMA 3 / 3R
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+00 | 230 | 1 1/2 | 110 - 240 V CA | 9 | US2:40BP32AA | US2:40BP32BA | Use el tamaño 0 | Use el tamaño 0 | Use el tamaño 0 | Use el tamaño 0
+ | 460 | 2 | 220 - 480 V CA | | US2:40BP32AC | US2:40BP32BC | Use el tamaño 0 | Use el tamaño 0 | Use el tamaño 0 | Use el tamaño 0
+0 | 230 | 3 | 110 - 240 V CA | 18 | US2:40CP32AA | US2:40CP32BA | US2:40CP32WA | US2:40CP32FA | US2:40CP32HA | US2:40CP320A
+ | 460 | 5 | 220 - 480 V CA | | US2:40CP32AC | US2:40CP32BC | US2:40CP32WC | US2:40CP32FC | US2:40CP32HC | US2:40CP320C
+1 | 230 | 7 1/2 | 110 - 240 V CA | 27 | US2:40DP32AA | US2:40DP32BA | US2:40DP32WA | US2:40DP32FA | US2:40DP32HA | US2:40DP320A
+ | 460 | 10 | 220 - 480 V CA | | US2:40DP32AC | US2:40DP32BC | US2:40DP32WC | US2:40DP32FC | US2:40DP32HC | US2:40DP320C
+1 3/4 | 230 | 10 | 110 - 240 V CA | 40 | US2:40EP32AA | US2:40EP32BA | US2:40EP32WA | US2:40EP32FA | US2:40EP32HA | US2:40EP320A
+ | 460 | 15 | 220 - 480 V CA | | US2:40EP32AC | US2:40EP32BC | US2:40EP32WC | US2:40EP32FC | US2:40EP32HC | US2:40EP320C
+2 | 230 | 15 | 110 - 240 V CA | 45 | US2:40FP32AA | US2:40FP32BA | US2:40FP32WA | US2:40FP32FA | US2:40FP32HA | US2:40FP320A
+ | 460 | 25 | 220 - 480 V CA | | US2:40FP32AC | US2:40FP32BC | US2:40FP32WC | US2:40FP32FC | US2:40FP32HC | US2:40FP320C
+2 1/2 | 230 | 20 | 110 - 240 V CA | 60 | US2:40GP32AA | US2:40GP32BA | US2:40GP32WA | US2:40GP32FA | US2:40GP32HA | US2:40GP320A
+ | 460 | 30 | 220 - 480 V CA | | US2:40GP32AC | US2:40GP32BC | US2:40GP32WC | US2:40GP32FC | US2:40GP32HC | US2:40GP320C
+3 | 230 | 30 | 110 - 240 V CA | 90 | US2:40HP32AA | US2:40HP32BA | US2:40HP32WA | US2:40HP32FA | US2:40HP32HA | US2:40HP320A
+ | 460 | 50 | 220 - 480 V CA | | US2:40HP32AC | US2:40HP32BC | US2:40HP32WC | US2:40HP32FC | US2:40HP32HC | US2:40HP320C
+3 1/2 | 230 | 40 | 110 - 240 V CA | 115 | US2:40IP32AA | US2:40IP32BA | US2:40IP32WA | US2:40IP32FA | US2:40IP32HA | US2:40IP320A
+ | 460 | 75 | 220 - 480 V CA | | US2:40IP32AC | US2:40IP32BC | US2:40IP32WC | US2:40IP32FC | US2:40IP32HC | US2:40IP320C
+4 | 230 | 50 | 110 - 240 V CA | 135 | US2:40JG32AA | US2:40JG32BA | US2:40JG32WA | US2:40JG32FA | US2:40JG32HA | US2:40JG320A
+ | 460 | 100 | 220 - 480 V CA | | US2:40JG32AC | US2:40JG32BC | US2:40JG32WC | US2:40JG32FC | US2:40JG32HC | US2:40JG320C
+5 | 230 | 100 | 240 V CA | 270 | US2:40LP32AG | US2:40LP32BG | US2:40LP32EG | — | US2:40LP32HG | US2:40LP320G
+ | 460 | 200 | 480 V CA | | US2:40LP32AH | US2:40LP32BH | US2:40LP32EH | — | US2:40LP32HH | US2:40LP320H
+6 | 230 | 200 | 240 V CA | 540 | US2:40MP32AG | US2:40MP32BG | US2:40MP32EG | — | — | US2:40MP320G
+ | 460 | 400 | 480 V CA | | US2:40MP32AH | US2:40MP32BH | US2:40MP32EH | — | — | US2:40MP320H
+7 | 230 | 300 | 240 V CA | 810 | US2:40NH32AG | US2:40NH32BG | US2:40NH32EG | — | — | US2:40NH320G
+ | 460 | 600 | 480 V CA | | US2:40NH32AH | US2:40NH32BH | US2:40NH32EH | — | — | US2:40NH320H
+8 | 230 | 450 | 240 V CA | 1215 | US2:40PH32AG | US2:40PH32BG | US2:40PH32EG | — | — | US2:40PH320G
+ | 460 | 900 | 480 V CA | | US2:40PH32AH | US2:40PH32BH | US2:40PH32EH | — | — | US2:40PH320H
+
+*** Para otros voltajes de control por favor consulte la tabla "Tensiones de bobina"
+Accesorios y partes de repuesto en página 7/20
+
+Contactores en vacío
+
+Corriente / Tamaño NEMA
+Tamaño Nema 4
+135 A
+Tamaño Nema 5
+270 A
+Tamaño Nema 6
+540 A
+
+Tensión nominal de la bobina 60 Hz
+24 V AC
+110-120 V AC
+220-240 V AC
+440-480 V AC
+24 V AC
+110-120 V AC
+220-240 V AC
+440-480 V AC
+24 V AC
+110-120 V AC
+220-240 V AC
+440-480 V AC
+
+Referencia
+40JV32AJ
+40JV32AF
+40JV32AG
+40JV32AH
+40LV32AJ
+40LV32AF
+40LV32AG
+40LV32AH
+40MV32AJ
+40MV32AF
+40MV32AG
+40MV32AH
+
+Tensiones de las bobinas para contactor NEMA
+(Cambiar la última letra por la bobina correspondiente)
+
+Tensión
+24
+24 (DC)
+120
+125 (DC)
+110-120 / 220-240
+200-208
+220-240
+240-277
+220-240 / 440-480
+440-480
+575-600
+
+Letra
+J
+S
+F
+V
+A
+D
+G
+L
+C
+H
+E
+
+Nota:
+Bobina S 24 V DC No disponible para contactores / arrancadores tamaño
+4 en adelante
+
+7/4
+Catálogo de baja tensión, control y distribución

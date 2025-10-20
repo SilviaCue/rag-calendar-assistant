@@ -1,0 +1,76 @@
+Relés de acoplamiento
+
+Relés de acoplamiento con relés enchufables LZS/LZX
+
+Descripción
+Los elementos acopladores de los relés enchufables se pueden pedir completos o por módulos individuales para el ensamblaje por el cliente.
+
+Normas
+NMX-J-515-ANCE Equipos de control y distribución-requisitos generales de seguridad-Especificaciones y métodos de prueba
+NOM-003-SCFI Productos eléctricos-Especificaciones de seguridad
+
+Montaje
+Los relés se enchufan en los zócalos y éstos se abrochan a continuación en un perfil TH 35 conforme a EN 60715 (Rail Enclosures).
+Para la serie MT se ofrece un estribo de sujeción que sirve para asegurar mejor los relés en el zócalo para fijación (para aplica- ciones con intensa solicitación mecánica). Para las series RT y PT existe además un estribo de retención/eyección combinado para desmontar los relés cuando están instalados sin separación.
+La posición de montaje puede ser cualquiera.
+
+Función
+Los relés de interface estáticos tienen un reducido consumo de fuerza y por ello son especialmente adecuados para sistemas electrónicos. En las versiones con LED, éste indica el estado de conmutación. Los relés de acoplamiento enchufables LZS:PT/ MT tienen una tecla de prueba. Con ella se pueden maniobrar y bloquear los relés de acoplamiento enchufables sin mando eléctrico. Esto se señaliza por medio de una palanca levantada de color petróleo.
+
+Limitación de sobretensión
+Los relés 24 V CD LZX:RT y LZX:PT con LED se suministran con limitación de sobretensión integrada (diodo de libre circulación paralelo a A1/A2) y todos los demás sin ella. El positivo de ali- mentación se conecta a la conexión A1 de la bobina.
+
+Separación lógica
+Las conexiones de los contactos y las conexiones de la bobina están dispuestas en diferentes niveles, p. ejem. arriba para los contactos y abajo para la bobina. Esta separación lógica no cons- tituye necesariamente la separación eléctrica segura.
+
+Seccionamiento seguro
+En caso de separación o aislamiento seguro se evita con suficiente seguridad el paso de la tensión de un circuito a otro (los requerimientos y las comprobaciones están descritos en la norma EN 60947-1, Anexo N).
+
+Mando con salida electrónica
+¡Al configurar salidas electrónicas (p. ejem. detector de proxi- midad) con protección contra sobrecargas y cortocircuitos deben tenerse en cuenta las corrientes breves de carga de los condensadores! Para ello se puede usar, por ejemplo, un relé de acoplamiento enchufable LZS apropiado.
+
+1
+
+Datos para selección y pedidos
+
+Versión Tensión asignada de mando Contactos, número Anchura PE Referencia
+Us con CA 50/60 Hz de conmutados
+V mm
+
+Equipos completos, 11 y 14 polos, serie PT
+Equipos completos con zócalo
+para la fijación por abroche en perfil TH 35;
+compuestos por:
+• Relés de acoplamiento con relés enchufable
+• Zócalo para fijación con bornes de tornillo
+• Módulo LED (versión de 24 V CD: módulo LED con diodo de libre circulación)
+• Estribo de retención/eyección
+• Plaquita de inscripción
+
+LZS:PT3A5L24 3 Conmutados
+24 CD 3 28 LZS:PT3A5L24
+24 CA LZS:PT3A5R24
+115 CA LZS:PT3A5S15
+230 CA LZS:PT3A5T30
+
+4 Conmutados
+24 CD 4 28 LZS:PT5A5L24
+24 CA LZS:PT5A5R24
+115 CA LZS:PT5A5S15
+230 CA LZS:PT5A5T30
+
+Equipos completos con zócalo con separación lógica
+para la fijación por abroche en perfil TH 35
+compuestos por:
+• Relés de acoplamiento con relés enchufable
+• Zócalo para fijación con separación lógica y bornes de tornillo
+• Módulo LED (versión de 24 V CD: módulo LED con diodo de libre circulación)
+• Estribo de retención/eyección
+• Plaquita de inscripción
+4 Conmutados
+24 CD 4 28 LZS:PT5B5L24
+24 CA LZS:PT5B5R24
+115 CA LZS:PT5B5S15
+230 CA LZS:PT5B5T30
+
+Catálogo de baja tensión, control y distribución 1/35

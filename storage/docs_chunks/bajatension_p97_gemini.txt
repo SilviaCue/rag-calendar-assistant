@@ -1,0 +1,41 @@
+Equipos de gestión y mando de motores SIMOCODE 3UF7
+
+Datos generales
+
+4
+
+SIMOCODE pro S
+Base
+Módulo de medición de corriente
+Unidad base
+PROFIBUS
+
+Módulos de Expansión
+Panel de operador
+Módulo multifunción
+
+Funciones
+
+SIMOCODE pro V
+Módulo de medición de Voltaje/Corriente
+Unidad base
+PROFINET
+PROFIsafe
+PROFIBUS
+PROFIsafe
+Modbus RTU
+EtherNet/IP
+
+Panel de operador
+Módulo de falla a tierra
+Módulo de temperatura
+Módulo digitale
+Seguridad
+Módulo analógico
+
+Funciones
+
+SIMOCODE pro une todas las funciones necesarias –incluyendo las funciones de seguridad– vía PROFIBUS/PROFIsafe para la derivación de motor.
+
+4/6
+Catálogo de baja tensión, control y distribución

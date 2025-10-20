@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.env
+venv/
+*.bin
+*.pt
+*.log
+*.faiss
+app/config/secret_keys.json
+app/secret_keys.json
+secret_keys.json
+.ipynb_checkpoints/
+

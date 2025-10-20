@@ -1,0 +1,37 @@
+SIRIUS ACT Botones pulsadores y lámparas indicadoras
+Botoneras
+
+Datos para selección y pedidos
+Módulos para botoneras
+
+Voltaje operacional   Tipo de esclavo   Número de entradas digitales   Número de entradas digitales   SD d   Terminal resorte A presión
+                                      Estándar   Relacionado con Safety                                      Referencia
+
+Módulos de Interface, montaje en base
+30 V                  4 DI/3 DQ AB      4          0                      3                          5      3SU1400-2EJ10-6AA0
+                      4 DI/4DQ          4          0                      4                                 3SU1400-2EK10-6AA0
+                      2 F-DI            0          2                      0                          5      3SU1400-2EA10-6AA0
+                      2 F-DI + 1LED     0          2                      1                          5      3SU1401-2EE20-6AA0
+                                                                        Para controlar
+                                                                        los LED's
+3SU1400-2EJ10-6AA0
+
+Módulo electrónico para IO Link, montaje en base
+24 V                  Programación libre   0-8     0                      0-8                        5      3SU1400-2HL10-6AA0
+                      (predeterminado 6
+                      DI / 2 DQ)
+
+3SU1400-2HL10-6AA0
+
+6
+
+Color           SD d   Terminal tornillo
+                       Referencia
+Soporte de terminales
+Negro           3      3SU1400-2DA10-1AA0
+Azul            5      3SU1400-2DA50-1AA0
+Verde/Amarillo  3      3SU1400-2DA43-1AA0
+
+3SU1400-2DA10-1AA0
+
+Catálogo de baja tensión, control y distribución 6/57

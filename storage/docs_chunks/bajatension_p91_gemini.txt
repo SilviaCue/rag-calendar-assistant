@@ -1,0 +1,99 @@
+3
+
+Relés de sobrecarga
+Relés de sobre carga electrónico SIRIUS 3RB3
+
+Para aplicaciones estándar 3RB30, 3RB31
+
+Datos para selección y pedidos
+
+Relés de sobre carga electrónicos 3RB30, CLASE 10 E
+
+3RB3036-1.B0
+3RB3036-1.W1
+3RB3046-1.B0
+3RB3046-1.W1
+
+Tamaño contactor
+Potencia nominal para motores trifásicos, valor nominal¹⁾
+kW
+
+Valor de corriente ajustable con disparo retrasado de tiempo inverso
+A
+
+Protección contra corto circuito con fusible, tipo de coordinación "2" clase de operación gG²⁾
+A
+
+PE
+Bornes de tornillo
+Referencia
+
+PE
+Bornes de resorte
+Referencia
+
+Tamaño S2
+S2
+Equipos con terminales tipo tornillo (lado de corriente principal) y montaje en contactor3)
+7.5 ... 22
+12.5 ... 50
+250
+► 3RB3036-1UB0
+► 3RB3036-1UD0
+11 ... 37
+20 ... 80
+250
+► 3RB3036-1WB0
+► 3RB3036-1WD0
+
+Equipos con transformador directo para instalación independiente
+7.5 ... 22
+12.5 ... 50
+250
+► 3RB3036-1UW1
+► 3RB3036-1UX1
+11 ... 37
+20 ... 80
+250
+► 3RB3036-1WW1
+► 3RB3036-1WX1
+
+Tamaño S3
+S3
+Equipos con terminales tipo tornillo (lado de corriente principal) y montaje en contactor3)
+7.5 ... 22
+12.5 ... 50
+200
+1
+3RB3046-1UB0
+2
+3RB3046-1UD0
+18.5 ... 55
+32 ... 115
+315
+1
+3RB3046-1XB0
+2
+3RB3046-1XD0
+
+Equipos con transformador directo para instalación independiente
+7.5 ... 22
+12.5 ... 50
+200
+1
+3RB3046-1UW1
+2
+3RB3046-1UX1
+18.5 ... 55
+32 ... 115
+315
+1
+3RB3046-1XW1
+2
+3RB3046-1XX1
+
+1) Protección máxima por fusible solo para relés de sobre carga, tipo de coordinación "2".
+2) Con los soportes de terminal apropiados estos relevadores de sobre carga pueden instalarse de forma independiente.
+
+3/24
+Catálogo de baja tensión, control y distribución

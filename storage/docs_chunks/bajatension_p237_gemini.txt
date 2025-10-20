@@ -1,0 +1,150 @@
+Botonería y Señalización
+NEMA Clase 51, Ø30.5 mm
+
+Datos generales
+
+Descripción
+
+START
+STOP
+
+La botonería y lámparas piloto Nema Clase 51, se utilizan en
+ambientes peligrosos en los que puede existir algún tipo de
+condición de incendio o explosión.
+
+Aplicaciones
+
+Apropiadamente instalados en gabinetes tipo 7 & 9, estos com-
+ponentes cumplen con los requerimientos de la "National Elec-
+trical Code's" para la Clase I, División 1 & 2, Grupo C y D (gases
+peligrosos), Clase II, División 1, Grupos E, F y G (polvos peligro-
+sos) y la Clase III, fibras peligrosas. Los dispositivos piloto de la
+Clase 51 deben ser utilizados en lugares donde esté presente
+la existencia de gases inflamables, vapores o polvos finos en la
+atmósfera los cuales puedan causar una explosión o fuego. Las
+unidades de bujes cortos son utilizadas en los gabinetes están-
+dares tipo 7 & 9, las unidades de bujes largos son utilizadas en
+gabinetes que utilicen adicionalmente paneles frontales y que
+sean mayores a 2 1/8 pulgadas de espesor. La Clase 51 también
+empatan con aplicaciones de tipo 4.
+
+Robustez
+
+Las unidades de control para locaciones peligrosas son hechas
+de una sola pieza de fundición de una aleación de cobre resis-
+tente a la corrosión y de aluminio con resortes de acero inoxi-
+dable y ejes de acero inoxidable 316, para proveer un mayor
+tiempo de vida. Los sellos ("O" rings) aseguran un tiempo mayor
+
+de vida debido al buen sellado que proporcionan. Los bloques de
+contacto con cortes de contacto bifurcados proporcionan mayor
+fiabilidad.
+
+Flexibilidad
+
+Las unidades de control montadas en bujes de ¾ - 14 NPSM,
+cumplen estándares industriales. Ambos bujes, el corto para
+montaje en gabinete y el largo para montaje en paneles, están
+disponibles. Los bulbos para las lámparas piloto son removibles
+por la parte frontal para facilitar el mantenimiento. Existen mu-
+chas partes comunes entre los dispositivos piloto de la Clase 51
+y la Clase 52, lo que incrementa su disposición en servicio.
+
+Rangos Eléctricos:
+
+NEMA AC 50/60 Hz
+NEMA A600 10 Amperes continuos
+
+Aplicaciones Típicas:
+
+Clase I:
+
+* Refinerías, almacenes de gasolina y despachadores.
+* Industrias donde se trabaje con líquidos inflamables.
+* Industria Petroquímica, Industria Química.
+* Hangares de servicio de combustible para aviones.
+* Plantas con operaciones que implican almacenar o maniobrar
+gas natural o gas LP.
+
+Clase II:
+
+* Plantas que almacenan o manufacturan magnesio o aluminio
+en polvo.
+* Plantas con procesos químicos o metalúrgicos.
+* Plantas productoras de plástico, medicina, fuegos artificiales.
+* Plantas de azúcar y cocoa.
+
+Clase III:
+
+* Industrias textiles, hiladoras de algodón, molinos de semilla
+de algodón.
+* Cualquier planta que pulverice o corte madera y genere
+aserrín.
+
+Características
+
+* Listados UL y CSA para clases I, Grupos C & D y clase II,
+Grupos E, F &G.
+* Bujes largos y cortos.
+* Montaje en bujes roscados ¾ - 14 NPSM.
+* Sello con Tuerca.
+
+* Apariencia similar a dispositivos clase 52.
+* Contactos bifurcados con doble corte, rangos AC NEMA A600,
+DC NEMA P600.
+* Terminales anguladas y abrazaderas de levantamiento
+automático.
+
+Molded
+Acrylic
+Actuator
+
+Octagonal
+Lock Nut
+
+Sealing Lock Nut
+
+3/4-Inch
+NPSM Thread
+
+Contact Blocks
+Rated A600
+
+"O" Ring
+
+Stainless
+Steel Spring
+
+Additional Lock Nut
+Provided on Long
+Bushing Units
+
+Copper-Free Aluminum
+Alloy Construction
+
+316 Stainless
+Steel Shaft
+
+Angled
+Terminals
+
+2 1/4
+
+2 1/4
+
+3/4-14 NPSM-ZA
+
+Right Side
+Top
+
+Left Side
+
+Selector
+Lever
+Front
+
+Color
+Insert
+
+7/46
+Catálogo de baja tensión, control y distribución

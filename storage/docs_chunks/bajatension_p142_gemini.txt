@@ -1,0 +1,47 @@
+SIRIUS ACT Botones pulsadores y lámparas indicadoras
+Actuadores e indicadores 22 mm, redondo, plástico negro / Unidades completas
+Potenciómetros / Botones pulsadores con prolongación extendida
+
+Datos para selección y pedidos
+
+Versión del elemento actuador  Principio de operación  Resistencia ajustable  SD  Terminal tornillo  Referencia
+                                                      kΩ                       d
+Potenciómetros
+Perilla rotatoria             Sin escalones           1                           ► 3SU1200-2PQ10-1AA0
+                                                      2.2                      5   ► 3SU1200-2PW10-1AA0
+                                                      4.7                         ► 3SU1200-2PR10-1AA0
+                                                      10                          ► 3SU1200-2PS10-1AA0
+                                                      47                          ► 3SU1200-2PT10-1AA0
+                                                      100                         ► 3SU1200-2PU10-1AA0
+                                                      470                         ► 3SU1200-2PV10-1AA0
+3SU1200-2PQ10-1AA0
+
+También se cuenta con plaquitas para potenciómetros
+
+Versión                   Color      SD    Referencia
+                                     d
+Botón pulsador con prolongación extendida
+Para relevadores, se puede combinar con embolo prolongador, no se requiere
+bloque de contactos o módulo LED.
+Botones pulsadores rasante  Rojo       5     3SU1200-0EB20-0AA0
+                            Verde      5     3SU1200-0EB40-0AA0
+
+3SU1200-0EB20-0AA0
+
+Botones pulsadores salientes Negro      5     3SU1200-0FB10-0AA0
+                           Rojo       5     3SU1200-0FB20-0AA0
+
+3SU1200-0FB10-0AA0
+
+Versión                                                                         Material  Color  SD    Referencia
+                                                                                               d
+Accesorios
+Émbolo prolongador                                                              Plástico  Gris   ►     3SU1900-0KG10-0AA0
+Para compensación de la distancia entre el botón pulsador y
+el botón de desenclavamiento de un relé de sobre carga.
+
+3SU1900-0KG10-0AA0
+
+6
+
+Catálogo de baja tensión, control y distribución 6/19

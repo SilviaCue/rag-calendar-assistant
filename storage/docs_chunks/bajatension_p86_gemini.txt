@@ -1,0 +1,285 @@
+Relés de sobrecarga SIRIUS 3RU2
+Relés bimétalicos de sobrecarga SIRIUS 3RU2
+3RU2 hasta 100 A para aplicaciones estándar
+
+Datos para selección y pedidos
+Relés térmicos de sobrecarga 3RU21 para montaje en contactor¹⁾ y montaje individual²⁾, Clase 10
+Equipamiento y características técnicas:
+• Montaje en contactor: bornes de tornillo, de resorte o terminal de cable en anillo³⁾, montaje individual: bornes de tornillo o de resorte.
+• Protección contra sobrecargas y corte de fase.
+• Contactos auxiliares 1 NA + 1 NC.
+• Rearme manual y automático.
+• Indicador de posición de maniobra.
+• Función de TEST.
+• Tecla STOP.
+• Tapa precintable (accesorio opcional).
+• Tapas para bornes para aparatos con montaje en contactor y terminal de cable en anillo (accesorios opcionales, ver catálogo IC 10 o Industry Mall).
+
+3
+
+3RU21 16-4AB0
+3RU21 16-4AC0
+3RU21 26-4FB1
+3RU21 26-4AF1
+
+Tamaño contactor⁴⁾
+Potencia de empleo para motor trifásico, valor asignado⁵⁾
+Valor de ajuste del disparador de sobrecarga en función de la intensidad
+Protección contra cortocircuitos con fusible, tipo de coordinación "2", clase de servicio gG⁶⁾
+PE⁷⁾
+Bornes de tornillo
+Referencia
+PE⁷⁾
+Bornes de resorte
+Referencia
+
+kW
+A
+A
+
+Tamaño S00
+S00
+0,04
+0,11... 0,16
+0,5
+► ⁷⁾
+3RU2116-0AB☐
+3RU2116-0AC☐
+0,06
+0,14... 0,2
+1
+► ⁷⁾
+3RU2116-0BB☐
+3RU2116-0BC☐
+0,06
+0,18... 0,25
+1
+► ⁷⁾
+3RU2116-0CB☐
+3RU2116-0CC☐
+0,09
+0,22... 0,32
+1,6
+► ⁷⁾
+3RU2116-0DB☐
+3RU2116-0DC☐
+0,09
+0,28... 0,4
+2
+► ⁷⁾
+3RU2116-0EB☐
+3RU2116-0EC☐
+0,12
+0,35... 0,5
+2
+► ⁷⁾
+3RU2116-0FB☐
+3RU2116-0FC☐
+0,18
+0,45... 0,63
+2
+► ⁷⁾
+3RU2116-0GB☐
+3RU2116-0GC☐
+0,18
+0,55... 0,8
+4
+► ⁷⁾
+3RU2116-0HB☐
+3RU2116-0HC☐
+0,25
+0,7... 1
+4
+► ⁷⁾
+3RU2116-0JB☐
+3RU2116-0JC☐
+0,37
+0,9... 1,25
+4
+► ⁷⁾
+3RU2116-0KB☐
+3RU2116-0KC☐
+0,55
+1,1... 1,6
+6
+► ⁷⁾
+3RU2116-1AB☐
+3RU2116-1AC☐
+0,75
+1,4... 2
+6
+► ⁷⁾
+3RU2116-1BB☐
+3RU2116-1BC☐
+0,75
+1,8... 2,5
+10
+► ⁷⁾
+3RU2116-1CB☐
+3RU2116-1CC☐
+1,1
+2,2... 3,2
+10
+► ⁷⁾
+3RU2116-1DB☐
+3RU2116-1DC☐
+1,5
+2,8... 4
+16
+► ⁷⁾
+3RU2116-1EB☐
+3RU2116-1EC☐
+1,5
+3,5... 5
+20
+► ⁷⁾
+3RU2116-1FB☐
+3RU2116-1FC☐
+2,2
+4,5... 6,3
+20
+► ⁷⁾
+3RU2116-1GB☐
+3RU2116-1GC☐
+3
+5,5... 8
+25
+► ⁷⁾
+3RU2116-1HB☐
+3RU2116-1HC☐
+4
+7... 10
+35
+►
+3RU2116-1JB☐
+3RU2116-1JC☐
+5,5
+9... 12,5
+35
+►
+3RU2116-1KB☐
+3RU2116-1KC☐
+7,5
+11... 16
+40
+►
+3RU2116-4AB☐
+3RU2116-4AC☐
+
+Tamaño S0
+S0
+0,75
+1,8... 2,5
+10
+►
+3RU2126-1CB0
+3RU2126-1CC0
+1,1
+2,2... 3,2
+10
+►
+3RU2126-1DB0
+3RU2126-1DC0
+1,5
+2,8... 4
+16
+►
+3RU2126-1EB0
+3RU2126-1EC0
+1,5
+3,5... 5
+20
+►
+3RU2126-1FB0
+3RU2126-1FC0
+2,2
+4,5... 6,3
+20
+►
+3RU2126-1GB0
+3RU2126-1GC0
+3
+5,5... 8
+25
+►
+3RU2126-1HB0
+3RU2126-1HC0
+4
+7... 10
+35
+►
+3RU2126-1JB0
+3RU2126-1JC0
+5,5
+9... 12,5
+35
+►
+3RU2126-1KB0
+3RU2126-1KC0
+7,5
+11... 16
+40
+►
+3RU2126-4AB0
+3RU2126-4AC☐
+7,5
+14... 20
+50
+► ⁷⁾
+3RU2126-4BB☐
+3RU2126-4BC☐
+11
+17... 22
+63
+► ⁷⁾
+3RU2126-4CB☐
+3RU2126-4CC☐
+11
+20... 25
+63
+► ⁷⁾
+3RU2126-4DB☐
+3RU2126-4DC☐
+15
+23... 28
+63
+► ⁷⁾
+3RU2126-4NB☐
+3RU2126-4NC☐
+15
+27... 32
+80
+► ⁷⁾
+3RU2126-4EB☐
+3RU2126-4EC☐
+18,5
+30... 36
+80
+► ⁷⁾
+3RU2126-4PB☐
+3RU2126-4PC☐
+18,5
+34... 40
+80
+► ⁷⁾
+3RU2126-4FB☐
+3RU2126-4FC☐
+
+Complemento de la referencia
+• Para montaje en contactor
+0
+0
+• Para el montaje individual
+1
+1
+
+1) Usando los conectores de relés adecuados (ver "Accesorios"), los relés de sobrecarga 3RU11 para el montaje en contactor también podrán montarse de forma individual.
+2) Fijación por tornillos y por abroche en perfil TH 35.
+3) Los relés de sobrecarga 3RU21 para montaje en contactor pueden suministrarse también con terminal de cable en anillo. La 10ª posición de la referencia debe cambiarse a "J", p. ej. 3RU21 16-0AJ0.
+4) Obsérvese la corriente asignada de empleo máxima de los aparatos.
+5) Valor aproximado para motores normalizados de 4 polos a 60 Hz 400 V CA. Los criterios decisivos para la selección son los datos concretos de arranque y los datos asignados del motor a proteger.
+6) Máxima protección por fusible solo para relés de sobrecarga, tipo de coordinación "2".
+7) El tipo preferente 1 solo vale para los relés de sobrecarga 3RU21 .6-...0.
+
+Catálogo de baja tensión, control y distribución
+3/19

@@ -1,0 +1,120 @@
+Contactores de fuerza tripolares para maniobra de motores
+
+1
+
+Contactores SIRIUS 3RT20,
+de 3 polos, 3... 18,5 kW
+
+Datos para selección y pedidos
+Accionamiento CA
+
+3RT20 1.-1A...
+
+Datos asignados en la categoría de empleo
+Contactos auxiliares
+Tensión asignada de mando Us a 60 Hz
+PE
+Bornes de tornillo
+PE
+Bornes de resorte
+AC-2 y AC-3, Tu: hasta 60 °C
+AC-1, Tu: 40 °C
+N° caract.
+Versión
+Referencia
+Referencia
+Intensidad de empleo Ie hasta 400 V
+Potencias de motores trifásicos a 50/60 Hz y 400 V
+Intensidad de empleo Ie hasta 690 V
+NA
+NC
+V CA
+A
+kW
+A
+
+Para fijación por tornillos y por abroche en perfil TH 35
+Tamaño S001) 2)
+7
+3
+18
+10
+1
+—
+24
+3RT2015-1AB01
+3RT2015-2AB01
+110
+3RT2015-1AK61
+3RT2015-2AK61
+230
+3RT2015-1AN61
+3RT2015-2AP01
+440
+3RT2015-1AR61
+—
+
+9
+4
+22
+10
+1
+—
+24
+3RT2016-1AB01
+3RT2016-2AB01
+110
+3RT2016-1AK61
+3RT2016-2AK61
+230
+3RT2016-1AN61
+3RT2016-2AP01
+440
+3RT2016-1AR61
+—
+
+12
+5,5
+22
+10
+1
+—
+24
+3RT2017-1AB01
+3RT2017-2AB01
+110
+3RT2017-1AK61
+3RT2017-2AK61
+230
+3RT2017-1AN61
+3RT2017-2AP01
+440
+3RT2017-1AR61
+—
+
+16
+7,5
+22
+10
+1
+—
+24
+3RT2018-1AB01
+3RT2018-2AB01
+110
+3RT2018-1AK61
+3RT2018-2AK61
+230
+3RT2018-1AN61
+3RT2018-2AP01
+440
+3RT2018-1AR61
+—
+
+1) Los contactores 3RT20 pueden suministrarse también con terminal de cable en anillo. Para consultar sobre estas versiones especiales, póngase en contacto con el distribuidor de Siemens para su zona.
+2) Con el tamaño S00: Rango de trabajo de la bobina
+   a 50 Hz: 0,8 ... 1,1 × Us,
+   a 60 Hz: 0,85 ... 1,1 × Us.
+
+1/10
+Catálogo de baja tensión, control y distribución

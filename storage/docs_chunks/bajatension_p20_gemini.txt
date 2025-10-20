@@ -1,0 +1,180 @@
+Contactores de fuerza tripolares para maniobra de motores
+
+Contactores SIRIUS 3RT20,
+de 3 polos, 3... 250 kW
+
+1
+
+Accionamiento CA
+
+3RT204.-1A.00
+3RT204.-1A.04
+3RT204.-1CL24-3MA0
+3RT204.-3A.00
+
+Datos asignados en la categoría de empleo
+AC-2 y AC-3, Tᵤ: hasta 60 °C
+AC-1, Tᵤ: 40 °C
+Contactos auxiliares
+Tensión asignada de mando Uₛ
+PE
+Bornes de tornillo
+Bornes de resorte
+
+Intensidad de empleo Iₑ hasta 400 V
+Potencias de motores trifásicos a 50/60 Hz y 400 V
+Intensidad de empleo Iₑ hasta 690 V
+N° caract.
+Versión
+Referencia
+Referencia
+A
+kW
+A
+NA NC
+V CD
+
+Para fijación por tornillos y por abroche en perfil TH 35
+Tamaño S3
+
+80
+37
+125
+11
+1 1
+24
+1
+3RT2045-1AC20
+5
+3RT2045-3AC20
+110
+1
+3RT2045-1AG20
+5
+3RT2045-3AG20
+230
+1
+3RT2045-1AL20
+1
+3RT2045-3AL20
+440
+1
+3RT2045-1AR60
+—
+
+95
+45
+130
+11
+1 1
+24
+1
+3RT2046-1AC20
+5
+3RT20 46-3AC20
+110
+1
+3RT2046-1AG20
+5
+3RT2046-3AG20
+230
+1
+3RT2046-1AL20
+5
+3RT2046-3AL20
+440
+1
+3RT2046-1AR60
+—
+
+110
+55
+130
+11
+1 1
+24
+X
+3RT2047-1AC20
+X
+3RT2047-3AC20
+110
+X
+3RT2047-1AK60
+X
+3RT2047-3AK60
+230
+X
+3RT2047-1AL20
+X
+3RT2047-3AL20
+
+Con bloque de contactos montados permanentemente removibles
+
+80
+37
+125
+22
+2 2
+24
+5
+3RT2045-1AC24
+—
+110
+1
+3RT2045-1AG24
+—
+230
+1
+3RT2045-1AL24
+—
+
+95
+45
+130
+22
+2 2
+24
+5
+3RT2046-1AC24
+—
+110
+1
+3RT2046-1AG24
+—
+230
+1
+3RT2046-1AL24
+—
+
+Con bloque de contactos auxiliares montado permanentemente y varistor enchufada permanentemente a la parte delantera
+
+80
+37
+125
+22
+2 2
+230
+5
+3RT2045-1CL24-3MA0
+—
+95
+45
+130
+22
+2 2
+230
+5
+3RT2046-1CL24-3MA0
+—
+110
+55
+130
+22
+2 2
+230
+5
+3RT2047-1CL24-3MA0
+—
+
+Catálogo de baja tensión, control y distribución
+1/13

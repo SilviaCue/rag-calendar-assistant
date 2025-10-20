@@ -1,0 +1,74 @@
+Interruptores de límite 3SE5, 3SE2
+
+Datos generales
+
+Variantes de los accionamientos
+Todos los accionamientos pueden montarse girados en pasos de 22,5° alrededor del eje. Están disponibles los siguientes tipos de accionamiento:
+• Vástago sencillo, reforzado y de rodillo
+• Palanca sencilla y palanca acodada
+• Varilla flexible
+• Palanca de rodillo y de varilla con actuador de giro
+• Horquilla con actuador de giro
+
+Los cilindros de mando están disponibles en diversos materiales y con distintos diámetros.
+
+NSC0_00829
+
+Actuador de giro para palanca de rodillo y de varilla con ajuste de la dirección de maniobra a la derecha, izquierda o derecha/izquierda (estándar para todos los actuadores de giro, excepto horquillas).
+
+5
+
+Opciones
+En las siguientes páginas están expuestas las tablas de selección de los aparatos completos y componentes del sistema modular.
+
+    Aparatos completos
+    Sistema modular
+
+Las diferencias entre los aparatos están marcadas en los datos para selección y pedidos mediante los símbolos representados sobre trasfondo naranja.
+
+El sistema modular permite confeccionar variantes de interruptores que no se ofrecen como aparatos completos, y cada uno de los aparatos completos se puede suministrar igualmente por módulos individuales.
+
+Un interruptor básico para el sistema modular consiste en la caja con el bloque de contactos y la tapa. Los interruptores básicos ofrecen, entre otras, las siguientes versiones para elegir:
+• Caja básica con vástago de teflón
+• Versión con alta protección anticorrosión
+
+• Versión con dos LEDs
+• Versión con conector de aparato M12 o de 6 polos + PE
+• Versión con conector de aparato M12 y con dos LEDs
+
+Las cajas de plástico con 31 y 50 mm de ancho vienen con los interruptores básicos como aparatos completos con vástago reforzado (según la norma).
+
+Configurador online
+El configurador online no solo permite elegir y pedir el interruptor de posición adecuado, sino también crear la documentación completa del producto:
+• Hoja de datos del producto
+• Esquema de dimensiones
+• Diagrama de carreras de contactos
+• Datos CAD en imágenes de modelos 2D y 3D
+• Datos para pedidos
+• Foto del producto
+www.siemens.com/industrial-controls/configurators
+
+Aparatos completos
+Ejemplo de pedido
+
+Usted necesita:
+• Interruptor de posición según EN 50047 con caja de plástico
+• Bloque de contactos de acción normal 1 NA + 1 NC
+• Palanca acodada, palanca metálica y rodillo de plástico
+
+Usted debe pedir:
+
+Versión
+Aparatos completos
+Referencia
+
+Aparatos completos • Ancho de caja 31 mm
+    Palanca acodada
+    Con palanca metálica y
+    rodillo de plástico de 13 mm
+    Contactos de acción normal
+    1 NA + 1 NC
+    3SE5232-0BF10
+
+Catálogo de baja tensión, control y distribución
+5/5

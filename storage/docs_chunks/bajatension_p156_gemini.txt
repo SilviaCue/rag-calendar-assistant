@@ -1,0 +1,90 @@
+SIRIUS ACT Botones pulsadores y lámparas indicadoras
+Actuadores e indicadores 22 mm, plástico con anillo metálico, mate
+Unidades compactas
+Potenciómetros / Botones con carrera extendida
+
+Datos para selección y pedidos
+
+Versión de elemento actuador
+Principio de operación
+Resistencia ajustable
+SD
+Terminales tornillo
+Referencia
+kΩ
+d
+Potenciómetros
+Perilla rotatoria
+Sin pasos
+1
+►
+3SU1200-2PQ10-1AA0
+4.7
+►
+3SU1200-2PR10-1AA0
+10
+►
+3SU1200-2PS10-1AA0
+47
+►
+3SU1200-2PT10-1AA0
+100
+►
+3SU1200-2PU10-1AA0
+470
+►
+3SU1200-2PV10-1AA0
+
+3SU1200-2PQ10-1AA0
+
+Versión
+Color
+SD
+Referencia
+d
+Botones con prolongación de extensión
+Para usarse en conjunto con relés, debe ser combinado con émbolo prolongador, no se requiere bloque de contactos o módulo LED
+Botones razantes
+Rojo
+5
+3SU1230-0EB20-0AA0
+Verde
+5
+3SU1230-0EB40-0AA0
+
+3SU1230-0EB40-0AA0
+6
+Botones salientes
+Negro
+3
+3SU1230-0FB10-0AA0
+
+3SU1230-0FB10-0AA0
+
+Botones con botón plano transparente para inserción de etiquetas
+Rojo
+3
+3SU1231-0EB20-0AA0
+Transparente
+3
+3SU1231-0EB70-0AA0
+
+3SU1231-0EB20-0AA0
+
+Versión
+Material
+Color
+SD
+Referencia
+d
+Accesorios
+Émbolo prolongador
+Para compensación de la distancia entre el botón y el botón de reset de un relé de sobre carga
+Plástico
+Gris
+3SU1900-0KG10-0AA0
+
+3SU1900-0KG10-0AA0
+
+Catálogo de baja tensión, control y distribución
+6/33

@@ -1,0 +1,54 @@
+Accesorios y partes de repuestos
+
+Contactores Clase 40 y 43
+Arrancadores Clase 14, 22 y 15
+
+Datos para selección y pedidos
+
+Kit de contactos principales
+
+Tamaño Nema Número de polos del Kit de contactos Referencia
+Contacto auxiliar interno (00 - 1¾)
+00 1 75AF14
+0 1 75BF14
+1 1 75CF14
+1¾ 1 75DF14
+2 1 75EF14
+2½ 1 75FP14
+3 1 75GP14
+3½ 1 75HF14
+4 1 75IF14
+4 (En vacío) 3 3RT1964-6V
+5 3 3RT1966-6A
+5 (En vacío) 3 3RT1966-6V
+6 3 3RT1976-6A
+6 (En vacío) 3 3RT1976-6V
+7 3 49ZL750
+8 3 49ZL1650
+
+7
+
+Contactos auxiliares
+
+Tamaño NEMA Descripción Contactos Auxiliares Modelo
+00-4 Contactos auxiliares laterales 1 NA US2:49AB10
+Contactos auxiliares laterales 1 NC US2:49AB01
+Contactos auxiliares laterales 4 NA US2:49AB40
+Contactos auxiliares laterales 1 NA + 1 NC US2:49AB11
+Contactos auxiliares laterales 2 NA + 2 NC US2:49AB22
+Contactos auxiliar con restraso para bobina corriente directa — US2:49AB01LB
+5-6 Contactos auxiliares laterales 1 NA + 1 NC 3RH19211DA11
+Contactos auxiliares laterales 2 NA 3RH1921-1EA20
+Contactos auxiliares laterales 2 NC 3RH1921-1EA02
+7, 8 Contactos auxiliares laterales 1 NA + 1 NC US2:49CAL18-11
+
+Bobinas de corriente directa
+
+Tamaño NEMA Tensión Nominal Modelo
+00 - 2 1/2 24 V CD US2:75D73070S
+125 V CD US2:75D73070V
+3 - 3 1/2 24 V CD US2:75D73251S
+125 V CD US2:75D73251V
+4 125 V CD US2:75D70131V
+
+7/20 Catálogo de baja tensión, control y distribución
