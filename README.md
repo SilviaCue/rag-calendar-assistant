@@ -1,4 +1,4 @@
-# Calendar Asistent  
+# Calendar Assistent  
 ### Asistente inteligente para gestión de calendario con FastAPI y Gemini
 
 Este proyecto implementa un **asistente de calendario inteligente** que permite **consultar y crear eventos en Google Calendar** mediante **lenguaje natural**, utilizando **FastAPI** como backend y **Gemini 1.5 Pro** para interpretar las peticiones del usuario.

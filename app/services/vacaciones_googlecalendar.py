@@ -6,6 +6,7 @@ from app.config.secret_keys import SecretKeys
 # URL del script de Google Apps para obtener eventos en formato JSON
 keys = SecretKeys()
 CALENDAR_POST_URL = keys.calendar_post_url
+CALENDAR_JSON_URL = keys.calendar_json_url
 
 #AKfycbzliMNV1Sz7zp844nRFz_KHy4yLkRAob6w_B4jCBOUT8BcbV5h7HDuuxzW9Uee8tu7wxw
 # Función para obtener periodos de eventos desde Google Calendar
