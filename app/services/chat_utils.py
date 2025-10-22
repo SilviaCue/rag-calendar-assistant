@@ -1,6 +1,7 @@
 from datetime import datetime, timedelta
 import calendar
 
+
 # Contar días laborables entre dos fechas, excluyendo fines de semana
 def contar_laborables(inicio: datetime.date, fin: datetime.date) -> int:
     dias_laborables = 0

@@ -5,12 +5,9 @@ python-multipart
 pymupdf
 google-generativeai
 sentence-transformers
-faiss-cpu
 openai
 pytesseract 
 pillow
 python-docx
-pandas
-openpyxl
 python-dateutil
 odfpy

@@ -3,14 +3,10 @@ load_dotenv()
 
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-
 # Importar los routers
-from app.routers import upload, chat, download, upload_one, upload_multiple #<-- Aquí cargas todos los routers que tienes
-
+from app.routers import  chat 
 # Gemini config
 from app.config.genai_client import configure_genai
-
-from fastapi.middleware.cors import CORSMiddleware
 
 
 
@@ -32,11 +28,7 @@ app.add_middleware(
 )
 
 # Incluir routers
-app.include_router(upload.router)
 app.include_router(chat.router)
-app.include_router(download.router)
-app.include_router(upload_one.router)
-app.include_router(upload_multiple.router)
 
 
 
