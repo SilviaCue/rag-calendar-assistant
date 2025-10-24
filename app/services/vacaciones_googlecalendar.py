@@ -15,10 +15,10 @@ def obtener_periodos_evento(nombre_buscado, tipo_evento="vacaciones", anio=2025)
         response = requests.get(CALENDAR_JSON_URL, params={'anio': anio})
         response.raise_for_status()
         datos = response.json()
-# Buscar eventos para el nombre especificado
+        # Buscar eventos para el nombre especificado
         nombre_buscado = nombre_buscado.strip().lower()
         resumen = []
-# Manejo especial para "todos" en ciertos tipos de eventos
+        # Manejo especial para "todos" en ciertos tipos de eventos
         if nombre_buscado == "todos" and tipo_evento in ["reuniones", "entregas", "sprints", "festivos"]:
             for categorias in datos.values():
                 for evento in categorias.get(tipo_evento, []):
@@ -44,9 +44,12 @@ def obtener_periodos_evento(nombre_buscado, tipo_evento="vacaciones", anio=2025)
                         duracion = (fecha_fin_raw - fecha_inicio_raw).days + 1
                         resumen.append((fecha_inicio_raw, fecha_fin_raw, duracion, titulo, descripcion))
                     else:
+                        # PARCHE MÍNIMO: ampliar el umbral para corregir -1 día (añadimos 00:00 y 01:00)
                         if fecha_inicio_raw.time() in [
                             datetime.strptime("22:00:00", "%H:%M:%S").time(),
                             datetime.strptime("23:00:00", "%H:%M:%S").time(),
+                            datetime.strptime("00:00:00", "%H:%M:%S").time(),
+                            datetime.strptime("01:00:00", "%H:%M:%S").time(),
                         ]:
                             fecha_inicio = (fecha_inicio_raw + timedelta(days=1)).date()
                         else:
@@ -55,6 +58,8 @@ def obtener_periodos_evento(nombre_buscado, tipo_evento="vacaciones", anio=2025)
                         if fecha_fin_raw.time() in [
                             datetime.strptime("22:00:00", "%H:%M:%S").time(),
                             datetime.strptime("23:00:00", "%H:%M:%S").time(),
+                            datetime.strptime("00:00:00", "%H:%M:%S").time(),
+                            datetime.strptime("01:00:00", "%H:%M:%S").time(),
                         ]:
                             fecha_fin = (fecha_fin_raw + timedelta(days=1)).date()
                         else:

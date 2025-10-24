@@ -12,6 +12,7 @@ def contar_laborables(inicio: datetime.date, fin: datetime.date) -> int:
         dia += timedelta(days=1)
     return dias_laborables
 
+
 # Filtrar eventos que ocurren en un mes específico
 def filtrar_por_mes(resumen_dias, mes):
     resultado = []
@@ -20,6 +21,7 @@ def filtrar_por_mes(resumen_dias, mes):
         if inicio.month == mes or fin.month == mes:
             resultado.append(evento)
     return resultado
+
 
 # Función principal para generar respuestas usando IA (Gemini/OpenAI)
 def responder_con_gemini(nombre: str, resumen_dias: list, generator, tipo_evento="vacaciones", anio=2025, mes=None, semana=None, dia=None):
@@ -40,6 +42,7 @@ def responder_con_gemini(nombre: str, resumen_dias: list, generator, tipo_evento
     # Filtrar por mes si se especifica
     if mes:
         resumen_dias = sorted(filtrar_por_mes(resumen_dias, mes), key=lambda x: x[0])
+
     # Filtrar por semana o día si se especifica
     if not resumen_dias:
         if semana:
@@ -51,9 +54,8 @@ def responder_con_gemini(nombre: str, resumen_dias: list, generator, tipo_evento
             detalles = [f"No hay {tipo_evento} programadas para el mes de {mes_nombre} del año {anio}."]
         else:
             detalles = [f"No hay {tipo_evento} registrados para {nombre.capitalize()} en el año {anio}."]
-        # Generar prompt para respuesta negativa
+
         contexto = "\n".join(detalles)
-        # Crear la pregunta
         pregunta = f"¿Qué {tipo_evento} ha tenido {nombre.title()} en {anio} y en qué fechas?"
         prompt = f"""
 Contexto:
@@ -67,17 +69,19 @@ Pregunta:
 {pregunta}
 """
         return generator.generate(prompt.strip())
-    #detallar eventos
+
+    # Detallar eventos
     detalles = []
-    # Contador de días laborables para vacaciones
     total_laborables = 0
-        # Procesar cada evento
+
+    # Procesar cada evento
     for evento in resumen_dias:
         inicio, fin, duracion, *extra = evento
-        #tipo de evento específico
+
+        # Tipo de evento específico
         if tipo_evento == "reuniones":
             titulo = extra[0] if len(extra) > 0 else "Sin título"
-            hora_local = (inicio + timedelta(hours=2)).strftime('%H:%M')  # Ajuste de UTC a GMT+2
+            hora_local = inicio.strftime('%H:%M')
             detalles.append(f"- El {inicio.strftime('%d de %B de %Y')} a las {hora_local} ({titulo})")
 
         elif tipo_evento == "entregas":
@@ -87,26 +91,42 @@ Pregunta:
                 detalles.append(f"La próxima entrega es el {fecha_entrega} ({titulo}).")
             else:
                 detalles.append(f"- {fecha_entrega} ({titulo})")
-        
+
         elif tipo_evento == "sprints":
             titulo = extra[0] if len(extra) > 0 else "Sprint"
-            fecha_sprint = inicio.strftime('%d de %B de %Y')
-            if len(resumen_dias) == 1:
-                detalles.append(f"El próximo sprint es el {fecha_sprint} ({titulo}).")
-            else:
-                detalles.append(f"- {fecha_sprint} ({titulo})")
+            ini = inicio.date() if isinstance(inicio, datetime) else inicio
+            fin_ = fin.date() if isinstance(fin, datetime) else fin
 
+            if mes:
+                first = datetime(anio, mes, 1).date()
+                last = datetime(anio, mes, calendar.monthrange(anio, mes)[1]).date()
+                if fin_ < first or ini > last:
+                    continue
+                ini = max(ini, first)
+                fin_ = min(fin_, last)
+
+            if len(resumen_dias) == 1:
+                detalles.append(f"El sprint va del {ini.strftime('%d/%m/%Y')} al {fin_.strftime('%d/%m/%Y')} ({titulo}).")
+            else:
+                detalles.append(f"- Del {ini.strftime('%d/%m/%Y')} al {fin_.strftime('%d/%m/%Y')} ({titulo})")
 
         elif tipo_evento == "festivos":
             titulo = extra[0] if len(extra) > 0 else "Festivo"
             detalles.append(f"- {inicio.strftime('%d/%m/%Y')} ({titulo})")
+
         else:
             laborables = contar_laborables(inicio, fin)
             total_laborables += laborables
             detalles.append(f"- Del {inicio.strftime('%d/%m/%Y')} al {fin.strftime('%d/%m/%Y')} ({laborables} días laborables)")
-        # Resumen total para vacaciones
-    contexto = f"{nombre.title()} ha tenido {tipo_evento} en los siguientes periodos de {anio}:\n" + "\n".join(detalles)
-        # Añadir total de días laborables si es vacaciones
+
+    # Resumen total adaptado al mes si aplica
+    if mes:
+        mes_nombre = calendar.month_name[mes]
+        contexto = f"{nombre.title()} ha tenido {tipo_evento} en los siguientes periodos de {mes_nombre} de {anio}:\n" + "\n".join(detalles)
+    else:
+        contexto = f"{nombre.title()} ha tenido {tipo_evento} en los siguientes periodos de {anio}:\n" + "\n".join(detalles)
+
+    # Pregunta final
     if mes:
         mes_nombre = calendar.month_name[mes]
         pregunta = f"¿Qué {tipo_evento} ha tenido {nombre.title()} en {mes_nombre} de {anio} y en qué fechas?"
@@ -134,11 +154,11 @@ Actualmente no tiene más vacaciones registradas para este año."
 
 Ejemplo para reuniones:
 "En julio de 2025 se han registrado las siguientes reuniones:
-- 3 de julio a las 12:00 con IGEAR.
+- 3 de julio a las 12:00 con Daniel.
 - 15 de julio a las 13:00 con Pepito.
 Reuniones pendientes:
-- Hoy a las 11:00 con el Gobierno de Aragón.
-- 20 de julio a las 10:00 con el Gobierno de Aragón.
+- Hoy a las 11:00 con La empresa Goiko.
+- 20 de julio a las 10:00 con Dirección.
 Importante: Si no hay reuniones, responde no hay ninguna reunión programada"
 
 Ejemplo para festivos:
@@ -155,7 +175,7 @@ Actualmente, no hay más entregas programadas para este año."
 
 Ejemplo para sprints:
 "En 2025 se han registrado los siguientes sprints:
-- 12 de junio de 2025 (Sprint 2: Preparación Cartografía).
+- 12 de junio de 2025 (Sprint 2: Preparación Flujo).
 - 15 de julio de 2025 (Sprint 3: Validación Datos).
 Actualmente no hay más sprints programados para este año."
 
@@ -165,5 +185,4 @@ Si solo hay una entrega futura:
 Pregunta:
 {pregunta}
 """
-# Generar la respuesta usando el generador de IA
     return generator.generate(prompt.strip())

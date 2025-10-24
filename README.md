@@ -118,3 +118,5 @@ Las notificaciones por email se envían desde Apps Script asociado.
 Gemini es el modelo activo (OpenAI no está en uso).
 
 Configuración simple y centralizada en secret_keys.json.
+
+Para ejecutar streamlit:  streamlit run app/app_streamlit.py

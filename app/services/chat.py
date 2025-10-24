@@ -120,7 +120,7 @@ class ChatRAG:
                             if self.pending_event.get("invitados_validos"):
                                 return (
                                     "¿Lo creo e invito ya?\n"
-                                    "Por favor confirma que quieres crear el evento."
+                                    "Por favor, confirma que puedo crear el evento."
                                 )
                             return (
                                 "¿Lo creo ya?\n"
@@ -206,7 +206,7 @@ class ChatRAG:
             es_intencion_crear = any(
                 pal in pregunta_lower for pal in [
                     "crear", "añadir", "añade", "crea", "quiero", "me gustaria", "me gustaría",
-                    "pon", "poner", "agenda", "agendar", "programa", "programar"
+                    "pon", "ponme","poner", "agenda", "agendar", "programa", "programar"
                 ]
             )
             # Guarda la pregunta original tal cual
